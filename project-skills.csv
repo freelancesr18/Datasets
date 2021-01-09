@@ -1,0 +1,5062 @@
+﻿Project_Code,Skill,Emp_ID_Count,Date
+047B,.Net,1,8/24/2020
+008A,Datastage,2,8/24/2020
+008A,Manual Testing,1,8/24/2020
+008A,Netezza,1,8/24/2020
+05A,.Net,1,8/24/2020
+05A,AWS,1,8/24/2020
+05A,Database Technologies,1,8/24/2020
+05A,Database Testing,4,8/24/2020
+05A,DataModeler,1,8/24/2020
+05A,Datastage,1,8/24/2020
+05A,Business Analyst,1,8/24/2020
+05A,Java,1,8/24/2020
+05A,JS_HTML_CSS_Java,2,8/24/2020
+05A,Manual Testing,4,8/24/2020
+05A,Salesforce Cloud,1,8/24/2020
+05A,Security Testing,1,8/24/2020
+05A,SSIS,3,8/24/2020
+05A,Tableau,1,8/24/2020
+01B,PS-Java,1,8/24/2020
+001A,Mirth,1,8/24/2020
+001B,HL7,1,8/24/2020
+001B,Sales,1,8/24/2020
+01A,Database Technologies,1,8/24/2020
+01A,Datastage,2,8/24/2020
+01A,Business Analyst,1,8/24/2020
+01A,Manual Testing,1,8/24/2020
+01A,SSIS,1,8/24/2020
+01B,Others,1,8/24/2020
+01C,Business Analyst,1,8/24/2020
+02A,.Net,4,8/24/2020
+02A,Java,1,8/24/2020
+02A,Manual Testing,1,8/24/2020
+02A,Performance Testing,1,8/24/2020
+02A,Salesforce Cloud,1,8/24/2020
+02A,UX,2,8/24/2020
+02B,.Net,1,8/24/2020
+02B,Business Analyst,1,8/24/2020
+02C,.Net,1,8/24/2020
+03B,Azure,1,8/24/2020
+001,.Net,7,8/24/2020
+001,Manual Testing,1,8/24/2020
+001,Sales,1,8/24/2020
+001,.Net,4,8/24/2020
+001,Manual Testing,2,8/24/2020
+001,Technical Management,1,8/24/2020
+002,.Net,1,8/24/2020
+002,SQL Server DBA,1,8/24/2020
+01A,.Net,20,8/24/2020
+01A,Automation Testing,2,8/24/2020
+01A,AWS,1,8/24/2020
+01A,Database Testing,1,8/24/2020
+01A,Business Analyst,1,8/24/2020
+01A,Java,2,8/24/2020
+01A,JS_HTML_CSS_.Net,9,8/24/2020
+01A,Manual Testing,22,8/24/2020
+01A,Mirth,1,8/24/2020
+01A,Sales,1,8/24/2020
+01A,Selenium,2,8/24/2020
+01A,Selenium .NET,6,8/24/2020
+01A,Selenium Java,3,8/24/2020
+01B,Automation Testing,1,8/24/2020
+01B,Manual Testing,3,8/24/2020
+01C,Manual Testing,3,8/24/2020
+01D,Technical Management,1,8/24/2020
+02A,.Net,3,8/24/2020
+02A,Automation Testing,1,8/24/2020
+02A,JS_HTML_CSS_.Net,5,8/24/2020
+02A,Selenium .NET,2,8/24/2020
+02A,Selenium Java,1,8/24/2020
+03A,Sales,1,8/24/2020
+03A,Selenium .NET,1,8/24/2020
+04A,Data Science,1,8/24/2020
+04A,Database Testing,1,8/24/2020
+04A,Hadoop,1,8/24/2020
+04A,Business Analyst,1,8/24/2020
+04A,Java,1,8/24/2020
+04A,PowerBI,1,8/24/2020
+04A,SQL,1,8/24/2020
+04A,SSAS,1,8/24/2020
+04A,SSIS,1,8/24/2020
+04A,SSRS,1,8/24/2020
+05A,Datastage,1,8/24/2020
+05A,Database Technologies,1,8/24/2020
+05A,Database Testing,1,8/24/2020
+05A,Java,1,8/24/2020
+05A,SSIS,3,8/24/2020
+05A,SSRS,1,8/24/2020
+05A,UX,1,8/24/2020
+06A,Business Analyst,1,8/24/2020
+07A,.Net,3,8/24/2020
+07A,HL7,2,8/24/2020
+07A,Java,5,8/24/2020
+07A,Mirth,1,8/24/2020
+07A,Sales,1,8/24/2020
+08A,Manual Testing,2,8/24/2020
+08A,Selenium,1,8/24/2020
+09A,.Net,2,8/24/2020
+09A,Java,1,8/24/2020
+09A,Manual Testing,2,8/24/2020
+10A,.Net,8,8/24/2020
+10A,Java,1,8/24/2020
+10A,JS_HTML_CSS_.Net,1,8/24/2020
+10A,Manual Testing,5,8/24/2020
+11A,.Net,8,8/24/2020
+11A,Automation Testing,1,8/24/2020
+11A,Java,1,8/24/2020
+11A,Manual Testing,4,8/24/2020
+11A,Selenium .NET,1,8/24/2020
+12A,.Net,1,8/24/2020
+12A,AWS,1,8/24/2020
+12A,Business Analyst,1,8/24/2020
+12A,Java,4,8/24/2020
+12A,Manual Testing,5,8/24/2020
+12A,Mirth,1,8/24/2020
+12A,PHP,1,8/24/2020
+13A,.Net,6,8/24/2020
+13A,Database Testing,1,8/24/2020
+13A,Business Analyst,1,8/24/2020
+13A,JS_HTML_CSS_.Net,1,8/24/2020
+13A,Manual Testing,3,8/24/2020
+13A,Selenium .NET,1,8/24/2020
+14A,.Net,1,8/24/2020
+14A,JS_HTML_CSS_.Net,1,8/24/2020
+14A,Manual Testing,1,8/24/2020
+15A,.Net,1,8/24/2020
+15A,Java,1,8/24/2020
+15A,JS_HTML_CSS_.Net,1,8/24/2020
+15A,Manual Testing,5,8/24/2020
+15A,Sales,1,8/24/2020
+15A,Selenium,2,8/24/2020
+15A,Selenium .NET,3,8/24/2020
+15A,Selenium Java,1,8/24/2020
+19A,AWS,1,8/24/2020
+19A,Business Analyst,1,8/24/2020
+19A,Java,2,8/24/2020
+19A,Manual Testing,5,8/24/2020
+19A,Mirth,1,8/24/2020
+19A,PHP,2,8/24/2020
+20A,.Net,1,8/24/2020
+20A,HL7,1,8/24/2020
+20A,JS_HTML_CSS_.Net,1,8/24/2020
+20A,Sales,1,8/24/2020
+21A,Java,1,8/24/2020
+21A,Mirth,1,8/24/2020
+22A,.Net,2,8/24/2020
+22A,JS_HTML_CSS_.Net,1,8/24/2020
+22A,Manual Testing,4,8/24/2020
+23A,.Net,4,8/24/2020
+23A,JS_HTML_CSS_.Net,2,8/24/2020
+23A,Manual Testing,4,8/24/2020
+23A,Sales,1,8/24/2020
+23A,Selenium .NET,4,8/24/2020
+23A,Selenium Java,3,8/24/2020
+24A,.Net,6,8/24/2020
+24A,Automation Testing,1,8/24/2020
+24A,Manual Testing,3,8/24/2020
+24A,Selenium,1,8/24/2020
+24A,Selenium .NET,2,8/24/2020
+24A,Selenium Java,1,8/24/2020
+25A,.Net,6,8/24/2020
+25A,Manual Testing,4,8/24/2020
+25A,Selenium .NET,1,8/24/2020
+25A,Selenium Java,1,8/24/2020
+26A,.Net,4,8/24/2020
+26A,Database Testing,1,8/24/2020
+26A,Manual Testing,2,8/24/2020
+26A,Selenium .NET,1,8/24/2020
+26A,Selenium Java,1,8/24/2020
+27A,Database Technologies,1,8/24/2020
+27A,Database Testing,3,8/24/2020
+27A,Java,1,8/24/2020
+27A,SSIS,1,8/24/2020
+27A,SSRS,1,8/24/2020
+28A,Business Analyst,1,8/24/2020
+29A,.Net,1,8/24/2020
+29A,Cold Fusion,1,8/24/2020
+29A,JS_HTML_CSS_.Net,1,8/24/2020
+29A,Manual Testing,1,8/24/2020
+29A,Oracle DBA,1,8/24/2020
+29A,Oracle forms,1,8/24/2020
+29A,PHP,1,8/24/2020
+29A,PowerBI,1,8/24/2020
+29A,Tableau,3,8/24/2020
+01A,.Net,3,8/24/2020
+01A,AWS,3,8/24/2020
+01A,Azure,2,8/24/2020
+01A,Business Analyst,1,8/24/2020
+01A,Java,3,8/24/2020
+01A,Others,1,8/24/2020
+01A,Selenium Java,1,8/24/2020
+01B,Data Science,1,8/24/2020
+01B,Business Analyst,1,8/24/2020
+02A,.Net,1,8/24/2020
+02A,AWS,2,8/24/2020
+02A,DevOps,2,8/24/2020
+02A,Manual Testing,1,8/24/2020
+02A,Security Testing,1,8/24/2020
+02B,Java,1,8/24/2020
+03A,AWS,2,8/24/2020
+03A,AWS DevOps,1,8/24/2020
+03A,DevOps,1,8/24/2020
+03A,Others,1,8/24/2020
+03B,Business Analyst,1,8/24/2020
+03B,JS_HTML_CSS_.Net,1,8/24/2020
+04A,.Net,1,8/24/2020
+04A,Azure,1,8/24/2020
+04A,Selenium Java,1,8/24/2020
+04B,Data Science,1,8/24/2020
+05A,Security Testing,1,8/24/2020
+001A,C++,7,8/24/2020
+001A,Hadoop,1,8/24/2020
+001A,HL7,1,8/24/2020
+001A,Java,2,8/24/2020
+001A,JS_HTML_CSS_Java,2,8/24/2020
+001A,Manual Testing,2,8/24/2020
+001A,Selenium,1,8/24/2020
+001B,.Net,1,8/24/2020
+001B,C++,1,8/24/2020
+001B,JS_HTML_CSS_Java,1,8/24/2020
+001B,Manual Testing,3,8/24/2020
+001B,Selenium .NET,1,8/24/2020
+002A,.Net,1,8/24/2020
+002A,C++,2,8/24/2020
+002A,Database Testing,1,8/24/2020
+002A,Fullstack Java,1,8/24/2020
+002A,HL7,2,8/24/2020
+002A,IOS,1,8/24/2020
+002A,JS_HTML_CSS_.Net,1,8/24/2020
+002A,JS_HTML_CSS_Java,1,8/24/2020
+002A,Manual Testing,3,8/24/2020
+002A,Mirth,1,8/24/2020
+002C,HL7,1,8/24/2020
+02B,HL7,2,8/24/2020
+02B,Java,3,8/24/2020
+02B,JS_HTML_CSS_Java,2,8/24/2020
+04A,HL7,4,8/24/2020
+04A,Mirth,1,8/24/2020
+05A,Selenium,1,8/24/2020
+05A,Selenium Java,1,8/24/2020
+06A,Java,7,8/24/2020
+06A,JS_HTML_CSS_.Net,1,8/24/2020
+06A,JS_HTML_CSS_Java,2,8/24/2020
+06A,Mirth,1,8/24/2020
+06A,PHP,2,8/24/2020
+07A,PHP,2,8/24/2020
+001A,Azure,1,8/24/2020
+001A,DevOps,1,8/24/2020
+001A,Fresher,4,8/24/2020
+001A,HL7,72,8/24/2020
+001A,Java,6,8/24/2020
+001A,JS_HTML_CSS_Java,3,8/24/2020
+001A,Manual Testing,2,8/24/2020
+001A,Mirth,1,8/24/2020
+001A,Others,2,8/24/2020
+001A,SQL,3,8/24/2020
+001A,Technical Management,1,8/24/2020
+002A,.Net,6,8/24/2020
+002A,Database Technologies,1,8/24/2020
+002A,Database Technologies,1,8/24/2020
+002A,Business Analyst,13,8/24/2020
+002A,Java,1,8/24/2020
+002A,JS_HTML_CSS_Java,3,8/24/2020
+002A,Others,1,8/24/2020
+002A,Perl,79,8/24/2020
+002A,PL SQL,1,8/24/2020
+002A,SQL,1,8/24/2020
+002B,Datastage,1,8/24/2020
+002B,Systems and Networking,1,8/24/2020
+003A,HL7,1,8/24/2020
+003A,Linux,1,8/24/2020
+004A,Java,6,8/24/2020
+004A,Manual Testing,2,8/24/2020
+004A,Selenium Java,3,8/24/2020
+005A,.Net,1,8/24/2020
+005A,C++,1,8/24/2020
+005A,Fullstack Java,1,8/24/2020
+005A,Java,2,8/24/2020
+005A,Selenium .NET,1,8/24/2020
+005A,Selenium Java,1,8/24/2020
+006A,DevOps,1,8/24/2020
+006A,Java,1,8/24/2020
+006A,SSIS,1,8/24/2020
+007B,Automation Testing,1,8/24/2020
+007B,Java,1,8/24/2020
+008A,Fullstack Java,2,8/24/2020
+008A,Java,5,8/24/2020
+008A,JS_HTML_CSS_Java,2,8/24/2020
+008A,Mobile Applications,1,8/24/2020
+008A,Selenium Java,1,8/24/2020
+008B,Automation Testing,1,8/24/2020
+009A,AWS,1,8/24/2020
+009A,Database Technologies,2,8/24/2020
+009A,Datastage,1,8/24/2020
+009A,Java,4,8/24/2020
+009A,Perl,3,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,Java,1,8/24/2020
+001A,Technical Management,1,8/24/2020
+001A,Technical Writing,1,8/24/2020
+001B,Technical Management,1,8/24/2020
+01A,Cognos,1,8/24/2020
+01A,Datastage,3,8/24/2020
+01A,Cognos,1,8/24/2020
+01A,Database Technologies,2,8/24/2020
+01A,Database Testing,1,8/24/2020
+01A,Hadoop,3,8/24/2020
+01A,Business Analyst,5,8/24/2020
+01A,HL7,1,8/24/2020
+01A,Java,3,8/24/2020
+01A,Manual Testing,4,8/24/2020
+01A,SSAS,3,8/24/2020
+01A,SSIS,6,8/24/2020
+01B,Business Analyst,1,8/24/2020
+01B,Java,1,8/24/2020
+01B,SSIS,1,8/24/2020
+01B,Technical Management,1,8/24/2020
+06A,Cognos,1,8/24/2020
+06A,Database Testing,1,8/24/2020
+06A,Hadoop,1,8/24/2020
+06B,.Net,1,8/24/2020
+01A,Java,2,8/24/2020
+01B,Business Analyst,1,8/24/2020
+001,Call-Center,15,8/24/2020
+001,Data Entry,1,8/24/2020
+001,HL7,2,8/24/2020
+001,Manual Testing,2,8/24/2020
+001,Recruitment,1,8/24/2020
+001,Sales,2,8/24/2020
+001,SSRS,1,8/24/2020
+001A,.Net,1,8/24/2020
+001A,Database Technologies,1,8/24/2020
+001A,Datastage,1,8/24/2020
+001A,Cognos,1,8/24/2020
+001A,Database Testing,3,8/24/2020
+001A,Datastage,6,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,HL7,1,8/24/2020
+001A,JS_HTML_CSS_Java,1,8/24/2020
+001A,Manual Testing,4,8/24/2020
+001A,SSIS,2,8/24/2020
+001B,Business Analyst,1,8/24/2020
+001B,Others,2,8/24/2020
+001C,Datastage,1,8/24/2020
+001C,Business Analyst,1,8/24/2020
+001C,JS_HTML_CSS_Java,1,8/24/2020
+003A,DataModeler,1,8/24/2020
+003B,Business Analyst,1,8/24/2020
+003B,Others,1,8/24/2020
+003C,DataModeler,1,8/24/2020
+004A,Cognos,1,8/24/2020
+004A,Database Technologies,1,8/24/2020
+004A,Database Testing,2,8/24/2020
+004A,Datastage,2,8/24/2020
+004A,SSIS,2,8/24/2020
+004A,Technical Management,1,8/24/2020
+005A,Datastage,2,8/24/2020
+005B,Informatica,1,8/24/2020
+006A,Database Technologies,1,8/24/2020
+006A,Database Testing,2,8/24/2020
+006A,Manual Testing,2,8/24/2020
+006A,Netezza,1,8/24/2020
+006A,SSIS,4,8/24/2020
+006B,SSIS,1,8/24/2020
+008A,Database Testing,3,8/24/2020
+008A,Datastage,2,8/24/2020
+008A,Fullstack .NET,1,8/24/2020
+008A,Fullstack Java,1,8/24/2020
+008A,Business Analyst,1,8/24/2020
+008A,Informatica,1,8/24/2020
+008A,Java,1,8/24/2020
+008A,JS_HTML_CSS_.Net,1,8/24/2020
+008A,Manual Testing,1,8/24/2020
+008A,Oracle Fusion middleware,2,8/24/2020
+008A,Others,2,8/24/2020
+008A,Performance Testing,1,8/24/2020
+008A,Spotfire,1,8/24/2020
+008A,SQL,1,8/24/2020
+008A,SSIS,1,8/24/2020
+008B,Cognos,1,8/24/2020
+008B,SSIS,2,8/24/2020
+009A,Database Testing,4,8/24/2020
+009A,Datastage,2,8/24/2020
+009A,Netezza,2,8/24/2020
+009A,Performance Testing,1,8/24/2020
+009A,SQL,1,8/24/2020
+009A,SSIS,2,8/24/2020
+009A,Tableau,1,8/24/2020
+009B,Cognos,1,8/24/2020
+009B,SSIS,1,8/24/2020
+010A,Database Testing,2,8/24/2020
+010A,Datastage,1,8/24/2020
+010A,Informatica,1,8/24/2020
+010A,Manual Testing,1,8/24/2020
+010A,Netezza,1,8/24/2020
+010A,SSIS,1,8/24/2020
+010B,Business Analyst,1,8/24/2020
+011A,Database Testing,1,8/24/2020
+011A,Datastage,1,8/24/2020
+011B,Database Testing,1,8/24/2020
+011B,SSIS,1,8/24/2020
+13A,Cognos,2,8/24/2020
+13A,Database Testing,5,8/24/2020
+13A,DataModeler,1,8/24/2020
+13A,Netezza,5,8/24/2020
+13A,SSIS,1,8/24/2020
+13B,SSIS,2,8/24/2020
+14A,Cognos,2,8/24/2020
+14A,Database Testing,2,8/24/2020
+14A,Datastage,2,8/24/2020
+14A,Netezza,4,8/24/2020
+14A,Performance Testing,1,8/24/2020
+14B,SSIS,1,8/24/2020
+15A,Database Testing,2,8/24/2020
+15A,Datastage,3,8/24/2020
+15A,Netezza,2,8/24/2020
+01A,.Net,1,8/24/2020
+01A,Automation Testing,2,8/24/2020
+01A,AWS,1,8/24/2020
+01A,C++,2,8/24/2020
+01A,Business Analyst,5,8/24/2020
+01A,JS_HTML_CSS_.Net,1,8/24/2020
+01A,JS_HTML_CSS_Java,1,8/24/2020
+01A,Manual Testing,13,8/24/2020
+01A,Performance Testing,7,8/24/2020
+01A,Selenium,3,8/24/2020
+01A,Selenium .NET,3,8/24/2020
+01A,Selenium Java,24,8/24/2020
+01B,Business Analyst,1,8/24/2020
+01B,Selenium Java,1,8/24/2020
+02A,.Net,2,8/24/2020
+02A,Automation Testing,3,8/24/2020
+02A,AWS,1,8/24/2020
+02A,Azure,1,8/24/2020
+02A,C++,2,8/24/2020
+02A,Business Analyst,1,8/24/2020
+02A,IOS,1,8/24/2020
+02A,JS_HTML_CSS_.Net,1,8/24/2020
+02A,Manual Testing,7,8/24/2020
+02A,Performance Testing,4,8/24/2020
+02A,Selenium .NET,2,8/24/2020
+02A,Selenium Java,13,8/24/2020
+01A,Automation Testing,1,8/24/2020
+01A,Fullstack Java,1,8/24/2020
+01A,Java,14,8/24/2020
+01A,Manual Testing,2,8/24/2020
+01A,Sales,1,8/24/2020
+01A,Selenium,2,8/24/2020
+01A,Selenium Java,6,8/24/2020
+01B,Automation Testing,2,8/24/2020
+01B,Fullstack Java,1,8/24/2020
+01B,Java,7,8/24/2020
+01B,Manual Testing,2,8/24/2020
+01B,Selenium .NET,1,8/24/2020
+02A,Business Analyst,1,8/24/2020
+02A,Others,1,8/24/2020
+02C,Business Analyst,1,8/24/2020
+03A,Datastage,1,8/24/2020
+03A,IOS,1,8/24/2020
+03A,Manual Testing,1,8/24/2020
+03A,Mobile Applications,1,8/24/2020
+04A,Manual Testing,1,8/24/2020
+04A,Selenium Java,2,8/24/2020
+04B,Manual Testing,1,8/24/2020
+05B,Datastage,4,8/24/2020
+05B,Python,1,8/24/2020
+05B,SQL,3,8/24/2020
+05B,SSIS,1,8/24/2020
+06B,DevOps,1,8/24/2020
+06B,Java,1,8/24/2020
+07A,.Net,1,8/24/2020
+07B,.Net,1,8/24/2020
+07B,Salesforce Cloud,1,8/24/2020
+08A,IOS,2,8/24/2020
+09A,Java,3,8/24/2020
+09B,Manual Testing,1,8/24/2020
+10A,AWS,1,8/24/2020
+10A,Sales,1,8/24/2020
+10B,EDI,1,8/24/2020
+11A,Fullstack Java,1,8/24/2020
+11A,Java,3,8/24/2020
+11A,Selenium .NET,1,8/24/2020
+11A,Selenium Java,1,8/24/2020
+11B,Java,1,8/24/2020
+11B,Manual Testing,1,8/24/2020
+11B,Mobile Applications,1,8/24/2020
+11B,Selenium .NET,1,8/24/2020
+12A,Datastage,7,8/24/2020
+12B,AWS,1,8/24/2020
+12B,Datastage,2,8/24/2020
+12B,Python,1,8/24/2020
+12B,SQL,2,8/24/2020
+12B,SSIS,1,8/24/2020
+13A,Manual Testing,2,8/24/2020
+13A,Python,1,8/24/2020
+13B,Datastage,2,8/24/2020
+13B,Manual Testing,1,8/24/2020
+15A,Datastage,1,8/24/2020
+15A,Java,7,8/24/2020
+15A,Selenium Java,1,8/24/2020
+15B,.Net,1,8/24/2020
+15B,Datastage,2,8/24/2020
+15B,Fullstack Java,3,8/24/2020
+15B,Java,8,8/24/2020
+15B,JS_HTML_CSS_Java,1,8/24/2020
+15B,Selenium Java,2,8/24/2020
+15B,SQL,1,8/24/2020
+16A,Security Testing,1,8/24/2020
+16A,Selenium Java,4,8/24/2020
+16B,Automation Testing,1,8/24/2020
+16B,Selenium Java,1,8/24/2020
+17A,.Net,3,8/24/2020
+17A,JS_HTML_CSS_.Net,1,8/24/2020
+17A,Selenium Java,1,8/24/2020
+17B,.Net,1,8/24/2020
+17B,Business Analyst,1,8/24/2020
+18B,Datastage,1,8/24/2020
+20B,Datastage,1,8/24/2020
+20B,SQL Server DBA,1,8/24/2020
+20B,Tableau,1,8/24/2020
+01A,HL7,6,8/24/2020
+01A,Manual Testing,1,8/24/2020
+01A,Others,1,8/24/2020
+01B,.Net,12,8/24/2020
+01B,AS400,1,8/24/2020
+01B,Automation Testing,1,8/24/2020
+01B,Datastage,1,8/24/2020
+01B,EDI,4,8/24/2020
+01B,Business Analyst,10,8/24/2020
+01B,HL7,3,8/24/2020
+01B,IT Management,1,8/24/2020
+01B,Java,2,8/24/2020
+01B,Manual Testing,1,8/24/2020
+01B,Oracle DBA,1,8/24/2020
+01B,Sales,2,8/24/2020
+01B,SQL,13,8/24/2020
+01B,SSAS,1,8/24/2020
+01B,SSIS,3,8/24/2020
+01B,Technical Management,2,8/24/2020
+02A,.Net,41,8/24/2020
+02A,AS400,1,8/24/2020
+02A,Automation Testing,6,8/24/2020
+02A,Database Testing,9,8/24/2020
+02A,DevOps,1,8/24/2020
+02A,EDI,1,8/24/2020
+02A,Fullstack .NET,1,8/24/2020
+02A,Business Analyst,1,8/24/2020
+02A,HL7,1,8/24/2020
+02A,IT Management,1,8/24/2020
+02A,Java,3,8/24/2020
+02A,JS_HTML_CSS_.Net,5,8/24/2020
+02A,JS_HTML_CSS_Java,1,8/24/2020
+02A,Manual Testing,95,8/24/2020
+02A,Mirth,1,8/24/2020
+02A,Netezza,1,8/24/2020
+02A,Others,2,8/24/2020
+02A,Performance Testing,5,8/24/2020
+02A,Sales,1,8/24/2020
+02A,Scrum Master,2,8/24/2020
+02A,Security Testing,8,8/24/2020
+02A,Selenium,2,8/24/2020
+02A,Selenium Java,4,8/24/2020
+02B,.Net,4,8/24/2020
+02B,Automation Testing,1,8/24/2020
+02B,CRM,1,8/24/2020
+02B,DB2,1,8/24/2020
+02B,Java,1,8/24/2020
+02B,Manual Testing,8,8/24/2020
+02B,SSIS,1,8/24/2020
+03A,.Net,2,8/24/2020
+03A,AS400,1,8/24/2020
+03A,AWS DevOps,1,8/24/2020
+03A,Azure,5,8/24/2020
+03A,SSIS and ETL,1,8/24/2020
+03A,Database Technologies,2,8/24/2020
+03A,Database Testing,1,8/24/2020
+03A,Datastage,3,8/24/2020
+03A,Hadoop,2,8/24/2020
+03A,Business Analyst,4,8/24/2020
+03A,Linux,1,8/24/2020
+03A,Microstrategy,4,8/24/2020
+03A,Oracle DBA,2,8/24/2020
+03A,Others,3,8/24/2020
+03A,SQL,11,8/24/2020
+03A,SQL Server DBA,8,8/24/2020
+03A,SSAS,4,8/24/2020
+03A,SSIS,26,8/24/2020
+03A,SSRS,6,8/24/2020
+03A,Tableau,6,8/24/2020
+03A,Technical Management,1,8/24/2020
+03A,UX,1,8/24/2020
+03B,.Net,3,8/24/2020
+03B,Database Testing,2,8/24/2020
+03B,EDI,2,8/24/2020
+03B,Hadoop,1,8/24/2020
+03B,Business Analyst,6,8/24/2020
+03B,HL7,3,8/24/2020
+03B,Manual Testing,3,8/24/2020
+03B,Others,4,8/24/2020
+03B,SQL,8,8/24/2020
+03B,SQL Server DBA,3,8/24/2020
+03B,SSAS,1,8/24/2020
+03B,SSIS,2,8/24/2020
+03B,SSRS,1,8/24/2020
+04A,EDI,3,8/24/2020
+04A,Others,1,8/24/2020
+05A,.Net,7,8/24/2020
+05A,AS400,1,8/24/2020
+05A,Database Testing,1,8/24/2020
+05A,EDI,1,8/24/2020
+05A,HL7,2,8/24/2020
+05A,Informatica,1,8/24/2020
+05A,Manual Testing,9,8/24/2020
+05A,Oracle forms,1,8/24/2020
+05A,Others,2,8/24/2020
+05A,Security Testing,1,8/24/2020
+05A,SQL,4,8/24/2020
+05A,SSAS,1,8/24/2020
+05A,SSIS,2,8/24/2020
+05B,SSIS,1,8/24/2020
+06A,.Net,101,8/24/2020
+06A,Classic ASP,1,8/24/2020
+06A,Data Science,1,8/24/2020
+06A,Fullstack .NET,2,8/24/2020
+06A,Business Analyst,2,8/24/2020
+06A,HL7,1,8/24/2020
+06A,Java,3,8/24/2020
+06A,JS_HTML_CSS_.Net,9,8/24/2020
+06A,Manual Testing,22,8/24/2020
+06A,Others,1,8/24/2020
+06A,Scrum Master,2,8/24/2020
+06A,SQL,2,8/24/2020
+06A,SSIS,1,8/24/2020
+06A,Tableau,1,8/24/2020
+06A,Technical Management,1,8/24/2020
+06B,.Net,18,8/24/2020
+06B,Database Testing,1,8/24/2020
+06B,Business Analyst,2,8/24/2020
+06B,HL7,1,8/24/2020
+06B,JS_HTML_CSS_.Net,2,8/24/2020
+06B,Sales,1,8/24/2020
+06B,Selenium .NET,4,8/24/2020
+06B,Selenium Java,2,8/24/2020
+07A,.Net,7,8/24/2020
+07A,JS_HTML_CSS_.Net,1,8/24/2020
+07A,Sales,1,8/24/2020
+07A,SQL,1,8/24/2020
+08A,.Net,5,8/24/2020
+09A,.Net,1,8/24/2020
+09A,Database Technologies,1,8/24/2020
+09A,Java,2,8/24/2020
+09A,JS_HTML_CSS_Java,1,8/24/2020
+09A,SQL,1,8/24/2020
+10A,.Net,30,8/24/2020
+10A,DevOps,3,8/24/2020
+10A,Greenplum,1,8/24/2020
+10A,HL7,1,8/24/2020
+10A,Java,7,8/24/2020
+10A,JS_HTML_CSS_.Net,2,8/24/2020
+10A,JS_HTML_CSS_Java,2,8/24/2020
+10A,Manual Testing,7,8/24/2020
+10A,Oracle forms,1,8/24/2020
+10A,Others,1,8/24/2020
+10A,SQL,1,8/24/2020
+10A,SSAS,1,8/24/2020
+11A,.Net,14,8/24/2020
+11A,AS400,1,8/24/2020
+11A,Datastage,3,8/24/2020
+11A,DevOps,2,8/24/2020
+11A,EDI,7,8/24/2020
+11A,Business Analyst,7,8/24/2020
+11A,HL7,1,8/24/2020
+11A,JS_HTML_CSS_.Net,3,8/24/2020
+11A,Manual Testing,8,8/24/2020
+11A,Others,2,8/24/2020
+11A,Performance Testing,7,8/24/2020
+11A,Security Testing,3,8/24/2020
+11A,Selenium .NET,1,8/24/2020
+11A,Selenium Java,3,8/24/2020
+11A,SQL,5,8/24/2020
+11A,SSIS,1,8/24/2020
+11A,Technical Management,1,8/24/2020
+11A,UX,3,8/24/2020
+11B,.Net,4,8/24/2020
+11B,DB2,1,8/24/2020
+11B,EDI,3,8/24/2020
+11B,Business Analyst,10,8/24/2020
+11B,Java,1,8/24/2020
+11B,Oracle DBA,1,8/24/2020
+11B,SQL,6,8/24/2020
+11B,SSAS,1,8/24/2020
+12A,.Net,12,8/24/2020
+12A,Classic ASP,1,8/24/2020
+12A,Fullstack Java,1,8/24/2020
+12A,Business Analyst,1,8/24/2020
+12A,Java,4,8/24/2020
+12A,JS_HTML_CSS_Java,1,8/24/2020
+12A,Manual Testing,10,8/24/2020
+12A,Selenium,1,8/24/2020
+12A,Selenium Java,2,8/24/2020
+14A,Database Testing,5,8/24/2020
+14A,Hadoop,24,8/24/2020
+14A,Business Analyst,1,8/24/2020
+14A,Java,4,8/24/2020
+14A,JS_HTML_CSS_Java,1,8/24/2020
+14A,Linux,1,8/24/2020
+14A,Manual Testing,4,8/24/2020
+14A,Oracle DBA,1,8/24/2020
+14A,Scrum Master,1,8/24/2020
+14A,Selenium Java,1,8/24/2020
+14A,SSIS,2,8/24/2020
+14A,Systems and Networking,1,8/24/2020
+14A,Tableau,2,8/24/2020
+14B,Hadoop,4,8/24/2020
+14B,Java,2,8/24/2020
+14B,Manual Testing,1,8/24/2020
+14B,SQL,1,8/24/2020
+14B,SSIS,1,8/24/2020
+15A,.Net,6,8/24/2020
+15A,Datastage,2,8/24/2020
+15A,DevOps,1,8/24/2020
+15A,JS_HTML_CSS_.Net,1,8/24/2020
+15A,Manual Testing,6,8/24/2020
+15A,Selenium,4,8/24/2020
+15A,Selenium Java,14,8/24/2020
+15B,.Net,2,8/24/2020
+15B,Manual Testing,1,8/24/2020
+15B,Selenium Java,1,8/24/2020
+16A,.Net,10,8/24/2020
+16A,Fullstack .NET,1,8/24/2020
+16A,Business Analyst,1,8/24/2020
+16A,JS_HTML_CSS_.Net,1,8/24/2020
+16A,Manual Testing,16,8/24/2020
+16A,Selenium Java,3,8/24/2020
+16B,.Net,7,8/24/2020
+16B,Fullstack .NET,1,8/24/2020
+16B,Business Analyst,1,8/24/2020
+16B,JS_HTML_CSS_.Net,1,8/24/2020
+16B,Manual Testing,1,8/24/2020
+17A,.Net,3,8/24/2020
+17A,Business Analyst,1,8/24/2020
+17A,Java,3,8/24/2020
+17A,JS_HTML_CSS_Java,1,8/24/2020
+17A,Manual Testing,5,8/24/2020
+17A,Scrum Master,1,8/24/2020
+18A,Azure DevOps,1,8/24/2020
+18A,DevOps,4,8/24/2020
+18A,Manual Testing,3,8/24/2020
+18A,Performance Testing,9,8/24/2020
+18A,Security Testing,4,8/24/2020
+18A,Selenium,1,8/24/2020
+18A,Selenium .NET,1,8/24/2020
+18A,Selenium Java,4,8/24/2020
+19A,.Net,2,8/24/2020
+19A,EDI,4,8/24/2020
+19A,Business Analyst,2,8/24/2020
+19A,HL7,2,8/24/2020
+19A,Manual Testing,4,8/24/2020
+19A,Oracle forms,1,8/24/2020
+19A,SQL,5,8/24/2020
+19A,SSAS,1,8/24/2020
+19A,SSIS,3,8/24/2020
+19A,SSRS,1,8/24/2020
+20A,.Net,17,8/24/2020
+20A,Database Testing,1,8/24/2020
+20A,Fullstack .NET,1,8/24/2020
+20A,Business Analyst,5,8/24/2020
+20A,Manual Testing,14,8/24/2020
+20A,Others,1,8/24/2020
+01B,Netezza,1,8/24/2020
+1,.Net,3,8/24/2020
+01A,HL7,15,8/24/2020
+01A,Mirth,2,8/24/2020
+01B,HL7,2,8/24/2020
+01D,HL7,12,8/24/2020
+01D,Mirth,1,8/24/2020
+02A,Oracle DBA,2,8/24/2020
+02A,Technical Support,9,8/24/2020
+02D,Azure,3,8/24/2020
+02D,HL7,1,8/24/2020
+02D,Linux,4,8/24/2020
+02D,Oracle DBA,2,8/24/2020
+02D,Technical Support,11,8/24/2020
+001A,Fullstack Java,1,8/24/2020
+001A,Java,1,8/24/2020
+001B,Java,1,8/24/2020
+001A,.Net,1,8/24/2020
+001A,Automation Testing,1,8/24/2020
+001A,C++,6,8/24/2020
+001A,Manual Testing,2,8/24/2020
+001A,Selenium,1,8/24/2020
+001,.Net,1,8/24/2020
+001,AM-.NET,1,8/24/2020
+0018A,Others,1,8/24/2020
+002,.Net,1,8/24/2020
+002,AM-.NET,1,8/24/2020
+003,.Net,3,8/24/2020
+005,AM-.NET,1,8/24/2020
+005,HL7,1,8/24/2020
+005,Java,3,8/24/2020
+005,PS-Java,1,8/24/2020
+006A,.Net,4,8/24/2020
+006A,JS_HTML_CSS_.Net,2,8/24/2020
+006A,SSAS,1,8/24/2020
+006A,SSIS,1,8/24/2020
+006B,.Net,1,8/24/2020
+006B,JS_HTML_CSS_.Net,1,8/24/2020
+006D,.Net,1,8/24/2020
+006D,JS_HTML_CSS_.Net,1,8/24/2020
+007A,.Net,4,8/24/2020
+007A,JS_HTML_CSS_.Net,1,8/24/2020
+007B,Technical Management,1,8/24/2020
+007E,JS_HTML_CSS_.Net,1,8/24/2020
+008A,.Net,2,8/24/2020
+008A,JS_HTML_CSS_.Net,1,8/24/2020
+008A,SSIS,1,8/24/2020
+008B,Technical Management,1,8/24/2020
+009A,.Net,6,8/24/2020
+009A,SQL,1,8/24/2020
+009B,.Net,1,8/24/2020
+009B,Others,1,8/24/2020
+010A,.Net,1,8/24/2020
+010A,Others,1,8/24/2020
+010B,Others,1,8/24/2020
+013A,.Net,2,8/24/2020
+013A,Automation Testing,1,8/24/2020
+013A,JS_HTML_CSS_.Net,2,8/24/2020
+013A,Manual Testing,2,8/24/2020
+013B,Business Analyst,1,8/24/2020
+014A,.Net,2,8/24/2020
+015A,.Net,1,8/24/2020
+015A,HL7,1,8/24/2020
+015A,Java,3,8/24/2020
+015A,JS_HTML_CSS_.Net,1,8/24/2020
+016A,JS_HTML_CSS_.Net,1,8/24/2020
+016B,.Net,2,8/24/2020
+021A,.Net,2,8/24/2020
+021A,Java,1,8/24/2020
+021A,JS_HTML_CSS_.Net,1,8/24/2020
+021B,.Net,2,8/24/2020
+021B,Others,1,8/24/2020
+021C,.Net,1,8/24/2020
+01A,Datastage,1,8/24/2020
+01A,Data Science,4,8/24/2020
+01A,SSIS,1,8/24/2020
+001A,.Net,21,8/24/2020
+001A,Angular,1,8/24/2020
+001A,AWS,2,8/24/2020
+001A,Azure,1,8/24/2020
+001A,Fullstack .NET,3,8/24/2020
+001A,Hadoop,2,8/24/2020
+001A,Business Analyst,6,8/24/2020
+001A,HL7,1,8/24/2020
+001A,Java,3,8/24/2020
+001A,JS_HTML_CSS_.Net,7,8/24/2020
+001A,JS_HTML_CSS_Java,8,8/24/2020
+001A,Manual Testing,6,8/24/2020
+001A,Mobile Applications,1,8/24/2020
+001A,Others,6,8/24/2020
+001A,Performance Engineering,1,8/24/2020
+001A,Performance Testing,1,8/24/2020
+001A,Security Testing,1,8/24/2020
+001A,Selenium,2,8/24/2020
+001A,Selenium .NET,9,8/24/2020
+001A,Selenium Java,7,8/24/2020
+001A,SQL Server DBA,1,8/24/2020
+001B,.Net,1,8/24/2020
+001B,Azure,1,8/24/2020
+001B,Hadoop,2,8/24/2020
+001B,Java,2,8/24/2020
+001B,Performance Engineering,1,8/24/2020
+001B,Performance Testing,1,8/24/2020
+001B,Selenium .NET,1,8/24/2020
+001B,Technical Management,1,8/24/2020
+001A,.Net,6,8/24/2020
+001A,Automation Testing,1,8/24/2020
+001A,Business Analyst,3,8/24/2020
+001A,Java,21,8/24/2020
+001A,JS_HTML_CSS_Java,5,8/24/2020
+001A,Manual Testing,18,8/24/2020
+001A,Others,1,8/24/2020
+001A,Performance Testing,1,8/24/2020
+001A,Sales,3,8/24/2020
+001A,Selenium,2,8/24/2020
+001A,Selenium Java,1,8/24/2020
+001A,SQL Server DBA,1,8/24/2020
+001A,SSIS,1,8/24/2020
+001A,Tableau,1,8/24/2020
+001A,Technical Management,2,8/24/2020
+001B,.Net,1,8/24/2020
+001B,C++,1,8/24/2020
+001B,Java,1,8/24/2020
+001B,Others,1,8/24/2020
+001B,Sales,1,8/24/2020
+001C,Others,1,8/24/2020
+003,Automation Testing,1,8/24/2020
+003,Java,4,8/24/2020
+003,JS_HTML_CSS_Java,3,8/24/2020
+003,Manual Testing,5,8/24/2020
+003,Sales,1,8/24/2020
+003,Technical Management,1,8/24/2020
+004,.Net,1,8/24/2020
+005,Java,1,8/24/2020
+005,Manual Testing,2,8/24/2020
+007,Java,2,8/24/2020
+007,JS_HTML_CSS_Java,2,8/24/2020
+007,Manual Testing,1,8/24/2020
+009A,.Net,1,8/24/2020
+009A,HL7,1,8/24/2020
+009A,JS_HTML_CSS_Java,1,8/24/2020
+009A,PS-Java,1,8/24/2020
+009A,Technical Management,1,8/24/2020
+010A,HL7,11,8/24/2020
+010A,Java,1,8/24/2020
+010A,PS-Java,1,8/24/2020
+010B,HL7,5,8/24/2020
+010B,PS-Java,1,8/24/2020
+12A,.Net,2,8/24/2020
+12A,Database Technologies,1,8/24/2020
+12A,Hadoop,1,8/24/2020
+12A,Business Analyst,2,8/24/2020
+12A,Java,2,8/24/2020
+12A,JS_HTML_CSS_Java,1,8/24/2020
+12A,Manual Testing,1,8/24/2020
+12A,SSIS,1,8/24/2020
+13A,.Net,1,8/24/2020
+13A,JS_HTML_CSS_Java,4,8/24/2020
+13A,Manual Testing,2,8/24/2020
+14A,.Net,2,8/24/2020
+14A,Hadoop,1,8/24/2020
+14A,HL7,1,8/24/2020
+14A,Java,5,8/24/2020
+14A,JS_HTML_CSS_Java,3,8/24/2020
+14A,Manual Testing,2,8/24/2020
+14A,Oracle DBA,1,8/24/2020
+15A,Technical Support,1,8/24/2020
+16A,Business Analyst,1,8/24/2020
+16A,Java,3,8/24/2020
+16A,Manual Testing,1,8/24/2020
+17B,Datastage,18,8/24/2020
+17B,Java,2,8/24/2020
+18A,AS400,1,8/24/2020
+18A,HL7,1,8/24/2020
+18A,SQL,1,8/24/2020
+18B,HL7,1,8/24/2020
+18B,Technical Management,1,8/24/2020
+01A,Java,2,8/24/2020
+001A,Data Science,1,8/24/2020
+001A,Business Analyst,2,8/24/2020
+001C,Data Science,1,8/24/2020
+001C,Datastage,1,8/24/2020
+001C,Business Analyst,3,8/24/2020
+001C,PowerBI,1,8/24/2020
+002A,SQL,1,8/24/2020
+002C,SQL,1,8/24/2020
+003B,Business Analyst,5,8/24/2020
+003B,Oracle Fusion middleware,3,8/24/2020
+003B,Selenium Java,1,8/24/2020
+004A,Datastage,3,8/24/2020
+004A,Java,4,8/24/2020
+004A,JS_HTML_CSS_Java,1,8/24/2020
+004A,Manual Testing,1,8/24/2020
+004B,Datastage,2,8/24/2020
+005A,Informatica,1,8/24/2020
+005A,Oracle ADF,1,8/24/2020
+005A,Oracle Fusion middleware,1,8/24/2020
+005B,Informatica,2,8/24/2020
+005B,Java,2,8/24/2020
+005B,Oracle ADF,1,8/24/2020
+005B,Oracle Fusion middleware,4,8/24/2020
+06A,Informatica,1,8/24/2020
+06A,PowerBI,2,8/24/2020
+06B,.Net,1,8/24/2020
+06B,Database Testing,1,8/24/2020
+06B,PowerBI,3,8/24/2020
+07A,Fullstack Java,2,8/24/2020
+07A,Java,4,8/24/2020
+07A,JS_HTML_CSS_Java,1,8/24/2020
+07A,Manual Testing,2,8/24/2020
+07A,Performance Testing,1,8/24/2020
+07A,Security Testing,1,8/24/2020
+07A,Selenium Java,2,8/24/2020
+07A,Technical Writing,1,8/24/2020
+07B,Business Analyst,1,8/24/2020
+07B,Java,1,8/24/2020
+01A,.Net,1,8/24/2020
+02A,.Net,2,8/24/2020
+02A,Manual Testing,1,8/24/2020
+001B,Business Analyst,1,8/24/2020
+0010A,Automation Testing,1,8/24/2020
+0010A,Database Testing,11,8/24/2020
+0010A,Manual Testing,37,8/24/2020
+0010A,Oracle DBA,1,8/24/2020
+0010A,Selenium .NET,1,8/24/2020
+0010A,Selenium Java,7,8/24/2020
+0010B,Database Testing,2,8/24/2020
+0010B,Informatica,1,8/24/2020
+0010B,Java,2,8/24/2020
+0010B,Manual Testing,12,8/24/2020
+0010B,Selenium .NET,1,8/24/2020
+0010B,Selenium Java,4,8/24/2020
+0010B,SSIS,1,8/24/2020
+0010C,Database Testing,1,8/24/2020
+0010C,Manual Testing,4,8/24/2020
+0010C,Selenium Java,1,8/24/2020
+001A,.Net,2,8/24/2020
+001A,Adobe Flex,1,8/24/2020
+001A,Database Technologies,1,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,Java,6,8/24/2020
+001A,JS_HTML_CSS_Java,3,8/24/2020
+001A,Manual Testing,8,8/24/2020
+001A,Others,1,8/24/2020
+001A,Sales,2,8/24/2020
+001A,Security Testing,1,8/24/2020
+001A,Technical Management,5,8/24/2020
+001B,Java,2,8/24/2020
+004,Database Testing,2,8/24/2020
+004,Business Analyst,3,8/24/2020
+004,Manual Testing,26,8/24/2020
+004,Others,1,8/24/2020
+004,Security Testing,1,8/24/2020
+004,Selenium Java,3,8/24/2020
+004,Technical Management,2,8/24/2020
+004B,Manual Testing,5,8/24/2020
+005B,.Net,1,8/24/2020
+006A,Business Analyst,2,8/24/2020
+006A,Product Management,1,8/24/2020
+006B,HL7,1,8/24/2020
+006B,Manual Testing,1,8/24/2020
+006B,Product Management,1,8/24/2020
+008,Business Analyst,1,8/24/2020
+008,Manual Testing,2,8/24/2020
+009A,Automation Testing,4,8/24/2020
+009A,C++,1,8/24/2020
+009A,Database Technologies,5,8/24/2020
+009A,Database Testing,4,8/24/2020
+009A,Business Analyst,14,8/24/2020
+009A,HL7,3,8/24/2020
+009A,IOS,1,8/24/2020
+009A,Java,2,8/24/2020
+009A,JS_HTML_CSS_Java,3,8/24/2020
+009A,Manual Testing,102,8/24/2020
+009A,Others,2,8/24/2020
+009A,Performance Testing,8,8/24/2020
+009A,Sales,2,8/24/2020
+009A,Security Testing,3,8/24/2020
+009A,Selenium,2,8/24/2020
+009A,Selenium Java,9,8/24/2020
+009A,Technical Management,3,8/24/2020
+009B,Database Testing,1,8/24/2020
+009B,Business Analyst,1,8/24/2020
+009B,HL7,1,8/24/2020
+009B,IOS,2,8/24/2020
+009B,Java,8,8/24/2020
+009B,Manual Testing,15,8/24/2020
+009B,Mobile Applications,1,8/24/2020
+009B,Product Management,1,8/24/2020
+009B,Selenium Java,1,8/24/2020
+009C,Database Testing,1,8/24/2020
+009C,Business Analyst,1,8/24/2020
+009C,HL7,1,8/24/2020
+009C,Java,1,8/24/2020
+009C,Manual Testing,12,8/24/2020
+009C,Others,1,8/24/2020
+009C,Security Testing,2,8/24/2020
+009C,Selenium Java,1,8/24/2020
+009D,Others,1,8/24/2020
+011A,.Net,30,8/24/2020
+011A,Automation Testing,3,8/24/2020
+011A,Database Testing,1,8/24/2020
+011A,Business Analyst,6,8/24/2020
+011A,Java,7,8/24/2020
+011A,JS_HTML_CSS_.Net,8,8/24/2020
+011A,JS_HTML_CSS_Java,3,8/24/2020
+011A,Manual Testing,12,8/24/2020
+011A,Security Testing,1,8/24/2020
+011A,Selenium Java,2,8/24/2020
+011B,.Net,1,8/24/2020
+011B,Manual Testing,1,8/24/2020
+011C,Business Analyst,1,8/24/2020
+012A,.Net,1,8/24/2020
+012A,Automation Testing,2,8/24/2020
+012A,C++,1,8/24/2020
+012A,Fullstack Java,1,8/24/2020
+012A,Business Analyst,4,8/24/2020
+012A,IOS,9,8/24/2020
+012A,Java,9,8/24/2020
+012A,JS_HTML_CSS_Java,1,8/24/2020
+012A,Manual Testing,22,8/24/2020
+012A,Mobile Applications,9,8/24/2020
+012A,Others,1,8/24/2020
+012A,Security Testing,2,8/24/2020
+012A,Selenium Java,1,8/24/2020
+012A,Systems and Networking,1,8/24/2020
+012B,Manual Testing,2,8/24/2020
+012C,IOS,2,8/24/2020
+012C,Manual Testing,3,8/24/2020
+014A,.Net,1,8/24/2020
+014A,Datastage,1,8/24/2020
+014A,Cognos,8,8/24/2020
+014A,Data Science,2,8/24/2020
+014A,Database Testing,15,8/24/2020
+014A,DevOps,1,8/24/2020
+014A,Business Analyst,5,8/24/2020
+014A,Informatica,3,8/24/2020
+014A,Java,1,8/24/2020
+014A,JS_HTML_CSS_.Net,1,8/24/2020
+014A,JS_HTML_CSS_Java,2,8/24/2020
+014A,Manual Testing,9,8/24/2020
+014A,Netezza,3,8/24/2020
+014A,Oracle forms,1,8/24/2020
+014A,SSIS,3,8/24/2020
+014B,Cognos,1,8/24/2020
+014B,DevOps,1,8/24/2020
+014B,Business Analyst,4,8/24/2020
+014B,HL7,1,8/24/2020
+014B,Java,1,8/24/2020
+014B,SSIS,1,8/24/2020
+015A,Cognos,1,8/24/2020
+015A,Data Science,7,8/24/2020
+015A,Fullstack Java,1,8/24/2020
+015A,Java,5,8/24/2020
+015A,JS_HTML_CSS_Java,1,8/24/2020
+015A,Manual Testing,2,8/24/2020
+015A,Tableau,2,8/24/2020
+015B,Data Science,3,8/24/2020
+015B,SQL,1,8/24/2020
+016A,Automation Testing,1,8/24/2020
+016A,IOS,1,8/24/2020
+016A,Manual Testing,16,8/24/2020
+016B,IOS,2,8/24/2020
+016B,Manual Testing,2,8/24/2020
+016B,Mobile Applications,1,8/24/2020
+016C,IOS,1,8/24/2020
+016C,Manual Testing,2,8/24/2020
+017A,Automation Testing,3,8/24/2020
+017A,Manual Testing,1,8/24/2020
+017A,Performance Testing,6,8/24/2020
+017A,Sales,1,8/24/2020
+017A,Selenium Java,9,8/24/2020
+017B,Selenium Java,1,8/24/2020
+019A,.Net,1,8/24/2020
+019A,Automation Testing,1,8/24/2020
+019A,Cognos,1,8/24/2020
+019A,Business Analyst,1,8/24/2020
+019A,IOS,4,8/24/2020
+019A,Java,3,8/24/2020
+019A,Manual Testing,12,8/24/2020
+019A,Mobile Applications,3,8/24/2020
+019A,Others,1,8/24/2020
+019A,Sales,1,8/24/2020
+019A,Selenium .NET,1,8/24/2020
+019A,Tableau,1,8/24/2020
+019B,Java,4,8/24/2020
+019B,Manual Testing,1,8/24/2020
+019B,Sales,1,8/24/2020
+019C,IOS,1,8/24/2020
+020A,.Net,2,8/24/2020
+020A,Automation Testing,2,8/24/2020
+020A,Azure,1,8/24/2020
+020A,Database Technologies,2,8/24/2020
+020A,Database Testing,5,8/24/2020
+020A,Datastage,1,8/24/2020
+020A,DevOps,3,8/24/2020
+020A,Fullstack Java,2,8/24/2020
+020A,Business Analyst,2,8/24/2020
+020A,IOS,1,8/24/2020
+020A,Java,21,8/24/2020
+020A,JS_HTML_CSS_.Net,2,8/24/2020
+020A,JS_HTML_CSS_Java,2,8/24/2020
+020A,Manual Testing,20,8/24/2020
+020A,Netezza,1,8/24/2020
+020A,Performance Testing,3,8/24/2020
+020A,Selenium Java,10,8/24/2020
+020B,.Net,1,8/24/2020
+020B,Automation Testing,1,8/24/2020
+020B,Database Testing,1,8/24/2020
+020B,Business Analyst,2,8/24/2020
+020B,IOS,1,8/24/2020
+020B,Java,7,8/24/2020
+020B,JS_HTML_CSS_.Net,1,8/24/2020
+020B,JS_HTML_CSS_Java,2,8/24/2020
+020B,Manual Testing,11,8/24/2020
+020B,Oracle DBA,1,8/24/2020
+020B,Selenium Java,3,8/24/2020
+020B,SQL,1,8/24/2020
+021A,Cognos,1,8/24/2020
+021A,Data Science,6,8/24/2020
+021B,Data Science,1,8/24/2020
+021B,Informatica,1,8/24/2020
+021B,JS_HTML_CSS_Java,1,8/24/2020
+021B,SQL,1,8/24/2020
+01A,Cognos,1,8/24/2020
+01A,Cognos,11,8/24/2020
+01A,Database Testing,1,8/24/2020
+01A,Informatica,7,8/24/2020
+01A,Netezza,1,8/24/2020
+01B,Cognos,2,8/24/2020
+01A,SSIS,1,8/24/2020
+02A,.Net,1,8/24/2020
+02A,HL7,1,8/24/2020
+001A,.Net,1,8/24/2020
+001A,Java,1,8/24/2020
+001A,JS_HTML_CSS_.Net,1,8/24/2020
+001A,JS_HTML_CSS_Java,4,8/24/2020
+001A,Manual Testing,1,8/24/2020
+001A,Selenium Java,6,8/24/2020
+001A,UI,7,8/24/2020
+001B,JS_HTML_CSS_Java,2,8/24/2020
+002A,Datastage,1,8/24/2020
+002A,Java,3,8/24/2020
+002A,JS_HTML_CSS_.Net,1,8/24/2020
+002A,JS_HTML_CSS_Java,1,8/24/2020
+002A,Manual Testing,1,8/24/2020
+002A,Selenium Java,6,8/24/2020
+002A,UI,1,8/24/2020
+002B,Java,1,8/24/2020
+003A,Fullstack Java,1,8/24/2020
+003A,Java,6,8/24/2020
+003A,JS_HTML_CSS_Java,1,8/24/2020
+003A,Selenium Java,3,8/24/2020
+003B,JS_HTML_CSS_Java,1,8/24/2020
+02A,JS_HTML_CSS_Java,1,8/24/2020
+02A,PowerBI,1,8/24/2020
+04A,Data Science,2,8/24/2020
+04A,Business Analyst,1,8/24/2020
+04A,SSIS,2,8/24/2020
+04B,DataModeler,1,8/24/2020
+06A,Azure,1,8/24/2020
+06A,Java,1,8/24/2020
+06A,Spotfire,1,8/24/2020
+06A,Tableau,2,8/24/2020
+07A,HL7,2,8/24/2020
+08A,.Net,1,8/24/2020
+08A,Manual Testing,1,8/24/2020
+08A,SSIS,1,8/24/2020
+08B,DataModeler,1,8/24/2020
+001A,.Net,9,8/24/2020
+001A,Azure DevOps,1,8/24/2020
+001A,Fullstack Java,1,8/24/2020
+001A,Java,3,8/24/2020
+001A,JS_HTML_CSS_.Net,1,8/24/2020
+001A,Manual Testing,1,8/24/2020
+001A,PowerBI,1,8/24/2020
+001A,Selenium,1,8/24/2020
+001A,Selenium .NET,1,8/24/2020
+001A,Selenium Java,2,8/24/2020
+001B,.Net,5,8/24/2020
+001B,Business Analyst,1,8/24/2020
+001B,JS_HTML_CSS_.Net,1,8/24/2020
+001B,Manual Testing,1,8/24/2020
+001B,Selenium,1,8/24/2020
+001B,SQL,3,8/24/2020
+001B,SSIS,8,8/24/2020
+002A,.Net,2,8/24/2020
+002A,Angular,1,8/24/2020
+002A,Azure,1,8/24/2020
+002A,Database Technologies,1,8/24/2020
+002A,Fullstack Java,2,8/24/2020
+002A,Java,15,8/24/2020
+002A,JS_HTML_CSS_Java,2,8/24/2020
+002A,Manual Testing,2,8/24/2020
+002A,Mirth,1,8/24/2020
+002A,Selenium Java,1,8/24/2020
+002A,SSIS,1,8/24/2020
+002B,.Net,5,8/24/2020
+002B,Java,1,8/24/2020
+002B,Manual Testing,1,8/24/2020
+003A,.Net,4,8/24/2020
+003A,Azure,1,8/24/2020
+003A,JS_HTML_CSS_.Net,1,8/24/2020
+003B,JS_HTML_CSS_.Net,1,8/24/2020
+004A,.Net,1,8/24/2020
+004A,Azure,1,8/24/2020
+004A,Fullstack .NET,1,8/24/2020
+004A,JS_HTML_CSS_.Net,1,8/24/2020
+004A,Manual Testing,1,8/24/2020
+004B,.Net,5,8/24/2020
+004B,JS_HTML_CSS_.Net,1,8/24/2020
+004B,Manual Testing,1,8/24/2020
+1,.Net,4,8/24/2020
+1,Manual Testing,1,8/24/2020
+1,Performance Engineering,1,8/24/2020
+1,Technical Management,1,8/24/2020
+2,.Net,2,8/24/2020
+2,Manual Testing,1,8/24/2020
+2,Performance Engineering,1,8/24/2020
+2,Technical Management,1,8/24/2020
+5,.Net,10,8/24/2020
+5,Business Analyst,1,8/24/2020
+5,Manual Testing,7,8/24/2020
+5,Performance Engineering,1,8/24/2020
+5,Technical Management,2,8/24/2020
+02B,.Net,1,8/24/2020
+02B,C++,1,8/24/2020
+02B,Java,1,8/24/2020
+02D,C++,1,8/24/2020
+02D,DB2,3,8/24/2020
+02D,Hadoop,3,8/24/2020
+02D,Business Analyst,2,8/24/2020
+02D,HL7,1,8/24/2020
+02D,Informatica,2,8/24/2020
+02D,Java,3,8/24/2020
+02D,Manual Testing,3,8/24/2020
+02D,Netezza,1,8/24/2020
+02D,SQL,2,8/24/2020
+02D,SSIS,1,8/24/2020
+02D,Tableau,1,8/24/2020
+03A,Database Testing,3,8/24/2020
+03A,Hadoop,6,8/24/2020
+03A,Business Analyst,1,8/24/2020
+03A,Java,6,8/24/2020
+03A,Manual Testing,1,8/24/2020
+03A,Mobile Applications,1,8/24/2020
+03A,Oracle ADF,1,8/24/2020
+03B,Database Testing,1,8/24/2020
+03B,Hadoop,1,8/24/2020
+03B,Java,4,8/24/2020
+03B,Manual Testing,1,8/24/2020
+03B,SSIS,1,8/24/2020
+03C,Business Analyst,1,8/24/2020
+03C,Technical Management,1,8/24/2020
+04B,Hadoop,4,8/24/2020
+04B,Java,1,8/24/2020
+05B,Data Science,1,8/24/2020
+05B,DataModeler,1,8/24/2020
+05B,Hadoop,4,8/24/2020
+05B,Business Analyst,3,8/24/2020
+05B,HL7,2,8/24/2020
+05B,Java,1,8/24/2020
+05B,Manual Testing,1,8/24/2020
+05B,SQL,1,8/24/2020
+05B,SSIS,2,8/24/2020
+05B,SSRS,1,8/24/2020
+06A,Data Science,1,8/24/2020
+06A,Hadoop,1,8/24/2020
+06B,Data Science,7,8/24/2020
+06B,Hadoop,2,8/24/2020
+06B,HL7,2,8/24/2020
+06B,Python,1,8/24/2020
+06B,Scrum Master,1,8/24/2020
+09A,Security Testing,1,8/24/2020
+01A,SSIS and ETL,1,8/24/2020
+01A,IT Management,4,8/24/2020
+01A,Systems and Networking,1,8/24/2020
+001A,.Net,2,8/24/2020
+001A,C++,12,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,Manual Testing,3,8/24/2020
+001A,Quality,1,8/24/2020
+001A,Sales,2,8/24/2020
+001A,Technical Management,1,8/24/2020
+002A,.Net,6,8/24/2020
+002A,C++,10,8/24/2020
+002A,DevOps,1,8/24/2020
+002A,JS_HTML_CSS_.Net,2,8/24/2020
+002A,Oracle DBA,3,8/24/2020
+002A,SQL,1,8/24/2020
+002A,Technical Management,2,8/24/2020
+002B,C++,6,8/24/2020
+002B,JS_HTML_CSS_.Net,2,8/24/2020
+003A,.Net,14,8/24/2020
+003A,C++,4,8/24/2020
+003A,Business Analyst,1,8/24/2020
+003A,HL7,2,8/24/2020
+003A,JS_HTML_CSS_.Net,4,8/24/2020
+003A,Manual Testing,1,8/24/2020
+003A,Oracle DBA,3,8/24/2020
+003A,PS-.Net,1,8/24/2020
+003A,Sales,1,8/24/2020
+003A,SQL,1,8/24/2020
+003A,Technical Management,1,8/24/2020
+003B,C++,1,8/24/2020
+003B,Manual Testing,1,8/24/2020
+4,Automation Testing,5,8/24/2020
+4,Sales,1,8/24/2020
+4,Selenium Java,1,8/24/2020
+005A,.Net,1,8/24/2020
+005A,JS_HTML_CSS_.Net,4,8/24/2020
+005A,Sales,1,8/24/2020
+005A,Technical Management,1,8/24/2020
+006A,Java,1,8/24/2020
+006A,JS_HTML_CSS_.Net,1,8/24/2020
+006A,Sales,1,8/24/2020
+006A,Technical Management,1,8/24/2020
+007A,AS400 MT,1,8/24/2020
+007A,Manual Testing,6,8/24/2020
+007B,JS_HTML_CSS_.Net,1,8/24/2020
+007B,Manual Testing,1,8/24/2020
+008A,.Net,11,8/24/2020
+008A,C++,2,8/24/2020
+008A,Data Science,1,8/24/2020
+008A,Fullstack .NET,1,8/24/2020
+008A,JS_HTML_CSS_.Net,3,8/24/2020
+008A,Manual Testing,14,8/24/2020
+008A,Others,1,8/24/2020
+008A,Security Testing,1,8/24/2020
+008A,Technical Management,1,8/24/2020
+008B,.Net,6,8/24/2020
+008B,C++,2,8/24/2020
+008B,Fullstack .NET,3,8/24/2020
+008B,JS_HTML_CSS_.Net,1,8/24/2020
+008B,Manual Testing,3,8/24/2020
+008B,SQL,1,8/24/2020
+01B,Java,1,8/24/2020
+01A,.Net,1,8/24/2020
+01A,Fullstack Java,1,8/24/2020
+01A,Java,9,8/24/2020
+01A,JS_HTML_CSS_Java,2,8/24/2020
+01A,Manual Testing,1,8/24/2020
+01A,Oracle DBA,1,8/24/2020
+01A,Sales,1,8/24/2020
+01A,Selenium,1,8/24/2020
+02A,.Net,2,8/24/2020
+02A,Automation Testing,3,8/24/2020
+02A,Embedded Systems,1,8/24/2020
+02A,Fullstack Java,1,8/24/2020
+02A,Java,19,8/24/2020
+02A,JS_HTML_CSS_.Net,1,8/24/2020
+02A,JS_HTML_CSS_Java,4,8/24/2020
+02A,Manual Testing,1,8/24/2020
+02A,Performance Testing,5,8/24/2020
+02A,Sales,1,8/24/2020
+02A,Selenium,7,8/24/2020
+02A,Selenium Java,4,8/24/2020
+04A,Salesforce Cloud,1,8/24/2020
+04A,Security Testing,1,8/24/2020
+05A,Security Testing,2,8/24/2020
+05A,Selenium Java,1,8/24/2020
+06A,Security Testing,2,8/24/2020
+08D,Java,1,8/24/2020
+01A,.Net,1,8/24/2020
+01A,Fullstack Java,1,8/24/2020
+01A,HL7,1,8/24/2020
+01A,Java,6,8/24/2020
+01A,JS_HTML_CSS_Java,1,8/24/2020
+01A,Selenium Java,1,8/24/2020
+01D,Fullstack Java,1,8/24/2020
+01D,HL7,1,8/24/2020
+01D,Java,7,8/24/2020
+01D,JS_HTML_CSS_Java,1,8/24/2020
+01D,Mobile Applications,1,8/24/2020
+01D,Selenium Java,2,8/24/2020
+01B,C++,1,8/24/2020
+001A,Java,2,8/24/2020
+001A,JS_HTML_CSS_Java,1,8/24/2020
+01A,.Net,1,8/24/2020
+01A,Java,4,8/24/2020
+01A,Manual Testing,1,8/24/2020
+01A,Mobile Applications,1,8/24/2020
+02A,Manual Testing,1,8/24/2020
+02A,Selenium .NET,1,8/24/2020
+01B,Java,1,8/24/2020
+02A,Ab Initio,1,8/24/2020
+02A,Azure,1,8/24/2020
+02B,AWS DevOps,1,8/24/2020
+02B,C++,1,8/24/2020
+02B,Data Science,2,8/24/2020
+02B,Business Analyst,5,8/24/2020
+02B,HL7,1,8/24/2020
+02B,Selenium .NET,1,8/24/2020
+03A,.Net,4,8/24/2020
+03A,Datastage,1,8/24/2020
+03A,Data Science,2,8/24/2020
+03A,DevOps,2,8/24/2020
+03A,Fullstack .NET,4,8/24/2020
+03A,Fullstack Java,2,8/24/2020
+03A,Business Analyst,1,8/24/2020
+03A,Java,5,8/24/2020
+03A,JS_HTML_CSS_.Net,3,8/24/2020
+03A,JS_HTML_CSS_Java,5,8/24/2020
+03A,Manual Testing,5,8/24/2020
+03A,Performance Testing,2,8/24/2020
+03A,Security Testing,3,8/24/2020
+03A,Technical Management,1,8/24/2020
+03B,Business Analyst,1,8/24/2020
+03B,Java,1,8/24/2020
+04A,AWS DevOps,1,8/24/2020
+04A,Cloud Computing,1,8/24/2020
+04A,DevOps,1,8/24/2020
+04A,Fullstack .NET,3,8/24/2020
+04A,Fullstack Java,1,8/24/2020
+04A,Java,1,8/24/2020
+04A,JS_HTML_CSS_.Net,3,8/24/2020
+04A,JS_HTML_CSS_Java,3,8/24/2020
+04A,Tableau,1,8/24/2020
+05A,Data Science,1,8/24/2020
+05A,JS_HTML_CSS_.Net,1,8/24/2020
+05A,JS_HTML_CSS_Java,2,8/24/2020
+05A,Manual Testing,1,8/24/2020
+05A,Spotfire,1,8/24/2020
+06A,.Net,2,8/24/2020
+06A,AWS DevOps,1,8/24/2020
+06A,DevOps,1,8/24/2020
+06A,Fullstack .NET,3,8/24/2020
+06A,Fullstack Java,2,8/24/2020
+06A,Hadoop,1,8/24/2020
+06A,Business Analyst,1,8/24/2020
+06A,Java,3,8/24/2020
+06A,JS_HTML_CSS_.Net,4,8/24/2020
+06A,JS_HTML_CSS_Java,3,8/24/2020
+06A,Manual Testing,3,8/24/2020
+06A,Performance Testing,1,8/24/2020
+06A,Python,1,8/24/2020
+06A,Security Testing,2,8/24/2020
+06A,Technical Management,1,8/24/2020
+06B,Business Analyst,1,8/24/2020
+07A,Angular,1,8/24/2020
+07A,AWS DevOps,1,8/24/2020
+07A,Data Science,1,8/24/2020
+07A,Hadoop,1,8/24/2020
+07A,Business Analyst,2,8/24/2020
+07A,Java,3,8/24/2020
+07A,JS_HTML_CSS_.Net,1,8/24/2020
+07A,JS_HTML_CSS_Java,1,8/24/2020
+07A,Manual Testing,2,8/24/2020
+07A,Performance Testing,1,8/24/2020
+07A,Python,1,8/24/2020
+07A,Security Testing,1,8/24/2020
+07A,Spotfire,1,8/24/2020
+07A,Technical Management,1,8/24/2020
+01A,.Net,1,8/24/2020
+01A,Automation Testing,1,8/24/2020
+01A,AWS,12,8/24/2020
+01A,Fullstack Java,1,8/24/2020
+01A,Business Analyst,2,8/24/2020
+01A,IOS,1,8/24/2020
+01A,Java,14,8/24/2020
+01A,JS_HTML_CSS_.Net,1,8/24/2020
+01A,JS_HTML_CSS_Java,11,8/24/2020
+01A,Manual Testing,2,8/24/2020
+01A,Others,3,8/24/2020
+01A,Performance Testing,1,8/24/2020
+01A,Scrum Master,1,8/24/2020
+01A,Selenium,2,8/24/2020
+01A,Selenium Java,2,8/24/2020
+01A,Technical Writing,1,8/24/2020
+01D,Automation Testing,1,8/24/2020
+01D,AWS,9,8/24/2020
+01D,Fullstack Java,1,8/24/2020
+01D,Business Analyst,3,8/24/2020
+01D,IOS,1,8/24/2020
+01D,Java,3,8/24/2020
+01D,JS_HTML_CSS_.Net,1,8/24/2020
+01D,JS_HTML_CSS_Java,12,8/24/2020
+01D,Manual Testing,1,8/24/2020
+01D,Performance Testing,1,8/24/2020
+01D,Scrum Master,1,8/24/2020
+01D,Selenium,1,8/24/2020
+01D,Selenium Java,3,8/24/2020
+01D,Technical Writing,2,8/24/2020
+02A,Java,3,8/24/2020
+02A,JS_HTML_CSS_Java,1,8/24/2020
+02D,Java,3,8/24/2020
+02D,JS_HTML_CSS_Java,1,8/24/2020
+03A,AWS,2,8/24/2020
+03A,Fullstack Java,1,8/24/2020
+03A,Java,4,8/24/2020
+03A,JS_HTML_CSS_Java,2,8/24/2020
+03A,Selenium,1,8/24/2020
+03D,AWS,3,8/24/2020
+03D,Fullstack Java,1,8/24/2020
+03D,Java,5,8/24/2020
+03D,JS_HTML_CSS_Java,3,8/24/2020
+04A,AWS,3,8/24/2020
+04A,JS_HTML_CSS_Java,2,8/24/2020
+04A,Selenium Java,2,8/24/2020
+04B,AWS,1,8/24/2020
+04B,Java,1,8/24/2020
+04D,Fullstack Java,1,8/24/2020
+04D,Java,2,8/24/2020
+04D,JS_HTML_CSS_Java,2,8/24/2020
+04D,Mobile Applications,1,8/24/2020
+01B,AM-.NET,1,8/24/2020
+01B,HL7,1,8/24/2020
+02A,Hadoop,1,8/24/2020
+02A,Java,5,8/24/2020
+02A,JS_HTML_CSS_Java,1,8/24/2020
+02A,Manual Testing,4,8/24/2020
+02A,Oracle ADF,1,8/24/2020
+02A,UX,1,8/24/2020
+02B,Java,2,8/24/2020
+02B,Selenium Java,1,8/24/2020
+02C,Java,4,8/24/2020
+02C,JS_HTML_CSS_Java,2,8/24/2020
+02C,Manual Testing,1,8/24/2020
+04B,HL7,1,8/24/2020
+05A,Java,5,8/24/2020
+05A,Manual Testing,3,8/24/2020
+05A,Performance Testing,2,8/24/2020
+05A,SQL,1,8/24/2020
+05B,Java,2,8/24/2020
+06A,Technical Writing,1,8/24/2020
+06B,.Net,1,8/24/2020
+07A,.Net,2,8/24/2020
+07A,Manual Testing,1,8/24/2020
+07A,SSIS,1,8/24/2020
+08B,HL7,1,8/24/2020
+08B,Java,1,8/24/2020
+08B,Manual Testing,2,8/24/2020
+09A,Datastage,1,8/24/2020
+09A,Database Testing,1,8/24/2020
+09A,Hadoop,2,8/24/2020
+09A,Business Analyst,1,8/24/2020
+09A,Java,9,8/24/2020
+09A,Manual Testing,2,8/24/2020
+09A,Oracle forms,1,8/24/2020
+09A,Performance Testing,6,8/24/2020
+09A,Security Testing,2,8/24/2020
+09A,SQL,1,8/24/2020
+09B,Java,1,8/24/2020
+010B,AWS,1,8/24/2020
+010B,DevOps,1,8/24/2020
+01A,.Net,3,8/24/2020
+01A,Java,1,8/24/2020
+01A,JS_HTML_CSS_.Net,3,8/24/2020
+01A,JS_HTML_CSS_Java,1,8/24/2020
+01A,Manual Testing,1,8/24/2020
+01A,Selenium,2,8/24/2020
+01A,Selenium .NET,1,8/24/2020
+01B,.Net,1,8/24/2020
+01B,Automation Testing,1,8/24/2020
+01B,Java,1,8/24/2020
+01B,JS_HTML_CSS_.Net,2,8/24/2020
+01B,JS_HTML_CSS_Java,3,8/24/2020
+01B,Manual Testing,1,8/24/2020
+02A,C++,1,8/24/2020
+02A,Datastage,2,8/24/2020
+02A,Java,2,8/24/2020
+02A,JS_HTML_CSS_Java,3,8/24/2020
+02A,Selenium Java,1,8/24/2020
+02B,C++,2,8/24/2020
+02B,Datastage,1,8/24/2020
+02B,Fullstack Java,1,8/24/2020
+02B,Java,5,8/24/2020
+02B,JS_HTML_CSS_.Net,5,8/24/2020
+02B,JS_HTML_CSS_Java,6,8/24/2020
+02B,UX,3,8/24/2020
+03A,C++,1,8/24/2020
+03A,Java,14,8/24/2020
+03A,JS_HTML_CSS_Java,5,8/24/2020
+03D,C++,1,8/24/2020
+03D,Business Analyst,1,8/24/2020
+03D,Java,8,8/24/2020
+03D,JS_HTML_CSS_Java,5,8/24/2020
+04A,C++,7,8/24/2020
+04A,Business Analyst,2,8/24/2020
+04A,Java,2,8/24/2020
+04A,JS_HTML_CSS_Java,4,8/24/2020
+04D,C++,3,8/24/2020
+04D,JS_HTML_CSS_Java,3,8/24/2020
+09B,Java,1,8/24/2020
+09B,Linux,2,8/24/2020
+01A,Hadoop,1,8/24/2020
+01A,Business Analyst,3,8/24/2020
+01A,IT Management,1,8/24/2020
+01A,Java,8,8/24/2020
+01A,Manual Testing,2,8/24/2020
+01A,Selenium,2,8/24/2020
+01A,Technical Management,1,8/24/2020
+001,.Net,4,8/24/2020
+001,Business Analyst,1,8/24/2020
+001,Java,17,8/24/2020
+001,JS_HTML_CSS_.Net,2,8/24/2020
+001,JS_HTML_CSS_Java,5,8/24/2020
+1,Manual Testing,7,8/24/2020
+1,Mobile Applications,1,8/24/2020
+1,Oracle ADF,1,8/24/2020
+1,Sales,2,8/24/2020
+1,SQL,2,8/24/2020
+1,SSIS,2,8/24/2020
+1,Technical Management,1,8/24/2020
+1,UX,2,8/24/2020
+01A,.Net,6,8/24/2020
+01A,AWS,1,8/24/2020
+01A,Database Testing,1,8/24/2020
+01A,Business Analyst,1,8/24/2020
+01A,JS_HTML_CSS_.Net,1,8/24/2020
+01A,Manual Testing,7,8/24/2020
+01A,Performance Testing,2,8/24/2020
+01A,PowerBI,2,8/24/2020
+01A,Sales,1,8/24/2020
+01A,Security Testing,1,8/24/2020
+01A,SSIS,2,8/24/2020
+01A,Tableau,1,8/24/2020
+01A,UX,1,8/24/2020
+01B,Business Analyst,1,8/24/2020
+01B,JS_HTML_CSS_.Net,1,8/24/2020
+01B,Sales,1,8/24/2020
+01C,Business Analyst,1,8/24/2020
+01C,JS_HTML_CSS_.Net,1,8/24/2020
+02A,.Net,9,8/24/2020
+02A,Database Testing,2,8/24/2020
+02A,Business Analyst,1,8/24/2020
+02A,JS_HTML_CSS_.Net,1,8/24/2020
+02A,Manual Testing,6,8/24/2020
+02A,PowerBI,2,8/24/2020
+02A,SSIS,2,8/24/2020
+001A,Others,1,8/24/2020
+001A,Systems and Networking,1,8/24/2020
+1,.Net,1,8/24/2020
+1,Java,1,8/24/2020
+1,JS_HTML_CSS_Java,1,8/24/2020
+1,PS-Java,1,8/24/2020
+02A,Fullstack Java,3,8/24/2020
+02A,Java,10,8/24/2020
+02A,Manual Testing,4,8/24/2020
+02A,Scrum Master,1,8/24/2020
+02A,Selenium Java,2,8/24/2020
+02B,AWS DevOps,1,8/24/2020
+02B,Java,4,8/24/2020
+02B,Selenium Java,1,8/24/2020
+01A,.Net,3,8/24/2020
+01A,HL7,8,8/24/2020
+01A,Mirth,1,8/24/2020
+01A,Selenium Java,1,8/24/2020
+01A,SQL,1,8/24/2020
+01B,.Net,4,8/24/2020
+01B,Database Testing,1,8/24/2020
+01B,Datastage,1,8/24/2020
+01B,Business Analyst,1,8/24/2020
+01B,HL7,15,8/24/2020
+01B,Java,1,8/24/2020
+01B,Lotus Notes,1,8/24/2020
+01B,Manual Testing,3,8/24/2020
+01B,Mirth,2,8/24/2020
+02A,.Net,3,8/24/2020
+02A,JS_HTML_CSS_.Net,2,8/24/2020
+02A,Manual Testing,1,8/24/2020
+02A,Technical Management,1,8/24/2020
+02B,.Net,1,8/24/2020
+03A,.Net,11,8/24/2020
+03A,JS_HTML_CSS_.Net,1,8/24/2020
+03A,Manual Testing,3,8/24/2020
+03B,.Net,2,8/24/2020
+03B,Manual Testing,1,8/24/2020
+03B,Mobile Applications,1,8/24/2020
+04A,.Net,13,8/24/2020
+04A,HL7,1,8/24/2020
+04A,JS_HTML_CSS_.Net,2,8/24/2020
+04A,Manual Testing,2,8/24/2020
+04A,Mirth,1,8/24/2020
+04A,Selenium Java,1,8/24/2020
+04A,SQL,1,8/24/2020
+04A,SSIS,1,8/24/2020
+04A,Tableau,1,8/24/2020
+04B,.Net,2,8/24/2020
+04B,SQL,1,8/24/2020
+04B,Tableau,1,8/24/2020
+001B,SSIS,2,8/24/2020
+015A,AS400,1,8/24/2020
+015A,Datastage,1,8/24/2020
+015A,Java,2,8/24/2020
+015A,JS_HTML_CSS_Java,2,8/24/2020
+015A,Selenium Java,1,8/24/2020
+015A,Technical Management,2,8/24/2020
+16A,AS400,27,8/24/2020
+16A,AS400,3,8/24/2020
+16A,AS400,1,8/24/2020
+16A,AS400 Java,2,8/24/2020
+16A,AS400 MT,2,8/24/2020
+16A,Automation Testing,3,8/24/2020
+16A,DB2,1,8/24/2020
+16A,Business Analyst,1,8/24/2020
+16A,HL7,3,8/24/2020
+16A,Java,5,8/24/2020
+16A,JS_HTML_CSS_Java,4,8/24/2020
+16A,Manual Testing,16,8/24/2020
+16A,Quality,1,8/24/2020
+16A,Selenium .NET,2,8/24/2020
+16A,Selenium Java,1,8/24/2020
+16A,SSIS,1,8/24/2020
+16A,Technical Management,2,8/24/2020
+16B,Automation Testing,1,8/24/2020
+01A,.Net,5,8/24/2020
+01A,Azure,2,8/24/2020
+01A,Datastage,3,8/24/2020
+01A,Business Analyst,1,8/24/2020
+01A,HL7,1,8/24/2020
+01A,JS_HTML_CSS_.Net,1,8/24/2020
+01A,JS_HTML_CSS_Java,1,8/24/2020
+01A,Manual Testing,3,8/24/2020
+01A,Quality,2,8/24/2020
+01A,Security Testing,3,8/24/2020
+01A,UX,2,8/24/2020
+001A,.Net,7,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,Java,1,8/24/2020
+001A,Manual Testing,3,8/24/2020
+001A,Others,1,8/24/2020
+001B,.Net,2,8/24/2020
+1,Technical Management,1,8/24/2020
+2,.Net,3,8/24/2020
+2,AM-.NET,1,8/24/2020
+2,JS_HTML_CSS_.Net,1,8/24/2020
+2,Manual Testing,2,8/24/2020
+3,Manual Testing,4,8/24/2020
+4,IT Management,1,8/24/2020
+4,Oracle DBA,3,8/24/2020
+4,SQL,1,8/24/2020
+4,Technical Management,1,8/24/2020
+4,Technical Support,2,8/24/2020
+01A,.Net,1,8/24/2020
+01A,Fullstack Java,1,8/24/2020
+01A,IOS,1,8/24/2020
+01A,Java,3,8/24/2020
+01A,JS_HTML_CSS_.Net,1,8/24/2020
+01A,JS_HTML_CSS_Java,1,8/24/2020
+01A,Performance Testing,1,8/24/2020
+01B,Java,2,8/24/2020
+01B,JS_HTML_CSS_.Net,1,8/24/2020
+01A,.Net,2,8/24/2020
+01A,Datastage,1,8/24/2020
+01A,UX,1,8/24/2020
+02A,.Net,4,8/24/2020
+02A,Manual Testing,1,8/24/2020
+03A,.Net,4,8/24/2020
+03A,Manual Testing,1,8/24/2020
+04A,.Net,2,8/24/2020
+04A,Manual Testing,1,8/24/2020
+02A,.Net,9,8/24/2020
+02A,HL7,2,8/24/2020
+02A,JS_HTML_CSS_.Net,1,8/24/2020
+02A,Manual Testing,4,8/24/2020
+11,.Net,2,8/24/2020
+11,Technical Management,1,8/24/2020
+12,.Net,2,8/24/2020
+12,AWS,1,8/24/2020
+13,.Net,1,8/24/2020
+13,AWS,1,8/24/2020
+13,JS_HTML_CSS_.Net,1,8/24/2020
+13,PS-.Net,1,8/24/2020
+14,C++,3,8/24/2020
+14,Embedded Systems,1,8/24/2020
+14,JS_HTML_CSS_.Net,1,8/24/2020
+14,Mobile Applications,1,8/24/2020
+14,SSAS,1,8/24/2020
+15,Manual Testing,7,8/24/2020
+16,.Net,1,8/24/2020
+16,AWS,1,8/24/2020
+16,C++,2,8/24/2020
+16,JS_HTML_CSS_.Net,1,8/24/2020
+16,Manual Testing,4,8/24/2020
+16,PS-.Net,1,8/24/2020
+16,SSAS,1,8/24/2020
+16,Technical Management,1,8/24/2020
+17,.Net,1,8/24/2020
+001A,IT Management,3,8/24/2020
+001A,Systems and Networking,1,8/24/2020
+1,.Net,10,8/24/2020
+1,Hadoop,2,8/24/2020
+1,Business Analyst,1,8/24/2020
+1,HL7,5,8/24/2020
+1,Java,3,8/24/2020
+1,JS_HTML_CSS_.Net,1,8/24/2020
+1,Manual Testing,5,8/24/2020
+1,Mirth,3,8/24/2020
+1,PS-.Net,2,8/24/2020
+1,PS-Java,1,8/24/2020
+1,SSAS,1,8/24/2020
+1,SSIS,1,8/24/2020
+1,SSRS,1,8/24/2020
+3,.Net,2,8/24/2020
+04A,HL7,2,8/24/2020
+04A,Java,1,8/24/2020
+04A,JS_HTML_CSS_.Net,1,8/24/2020
+04A,Mirth,1,8/24/2020
+04A,Selenium .NET,1,8/24/2020
+05A,DevOps,1,8/24/2020
+05A,JS_HTML_CSS_.Net,1,8/24/2020
+05A,Manual Testing,1,8/24/2020
+05A,Performance Testing,4,8/24/2020
+06A,.Net,3,8/24/2020
+06A,Azure,1,8/24/2020
+06A,Business Analyst,1,8/24/2020
+07A,Datastage,2,8/24/2020
+1,Manual Testing,10,8/24/2020
+1,SQL,4,8/24/2020
+1,SQL Server DBA,4,8/24/2020
+1,SSAS,2,8/24/2020
+1,SSIS,10,8/24/2020
+1,Technical Management,3,8/24/2020
+01B,.Net,2,8/24/2020
+01B,Business Analyst,1,8/24/2020
+01B,Manual Testing,1,8/24/2020
+01B,Scrum Master,1,8/24/2020
+01B,SSIS,2,8/24/2020
+04B,Data Science,4,8/24/2020
+04B,Business Analyst,1,8/24/2020
+04B,SSAS,1,8/24/2020
+1,.Net,24,8/24/2020
+1,Automation Testing,3,8/24/2020
+1,AWS,1,8/24/2020
+1,Database Testing,1,8/24/2020
+1,Business Analyst,1,8/24/2020
+1,HL7,3,8/24/2020
+1,JS_HTML_CSS_.Net,2,8/24/2020
+1,Manual Testing,11,8/24/2020
+1,Others,1,8/24/2020
+1,Sales,3,8/24/2020
+1,Selenium .NET,1,8/24/2020
+1,Selenium Java,2,8/24/2020
+1,SQL,2,8/24/2020
+1,SSAS,1,8/24/2020
+1,SSIS,2,8/24/2020
+1,SSRS,2,8/24/2020
+1,Technical Management,1,8/24/2020
+3,.Net,10,8/24/2020
+3,AWS,1,8/24/2020
+3,Manual Testing,2,8/24/2020
+3,Others,1,8/24/2020
+3,Sales,2,8/24/2020
+3,Selenium Java,1,8/24/2020
+3,SSAS,1,8/24/2020
+1,.Net,1,8/24/2020
+1,AM-.NET,3,8/24/2020
+1,Performance Engineering,1,8/24/2020
+1,PS-.Net,1,8/24/2020
+002A,Performance Engineering,1,8/24/2020
+002B,.Net,6,8/24/2020
+002B,AM-.NET,1,8/24/2020
+002B,SSIS and ETL,1,8/24/2020
+002B,Performance Engineering,1,8/24/2020
+002B,PS-.Net,1,8/24/2020
+002B,SQL,7,8/24/2020
+002B,SSAS,1,8/24/2020
+002B,SSIS,4,8/24/2020
+002B,SSRS,3,8/24/2020
+002B,Technical Management,1,8/24/2020
+002D,Database Technologies,1,8/24/2020
+002D,Datastage,2,8/24/2020
+002D,Business Analyst,1,8/24/2020
+002D,SQL,1,8/24/2020
+002D,SSAS,1,8/24/2020
+002D,SSIS,2,8/24/2020
+002D,SSRS,1,8/24/2020
+3,.Net,2,8/24/2020
+3,AM-.NET,1,8/24/2020
+4,Java,1,8/24/2020
+4,JS_HTML_CSS_Java,1,8/24/2020
+4,SSAS,1,8/24/2020
+005A,Datastage,1,8/24/2020
+005A,Manual Testing,1,8/24/2020
+005A,SSIS,2,8/24/2020
+005A,Technical Writing,2,8/24/2020
+005B,.Net,1,8/24/2020
+005B,AWS DevOps,1,8/24/2020
+005B,Business Objects,1,8/24/2020
+005B,Data Science,1,8/24/2020
+005B,Database Technologies,1,8/24/2020
+005B,Database Testing,2,8/24/2020
+005B,DataModeler,1,8/24/2020
+005B,Datastage,7,8/24/2020
+005B,Business Analyst,4,8/24/2020
+005B,Java,2,8/24/2020
+005B,Manual Testing,2,8/24/2020
+005B,Others,1,8/24/2020
+005B,SQL,5,8/24/2020
+005B,SSAS,1,8/24/2020
+005B,SSIS,7,8/24/2020
+005B,SSRS,1,8/24/2020
+005B,Tableau,2,8/24/2020
+005B,Technical Management,1,8/24/2020
+005B,Technical Writing,1,8/24/2020
+006A,Database Technologies,1,8/24/2020
+006A,Manual Testing,1,8/24/2020
+006A,SQL,1,8/24/2020
+006A,SSIS,2,8/24/2020
+006B,Database Technologies,1,8/24/2020
+006B,SSIS,1,8/24/2020
+006C,Database Technologies,1,8/24/2020
+007A,Business Objects,1,8/24/2020
+007A,Manual Testing,1,8/24/2020
+007A,SSIS,1,8/24/2020
+007B,Business Objects,1,8/24/2020
+007B,SSIS,1,8/24/2020
+008A,Datastage,1,8/24/2020
+008A,Manual Testing,1,8/24/2020
+008A,SSIS,2,8/24/2020
+008A,Tableau,1,8/24/2020
+008A,Technical Writing,1,8/24/2020
+008B,Sales,1,8/24/2020
+008B,SSRS,1,8/24/2020
+009A,Datastage,1,8/24/2020
+009A,Manual Testing,1,8/24/2020
+009A,SSIS,1,8/24/2020
+009B,Business Analyst,1,8/24/2020
+009B,Sales,1,8/24/2020
+009B,SSIS,1,8/24/2020
+011B,Business Analyst,1,8/24/2020
+011B,Java,1,8/24/2020
+011B,SQL,1,8/24/2020
+011B,Tableau,1,8/24/2020
+012A,Datastage,1,8/24/2020
+012A,Sharepoint,1,8/24/2020
+012A,SSIS,2,8/24/2020
+012A,Tableau,1,8/24/2020
+012B,Business Objects,1,8/24/2020
+012B,Java,1,8/24/2020
+012B,SSIS,4,8/24/2020
+012B,SSRS,1,8/24/2020
+012B,Tableau,6,8/24/2020
+013A,Technical Writing,2,8/24/2020
+013B,Technical Writing,1,8/24/2020
+014B,Database Technologies,1,8/24/2020
+014B,Datastage,10,8/24/2020
+014B,Java,1,8/24/2020
+014B,SQL,4,8/24/2020
+014B,SSRS,1,8/24/2020
+015B,Data Science,1,8/24/2020
+015B,Database Technologies,1,8/24/2020
+015B,DataModeler,1,8/24/2020
+015B,SSIS and ETL,1,8/24/2020
+015B,Others,1,8/24/2020
+015B,SQL,3,8/24/2020
+015B,SSAS,1,8/24/2020
+015B,SSIS,1,8/24/2020
+016B,AWS DevOps,1,8/24/2020
+016B,Database Testing,2,8/24/2020
+016B,Business Analyst,4,8/24/2020
+016B,HL7,2,8/24/2020
+016B,Manual Testing,3,8/24/2020
+016B,Marketing,2,8/24/2020
+016B,Others,1,8/24/2020
+017A,.Net,1,8/24/2020
+017B,.Net,5,8/24/2020
+017B,Datastage,1,8/24/2020
+018A,IOS,1,8/24/2020
+018A,Mobile Applications,1,8/24/2020
+019B,Data Science,2,8/24/2020
+019B,Google Cloud,1,8/24/2020
+01A,Business Analyst,1,8/24/2020
+01A,Technical Management,1,8/24/2020
+01B,Java,1,8/24/2020
+1,.Net,2,8/24/2020
+1,IOS,1,8/24/2020
+1,Manual Testing,2,8/24/2020
+03A,Cold Fusion,15,8/24/2020
+03A,Java,6,8/24/2020
+03A,JS_HTML_CSS_Java,2,8/24/2020
+03A,Manual Testing,9,8/24/2020
+03A,Oracle DBA,1,8/24/2020
+03A,Oracle Fusion middleware,1,8/24/2020
+03A,Selenium Java,1,8/24/2020
+03B,C++,1,8/24/2020
+03B,DevOps,1,8/24/2020
+03B,JS_HTML_CSS_Java,1,8/24/2020
+03B,Technical Management,2,8/24/2020
+04A,.Net,35,8/24/2020
+04A,Business Analyst,1,8/24/2020
+04A,JS_HTML_CSS_.Net,4,8/24/2020
+04A,Manual Testing,16,8/24/2020
+04A,Others,1,8/24/2020
+04A,Performance Testing,1,8/24/2020
+04A,PL SQL,1,8/24/2020
+04A,Selenium Java,1,8/24/2020
+04A,SQL,1,8/24/2020
+04B,.Net,1,8/24/2020
+04B,DevOps,1,8/24/2020
+04B,Technical Management,1,8/24/2020
+04C,.Net,1,8/24/2020
+05A,Cold Fusion,1,8/24/2020
+05A,Data Science,1,8/24/2020
+05A,Java,4,8/24/2020
+05A,Oracle ADF,5,8/24/2020
+05A,Oracle Fusion middleware,3,8/24/2020
+05A,Oracle Web Center,1,8/24/2020
+05A,PL SQL,1,8/24/2020
+05B,.Net,1,8/24/2020
+05B,EDI,1,8/24/2020
+05B,Business Analyst,1,8/24/2020
+05B,Java,1,8/24/2020
+05B,Oracle ADF,3,8/24/2020
+05B,SQL,1,8/24/2020
+05B,Tableau,1,8/24/2020
+05B,Technical Management,1,8/24/2020
+06A,Business Objects,1,8/24/2020
+06A,Datastage,1,8/24/2020
+06A,Business Analyst,1,8/24/2020
+06A,Oracle BI,1,8/24/2020
+06B,Business Analyst,1,8/24/2020
+07A,Oracle forms,1,8/24/2020
+08A,Data Science,3,8/24/2020
+08B,Data Science,2,8/24/2020
+09A,.Net,9,8/24/2020
+09A,Manual Testing,2,8/24/2020
+10A,Data Science,3,8/24/2020
+10A,SSIS,2,8/24/2020
+10B,Data Science,1,8/24/2020
+11A,.Net,1,8/24/2020
+11B,EDI,1,8/24/2020
+11B,Tableau,1,8/24/2020
+12A,.Net,4,8/24/2020
+12A,Manual Testing,3,8/24/2020
+13A,Oracle DBA,1,8/24/2020
+13A,Others,1,8/24/2020
+14A,Oracle Fusion middleware,1,8/24/2020
+14A,Systems and Networking,1,8/24/2020
+15A,Fullstack Java,1,8/24/2020
+16A,EDI,3,8/24/2020
+16A,Informatica,2,8/24/2020
+16A,Java,2,8/24/2020
+16A,Tableau,1,8/24/2020
+1,.Net,23,8/24/2020
+1,Automation Testing,3,8/24/2020
+1,JS_HTML_CSS_.Net,1,8/24/2020
+1,JS_HTML_CSS_Java,1,8/24/2020
+1,Manual Testing,2,8/24/2020
+1,Selenium .NET,2,8/24/2020
+1,Technical Management,1,8/24/2020
+2,.Net,3,8/24/2020
+3,.Net,9,8/24/2020
+3,C++,1,8/24/2020
+3,HL7,2,8/24/2020
+3,SQL,1,8/24/2020
+4,.Net,7,8/24/2020
+4,Automation Testing,1,8/24/2020
+4,C++,2,8/24/2020
+4,Selenium Java,1,8/24/2020
+5,.Net,4,8/24/2020
+5,Manual Testing,1,8/24/2020
+006A,.Net,3,8/24/2020
+006A,Business Analyst,1,8/24/2020
+006A,Java,6,8/24/2020
+006A,JS_HTML_CSS_.Net,1,8/24/2020
+006A,JS_HTML_CSS_Java,4,8/24/2020
+007A,.Net,3,8/24/2020
+007A,Datastage,1,8/24/2020
+007A,Java,4,8/24/2020
+007A,JS_HTML_CSS_Java,1,8/24/2020
+007A,Manual Testing,1,8/24/2020
+007A,Performance Testing,1,8/24/2020
+007A,PHP,1,8/24/2020
+007A,Selenium,1,8/24/2020
+007B,.Net,1,8/24/2020
+008A,.Net,25,8/24/2020
+008A,C++,2,8/24/2020
+008A,Fullstack .NET,3,8/24/2020
+008A,Business Analyst,1,8/24/2020
+008A,Java,1,8/24/2020
+008A,JS_HTML_CSS_.Net,7,8/24/2020
+008A,JS_HTML_CSS_Java,1,8/24/2020
+008A,Manual Testing,7,8/24/2020
+008A,Performance Testing,3,8/24/2020
+008A,Selenium .NET,12,8/24/2020
+008A,Selenium Java,7,8/24/2020
+008B,.Net,1,8/24/2020
+009A,.Net,4,8/24/2020
+009A,Business Analyst,1,8/24/2020
+009A,JS_HTML_CSS_.Net,2,8/24/2020
+009A,Manual Testing,3,8/24/2020
+009A,Selenium .NET,2,8/24/2020
+010A,.Net,4,8/24/2020
+010A,Business Analyst,2,8/24/2020
+010A,Java,1,8/24/2020
+010A,JS_HTML_CSS_.Net,2,8/24/2020
+010A,JS_HTML_CSS_Java,1,8/24/2020
+011A,.Net,2,8/24/2020
+011A,C++,2,8/24/2020
+011A,Selenium Java,1,8/24/2020
+01A,Datastage,2,8/24/2020
+01A,PL SQL,2,8/24/2020
+01A,SQL,1,8/24/2020
+01A,SSIS,3,8/24/2020
+01A,SSRS,1,8/24/2020
+01A,Technical Support,2,8/24/2020
+02A,JS_HTML_CSS_.Net,1,8/24/2020
+02A,SSIS,1,8/24/2020
+03A,Database Testing,1,8/24/2020
+03A,Datastage,1,8/24/2020
+04A,.Net,1,8/24/2020
+04A,Hadoop,1,8/24/2020
+05A,HL7,1,8/24/2020
+05A,PL SQL,1,8/24/2020
+06A,Ab Initio,1,8/24/2020
+06A,Azure,1,8/24/2020
+06A,Database Testing,2,8/24/2020
+06A,Business Analyst,1,8/24/2020
+06A,Others,2,8/24/2020
+06A,Performance Testing,2,8/24/2020
+06A,Sales,1,8/24/2020
+06A,Security Testing,2,8/24/2020
+06A,SQL,2,8/24/2020
+06A,SSIS,2,8/24/2020
+07A,.Net,1,8/24/2020
+08A,Database Testing,1,8/24/2020
+08A,Datastage,1,8/24/2020
+08A,DevOps,1,8/24/2020
+08A,Hadoop,4,8/24/2020
+08A,HL7,2,8/24/2020
+08A,Java,1,8/24/2020
+08A,Others,1,8/24/2020
+08A,Performance Testing,2,8/24/2020
+08A,Security Testing,2,8/24/2020
+09B,.Net,1,8/24/2020
+10B,Business Analyst,1,8/24/2020
+11A,Datastage,1,8/24/2020
+11A,Cognos,1,8/24/2020
+11A,Database Testing,1,8/24/2020
+11A,Datastage,1,8/24/2020
+11A,Business Analyst,1,8/24/2020
+11A,Manual Testing,1,8/24/2020
+11A,SQL,1,8/24/2020
+12A,Data Science,1,8/24/2020
+12A,Business Analyst,1,8/24/2020
+12A,Java,1,8/24/2020
+14A,Datastage,1,8/24/2020
+14A,Java,3,8/24/2020
+14A,JS_HTML_CSS_Java,3,8/24/2020
+14A,Manual Testing,2,8/24/2020
+14A,Others,1,8/24/2020
+14A,Performance Testing,1,8/24/2020
+14A,Security Testing,2,8/24/2020
+15A,Datastage,1,8/24/2020
+15A,Hadoop,2,8/24/2020
+15A,HL7,1,8/24/2020
+15A,Java,1,8/24/2020
+16A,Database Testing,3,8/24/2020
+16A,Datastage,2,8/24/2020
+16A,Java,1,8/24/2020
+16A,Others,1,8/24/2020
+16A,Performance Testing,1,8/24/2020
+16A,Security Testing,1,8/24/2020
+17A,Azure DevOps,1,8/24/2020
+17A,Hadoop,2,8/24/2020
+17A,Others,1,8/24/2020
+17B,Azure,1,8/24/2020
+17B,SSIS,1,8/24/2020
+001A,.Net,5,8/24/2020
+001A,JS_HTML_CSS_.Net,1,8/24/2020
+001A,Others,1,8/24/2020
+001A,SQL,1,8/24/2020
+001A,Technical Management,2,8/24/2020
+001B,.Net,1,8/24/2020
+001B,Technical Management,1,8/24/2020
+002A,Hadoop,1,8/24/2020
+002A,HL7,11,8/24/2020
+002A,Java,3,8/24/2020
+002A,Mirth,6,8/24/2020
+002A,PS-.Net,4,8/24/2020
+002A,SQL,1,8/24/2020
+002B,HL7,2,8/24/2020
+002C,HL7,1,8/24/2020
+004A,Hadoop,1,8/24/2020
+004A,HL7,8,8/24/2020
+004A,Mirth,6,8/24/2020
+004A,PS-.Net,2,8/24/2020
+004A,Technical Management,2,8/24/2020
+005A,.Net,6,8/24/2020
+005A,AS400,1,8/24/2020
+005A,JS_HTML_CSS_.Net,2,8/24/2020
+005A,Manual Testing,1,8/24/2020
+005A,SQL,1,8/24/2020
+005A,Tableau,1,8/24/2020
+005A,Technical Management,1,8/24/2020
+006A,Datastage,1,8/24/2020
+006A,Database Technologies,1,8/24/2020
+006A,Manual Testing,1,8/24/2020
+006A,SSIS,1,8/24/2020
+007A,Manual Testing,1,8/24/2020
+007A,Mirth,2,8/24/2020
+007A,Selenium,2,8/24/2020
+008A,Java,4,8/24/2020
+008A,Selenium Java,1,8/24/2020
+009A,Manual Testing,1,8/24/2020
+009A,Selenium,1,8/24/2020
+009A,Selenium Java,1,8/24/2020
+010B,HL7,1,8/24/2020
+01A,.Net,2,8/24/2020
+01A,HL7,1,8/24/2020
+01A,Mirth,1,8/24/2020
+01A,SQL,3,8/24/2020
+01A,SSAS,1,8/24/2020
+01A,SSIS,2,8/24/2020
+01B,.Net,1,8/24/2020
+02B,SSIS,1,8/24/2020
+01A,.Net,9,8/24/2020
+01A,Fullstack .NET,1,8/24/2020
+01A,Business Analyst,4,8/24/2020
+01A,JS_HTML_CSS_.Net,9,8/24/2020
+01A,Manual Testing,3,8/24/2020
+01A,Selenium .NET,3,8/24/2020
+01A,Selenium Java,1,8/24/2020
+01A,Tableau,1,8/24/2020
+01B,.Net,1,8/24/2020
+01B,IOS,1,8/24/2020
+01A,.Net,11,8/24/2020
+01A,C++,1,8/24/2020
+01A,HL7,1,8/24/2020
+01A,JS_HTML_CSS_.Net,2,8/24/2020
+01A,JS_HTML_CSS_Java,1,8/24/2020
+01A,Manual Testing,4,8/24/2020
+01A,Performance Testing,4,8/24/2020
+01A,Security Testing,1,8/24/2020
+01A,Selenium Java,1,8/24/2020
+01A,SQL,1,8/24/2020
+01A,SSAS,1,8/24/2020
+01A,SSIS,1,8/24/2020
+01A,Technical Management,1,8/24/2020
+01A,Mobile Applications,2,8/24/2020
+01A,Others,1,8/24/2020
+1,.Net,1,8/24/2020
+01B,Tableau,1,8/24/2020
+001A,.Net,3,8/24/2020
+001A,C++,2,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,JS_HTML_CSS_.Net,1,8/24/2020
+001A,Manual Testing,3,8/24/2020
+001A,Technical Management,1,8/24/2020
+001B,C++,1,8/24/2020
+01A,.Net,1,8/24/2020
+01A,Database Testing,5,8/24/2020
+01A,DataModeler,1,8/24/2020
+01A,Datastage,6,8/24/2020
+01A,Business Analyst,1,8/24/2020
+01A,Informatica,2,8/24/2020
+01A,Manual Testing,2,8/24/2020
+01A,Oracle forms,1,8/24/2020
+01A,Others,3,8/24/2020
+01A,PowerBI,1,8/24/2020
+01A,SQL,3,8/24/2020
+01A,SSIS,3,8/24/2020
+01B,DataModeler,1,8/24/2020
+01B,Datastage,1,8/24/2020
+01B,Business Analyst,2,8/24/2020
+01B,Others,1,8/24/2020
+02A,HL7,2,8/24/2020
+02B,Automation Testing,1,8/24/2020
+03A,Database Testing,1,8/24/2020
+03A,Datastage,3,8/24/2020
+03A,Manual Testing,1,8/24/2020
+03A,SSIS,1,8/24/2020
+03A,Technical Writing,1,8/24/2020
+03B,Datastage,2,8/24/2020
+04A,Database Testing,5,8/24/2020
+04A,Datastage,10,8/24/2020
+04A,Business Analyst,1,8/24/2020
+04A,HL7,1,8/24/2020
+04A,Informatica,1,8/24/2020
+04A,Manual Testing,1,8/24/2020
+04A,Oracle forms,1,8/24/2020
+04A,Others,4,8/24/2020
+04A,PowerBI,1,8/24/2020
+04A,SSIS,2,8/24/2020
+04B,Automation Testing,1,8/24/2020
+04B,DataModeler,2,8/24/2020
+04B,Datastage,1,8/24/2020
+04B,Business Analyst,3,8/24/2020
+04B,Oracle DBA,1,8/24/2020
+04B,Others,1,8/24/2020
+04B,Sales,1,8/24/2020
+04B,SQL,2,8/24/2020
+05B,SQL,1,8/24/2020
+06A,Database Testing,4,8/24/2020
+06A,Datastage,6,8/24/2020
+06A,Business Analyst,1,8/24/2020
+06A,HL7,2,8/24/2020
+06A,Manual Testing,1,8/24/2020
+06A,Others,1,8/24/2020
+06A,Performance Testing,1,8/24/2020
+06A,Security Testing,1,8/24/2020
+06A,SQL,1,8/24/2020
+06B,DataModeler,2,8/24/2020
+06B,Datastage,1,8/24/2020
+06B,Others,1,8/24/2020
+07B,Automation Testing,1,8/24/2020
+08A,.Net,1,8/24/2020
+08A,DataModeler,1,8/24/2020
+08B,DataModeler,1,8/24/2020
+08B,Business Analyst,2,8/24/2020
+09A,.Net,1,8/24/2020
+09A,Database Testing,1,8/24/2020
+09A,Datastage,1,8/24/2020
+09B,DataModeler,1,8/24/2020
+09B,Business Analyst,2,8/24/2020
+10B,Business Analyst,1,8/24/2020
+11B,Product Management,1,8/24/2020
+12A,Fullstack Java,1,8/24/2020
+12A,HL7,1,8/24/2020
+12A,Java,1,8/24/2020
+12B,Business Analyst,1,8/24/2020
+13A,DataModeler,1,8/24/2020
+13A,Oracle forms,1,8/24/2020
+13A,Python,1,8/24/2020
+13B,Business Analyst,1,8/24/2020
+13B,Oracle DBA,1,8/24/2020
+16A,Datastage,2,8/24/2020
+16A,HL7,1,8/24/2020
+16B,Datastage,1,8/24/2020
+16B,Others,1,8/24/2020
+01A,Automation Testing,1,8/24/2020
+01A,Informatica,1,8/24/2020
+01B,Business Analyst,1,8/24/2020
+02A,Automation Testing,1,8/24/2020
+02B,Business Analyst,6,8/24/2020
+02B,Java,1,8/24/2020
+03A,Business Analyst,1,8/24/2020
+03A,Manual Testing,1,8/24/2020
+03B,Business Analyst,3,8/24/2020
+03B,Java,1,8/24/2020
+03B,SQL,1,8/24/2020
+01A,Database Technologies,1,8/24/2020
+01A,Manual Testing,1,8/24/2020
+01A,SSAS,1,8/24/2020
+01A,SSIS,1,8/24/2020
+01A,SSRS,1,8/24/2020
+01A,Java,2,8/24/2020
+02A,.Net,3,8/24/2020
+02A,Business Analyst,2,8/24/2020
+02A,HL7,2,8/24/2020
+02A,Java,1,8/24/2020
+02A,Technical Management,1,8/24/2020
+001,.Net,28,8/24/2020
+001,AM-.NET,2,8/24/2020
+001,Data Science,1,8/24/2020
+001,Business Analyst,1,8/24/2020
+001,Java,1,8/24/2020
+1,JS_HTML_CSS_.Net,6,8/24/2020
+1,Manual Testing,14,8/24/2020
+1,Sales,2,8/24/2020
+1,Sharepoint,1,8/24/2020
+1,Technical Management,2,8/24/2020
+01A,.Net,8,8/24/2020
+01A,Datastage,1,8/24/2020
+01A,Data Science,1,8/24/2020
+01A,Database Testing,1,8/24/2020
+01A,Fullstack Java,1,8/24/2020
+01A,Java,1,8/24/2020
+01A,Manual Testing,2,8/24/2020
+01A,Python,1,8/24/2020
+2,.Net,1,8/24/2020
+02A,Business Analyst,1,8/24/2020
+02A,Java,8,8/24/2020
+02A,JS_HTML_CSS_Java,2,8/24/2020
+02A,Manual Testing,3,8/24/2020
+02B,JS_HTML_CSS_Java,1,8/24/2020
+03A,Business Analyst,2,8/24/2020
+03A,Java,25,8/24/2020
+03A,JS_HTML_CSS_Java,2,8/24/2020
+03A,Manual Testing,5,8/24/2020
+03A,Technical Writing,1,8/24/2020
+03A,UX,1,8/24/2020
+03B,Java,2,8/24/2020
+03C,Business Analyst,1,8/24/2020
+03C,Java,2,8/24/2020
+04A,Java,1,8/24/2020
+04A,Technical Writing,1,8/24/2020
+05A,Database Technologies,1,8/24/2020
+05A,Informatica,1,8/24/2020
+05A,Tableau,1,8/24/2020
+06A,Fullstack Java,1,8/24/2020
+06A,Java,1,8/24/2020
+06A,Oracle forms,5,8/24/2020
+07A,Datastage,2,8/24/2020
+07A,IOS,1,8/24/2020
+07A,JS_HTML_CSS_.Net,1,8/24/2020
+07A,Mobile Applications,2,8/24/2020
+07A,SSIS,1,8/24/2020
+07A,Tableau,1,8/24/2020
+08A,.Net,8,8/24/2020
+08A,C++,1,8/24/2020
+08A,Datastage,1,8/24/2020
+08A,Business Analyst,2,8/24/2020
+08A,JS_HTML_CSS_.Net,2,8/24/2020
+08A,Manual Testing,3,8/24/2020
+08A,Technical Writing,1,8/24/2020
+09A,.Net,1,8/24/2020
+09A,C++,1,8/24/2020
+09A,Datastage,2,8/24/2020
+09A,Fullstack Java,2,8/24/2020
+09A,IOS,3,8/24/2020
+09A,Java,11,8/24/2020
+09A,JS_HTML_CSS_Java,6,8/24/2020
+09A,Manual Testing,4,8/24/2020
+09A,PHP,1,8/24/2020
+09A,Security Testing,1,8/24/2020
+09A,Selenium Java,1,8/24/2020
+09A,UI,2,8/24/2020
+10A,Fullstack Java,1,8/24/2020
+10A,Java,6,8/24/2020
+10A,Manual Testing,3,8/24/2020
+10A,Selenium Java,1,8/24/2020
+10A,UI,1,8/24/2020
+10B,Business Analyst,1,8/24/2020
+10B,HL7,1,8/24/2020
+10B,Java,2,8/24/2020
+11A,.Net,2,8/24/2020
+11A,Angular,1,8/24/2020
+11A,C++,1,8/24/2020
+11A,Datastage,1,8/24/2020
+11A,Data Science,1,8/24/2020
+11A,Fullstack .NET,2,8/24/2020
+11A,JS_HTML_CSS_.Net,1,8/24/2020
+11A,JS_HTML_CSS_Java,1,8/24/2020
+11A,Manual Testing,4,8/24/2020
+11A,Technical Writing,1,8/24/2020
+11B,.Net,1,8/24/2020
+12A,Business Objects,1,8/24/2020
+12A,Datastage,2,8/24/2020
+12A,Database Technologies,23,8/24/2020
+12A,Database Testing,9,8/24/2020
+12A,Datastage,1,8/24/2020
+12A,Business Analyst,2,8/24/2020
+12A,HL7,1,8/24/2020
+12A,Informatica,2,8/24/2020
+12A,Java,2,8/24/2020
+12A,JS_HTML_CSS_.Net,1,8/24/2020
+12A,JS_HTML_CSS_Java,1,8/24/2020
+12A,Manual Testing,6,8/24/2020
+12A,Netezza,1,8/24/2020
+12A,Oracle forms,1,8/24/2020
+12A,Oracle Fusion middleware,6,8/24/2020
+12A,Others,1,8/24/2020
+12A,Spotfire,4,8/24/2020
+12A,SQL,2,8/24/2020
+12A,SSIS,4,8/24/2020
+12A,Tableau,1,8/24/2020
+12A,Technical Writing,1,8/24/2020
+12B,Informatica,1,8/24/2020
+13A,.Net,1,8/24/2020
+13A,IOS,1,8/24/2020
+13A,JS_HTML_CSS_.Net,1,8/24/2020
+13A,Manual Testing,1,8/24/2020
+15A,IOS,1,8/24/2020
+001,.Net,8,8/24/2020
+001,Manual Testing,2,8/24/2020
+001,Others,1,8/24/2020
+001,PS-.Net,1,8/24/2020
+001,Sales,1,8/24/2020
+001,Technical Management,1,8/24/2020
+001,C++,3,8/24/2020
+001,Manual Testing,1,8/24/2020
+001,Sales,1,8/24/2020
+002,.Net,12,8/24/2020
+002,Automation Testing,3,8/24/2020
+002,C++,19,8/24/2020
+002,Java,1,8/24/2020
+002,JS_HTML_CSS_.Net,2,8/24/2020
+002,Selenium,1,8/24/2020
+002,Technical Support,1,8/24/2020
+002B,.Net,5,8/24/2020
+002B,Automation Testing,1,8/24/2020
+002B,C++,3,8/24/2020
+002B,JS_HTML_CSS_.Net,1,8/24/2020
+002B,Manual Testing,1,8/24/2020
+003,HL7,1,8/24/2020
+003,Manual Testing,24,8/24/2020
+003B,Manual Testing,8,8/24/2020
+004,.Net,10,8/24/2020
+004,C++,1,8/24/2020
+004,HL7,1,8/24/2020
+004,Reporting,1,8/24/2020
+004,Technical Support,1,8/24/2020
+005A,.Net,3,8/24/2020
+005A,Automation Testing,1,8/24/2020
+005A,JS_HTML_CSS_.Net,1,8/24/2020
+005A,Technical Support,1,8/24/2020
+005B,.Net,2,8/24/2020
+006A,.Net,6,8/24/2020
+006A,Automation Testing,1,8/24/2020
+006A,C++,3,8/24/2020
+007A,Manual Testing,15,8/24/2020
+008A,.Net,5,8/24/2020
+008A,SQL,1,8/24/2020
+01A,Database Testing,1,8/24/2020
+01A,Manual Testing,1,8/24/2020
+01A,Selenium .NET,3,8/24/2020
+01A,Selenium Java,1,8/24/2020
+01B,Automation Testing,1,8/24/2020
+01B,Selenium .NET,1,8/24/2020
+02A,.Net,4,8/24/2020
+02A,Manual Testing,1,8/24/2020
+03A,.Net,9,8/24/2020
+03A,Data Science,1,8/24/2020
+03A,Fullstack .NET,2,8/24/2020
+03A,Business Analyst,4,8/24/2020
+03A,JS_HTML_CSS_.Net,1,8/24/2020
+03A,Manual Testing,6,8/24/2020
+03A,Quality,2,8/24/2020
+03A,Technical Writing,1,8/24/2020
+04A,.Net,6,8/24/2020
+04A,JS_HTML_CSS_.Net,1,8/24/2020
+05A,.Net,9,8/24/2020
+05A,Data Science,1,8/24/2020
+06A,Business Analyst,1,8/24/2020
+06A,Tableau,1,8/24/2020
+07A,.Net,28,8/24/2020
+07A,Data Science,1,8/24/2020
+07A,DevOps,1,8/24/2020
+07A,Fullstack .NET,2,8/24/2020
+07A,Business Analyst,3,8/24/2020
+07A,HL7,4,8/24/2020
+07A,Java,1,8/24/2020
+07A,JS_HTML_CSS_.Net,1,8/24/2020
+07A,JS_HTML_CSS_Java,1,8/24/2020
+07A,Manual Testing,20,8/24/2020
+07A,Mobile Applications,1,8/24/2020
+07A,Others,15,8/24/2020
+07A,Performance Testing,1,8/24/2020
+07A,Security Testing,1,8/24/2020
+07A,Selenium .NET,2,8/24/2020
+07A,Selenium Java,4,8/24/2020
+07A,SQL,2,8/24/2020
+07A,SSRS,1,8/24/2020
+08A,Manual Testing,2,8/24/2020
+08A,Selenium,1,8/24/2020
+08A,Selenium Java,10,8/24/2020
+01A,Business Analyst,2,8/24/2020
+01A,HL7,24,8/24/2020
+01A,IOS,1,8/24/2020
+01A,Mirth,3,8/24/2020
+01A,SQL,1,8/24/2020
+01B,HL7,12,8/24/2020
+01B,Java,1,8/24/2020
+01B,Mirth,1,8/24/2020
+001A,HL7,7,8/24/2020
+001A,Manual Testing,5,8/24/2020
+001A,Selenium Java,2,8/24/2020
+001B,Automation Testing,1,8/24/2020
+001B,HL7,7,8/24/2020
+001B,JS_HTML_CSS_Java,1,8/24/2020
+001B,Manual Testing,2,8/24/2020
+001B,Mirth,2,8/24/2020
+001B,PS-.Net,1,8/24/2020
+002,.Net,2,8/24/2020
+002,Business Analyst,1,8/24/2020
+002,HL7,19,8/24/2020
+002,Lotus Notes,1,8/24/2020
+002,PS-.Net,2,8/24/2020
+002,SQL,1,8/24/2020
+003,HL7,7,8/24/2020
+003,Java,1,8/24/2020
+003,JS_HTML_CSS_Java,1,8/24/2020
+003,Manual Testing,1,8/24/2020
+003,Mirth,1,8/24/2020
+003,PS-.Net,2,8/24/2020
+003,PS-Java,2,8/24/2020
+003,SQL,1,8/24/2020
+003,SSIS,1,8/24/2020
+004,AS400,1,8/24/2020
+004,Business Analyst,1,8/24/2020
+005B,.Net,1,8/24/2020
+005C,.Net,1,8/24/2020
+007A,HL7,1,8/24/2020
+007B,.Net,2,8/24/2020
+007B,Fullstack Java,1,8/24/2020
+007B,HL7,5,8/24/2020
+007B,Java,1,8/24/2020
+007B,SQL,1,8/24/2020
+001A,HL7,1,8/24/2020
+001A,.Net,2,8/24/2020
+001A,Business Analyst,2,8/24/2020
+001B,HL7,7,8/24/2020
+01A,Java,1,8/24/2020
+01A,JS_HTML_CSS_Java,1,8/24/2020
+01A,Java,5,8/24/2020
+01A,JS_HTML_CSS_Java,1,8/24/2020
+01A,Manual Testing,3,8/24/2020
+01A,.Net,7,8/24/2020
+01A,Automation Testing,1,8/24/2020
+01A,Datastage,1,8/24/2020
+01A,Database Technologies,2,8/24/2020
+01A,Manual Testing,2,8/24/2020
+01A,Oracle forms,2,8/24/2020
+01A,Others,1,8/24/2020
+01A,SQL,3,8/24/2020
+01A,SSIS,3,8/24/2020
+01A,Tableau,2,8/24/2020
+01A,UX,1,8/24/2020
+02A,IT Management,3,8/24/2020
+02A,Systems and Networking,3,8/24/2020
+03A,.Net,11,8/24/2020
+03A,Business Analyst,1,8/24/2020
+03A,JS_HTML_CSS_Java,1,8/24/2020
+03A,Manual Testing,3,8/24/2020
+03A,Performance Testing,1,8/24/2020
+03B,JS_HTML_CSS_Java,1,8/24/2020
+001B,HL7,1,8/24/2020
+001,.Net,5,8/24/2020
+001,Automation Testing,1,8/24/2020
+001,Manual Testing,3,8/24/2020
+001,Others,1,8/24/2020
+001,PS-.Net,2,8/24/2020
+001,Technical Management,1,8/24/2020
+001,.Net,1,8/24/2020
+001,JS_HTML_CSS_.Net,1,8/24/2020
+001A,Datastage,4,8/24/2020
+001A,Business Analyst,2,8/24/2020
+001A,Performance Engineering,1,8/24/2020
+001A,SQL,1,8/24/2020
+001C,Datastage,1,8/24/2020
+001C,Business Analyst,1,8/24/2020
+001C,Performance Engineering,1,8/24/2020
+1,.Net,4,8/24/2020
+1,Sales,1,8/24/2020
+1,SQL,1,8/24/2020
+1,SQL Server DBA,1,8/24/2020
+1,SSIS,2,8/24/2020
+2,.Net,1,8/24/2020
+3,.Net,2,8/24/2020
+4,HL7,1,8/24/2020
+02A,.Net,2,8/24/2020
+02A,Datastage,1,8/24/2020
+02A,Sales,1,8/24/2020
+02C,.Net,1,8/24/2020
+02C,Performance Engineering,1,8/24/2020
+02C,Sales,1,8/24/2020
+04A,SSIS,1,8/24/2020
+05A,Selenium Java,4,8/24/2020
+06A,HL7,1,8/24/2020
+07A,HL7,5,8/24/2020
+07A,Manual Testing,1,8/24/2020
+07A,Mirth,1,8/24/2020
+07A,Others,1,8/24/2020
+11,Technical Management,3,8/24/2020
+12,Automation Testing,10,8/24/2020
+12,Manual Testing,1,8/24/2020
+12,Performance Testing,1,8/24/2020
+12,Selenium .NET,1,8/24/2020
+12,Selenium Java,3,8/24/2020
+013A,DevOps,1,8/24/2020
+013A,Business Analyst,1,8/24/2020
+013A,Manual Testing,27,8/24/2020
+013A,Performance Testing,1,8/24/2020
+013A,Selenium Java,1,8/24/2020
+013B,Manual Testing,3,8/24/2020
+14,Automation Testing,1,8/24/2020
+14,Java,22,8/24/2020
+14,JS_HTML_CSS_Java,4,8/24/2020
+14,Manual Testing,1,8/24/2020
+14,Oracle ADF,2,8/24/2020
+14,SSIS,1,8/24/2020
+14,Technical Management,1,8/24/2020
+014C,Java,2,8/24/2020
+014C,JS_HTML_CSS_Java,1,8/24/2020
+15,C++,1,8/24/2020
+15,Java,5,8/24/2020
+15,JS_HTML_CSS_Java,2,8/24/2020
+15,Technical Management,1,8/24/2020
+16,HL7,1,8/24/2020
+16,Java,1,8/24/2020
+16,JS_HTML_CSS_.Net,1,8/24/2020
+17,Manual Testing,3,8/24/2020
+18,Automation Testing,2,8/24/2020
+19,Automation Testing,2,8/24/2020
+19,Java,1,8/24/2020
+19,JS_HTML_CSS_Java,1,8/24/2020
+19,Technical Management,1,8/24/2020
+20,Automation Testing,1,8/24/2020
+20,Manual Testing,1,8/24/2020
+21,.Net,2,8/24/2020
+21,Manual Testing,1,8/24/2020
+26,.Net,6,8/24/2020
+26,DevOps,1,8/24/2020
+26,Manual Testing,3,8/24/2020
+26,Sales,1,8/24/2020
+26,Sharepoint,1,8/24/2020
+26,SQL,2,8/24/2020
+26,SSAS,1,8/24/2020
+26,SSIS,3,8/24/2020
+26,Technical Management,1,8/24/2020
+26,Technical Writing,1,8/24/2020
+28,Automation Testing,1,8/24/2020
+28,Business Analyst,1,8/24/2020
+28,Manual Testing,3,8/24/2020
+28,Selenium .NET,1,8/24/2020
+29,.Net,3,8/24/2020
+29,JS_HTML_CSS_.Net,1,8/24/2020
+29,Manual Testing,1,8/24/2020
+29,Technical Management,1,8/24/2020
+30,Automation Testing,1,8/24/2020
+30,Java,2,8/24/2020
+30,Technical Management,1,8/24/2020
+31A,Technical Management,1,8/24/2020
+31B,.Net,2,8/24/2020
+31B,SQL,1,8/24/2020
+31B,SSIS,4,8/24/2020
+31B,SSRS,1,8/24/2020
+32A,.Net,1,8/24/2020
+32A,SSIS,1,8/24/2020
+32B,.Net,1,8/24/2020
+32B,SQL,1,8/24/2020
+32B,SSIS,1,8/24/2020
+33A,Hadoop,1,8/24/2020
+33A,Java,5,8/24/2020
+33A,JS_HTML_CSS_Java,1,8/24/2020
+33B,JS_HTML_CSS_Java,1,8/24/2020
+33C,Hadoop,1,8/24/2020
+001A,Adobe Flex,1,8/24/2020
+001A,Datastage,1,8/24/2020
+001A,Fullstack Java,1,8/24/2020
+001A,Java,38,8/24/2020
+001A,JS_HTML_CSS_Java,7,8/24/2020
+001A,Manual Testing,2,8/24/2020
+001A,Performance Testing,1,8/24/2020
+001A,Selenium Java,2,8/24/2020
+001A,Technical Management,1,8/24/2020
+001B,Java,2,8/24/2020
+001B,JS_HTML_CSS_Java,3,8/24/2020
+002A,HL7,1,8/24/2020
+02A,Database Testing,1,8/24/2020
+02A,Fullstack .NET,1,8/24/2020
+02A,Business Analyst,4,8/24/2020
+02A,Manual Testing,3,8/24/2020
+02A,SQL,2,8/24/2020
+02A,SQL Server DBA,1,8/24/2020
+02A,SSIS,3,8/24/2020
+02A,Tableau,1,8/24/2020
+02A,Technical Management,1,8/24/2020
+02B,HL7,2,8/24/2020
+02B,SSIS,1,8/24/2020
+02B,Tableau,1,8/24/2020
+03A,Business Analyst,2,8/24/2020
+03A,SSIS,1,8/24/2020
+03A,Technical Management,1,8/24/2020
+03B,Business Analyst,1,8/24/2020
+04A,AWS,1,8/24/2020
+04A,Azure,2,8/24/2020
+04A,Database Testing,2,8/24/2020
+04A,Security Testing,1,8/24/2020
+04A,SQL,1,8/24/2020
+04A,SSIS,1,8/24/2020
+04B,SSIS and ETL,1,8/24/2020
+01A,Datastage,2,8/24/2020
+01A,Business Analyst,1,8/24/2020
+02A,Technical Writing,1,8/24/2020
+02B,SSIS,5,8/24/2020
+02B,SSRS,1,8/24/2020
+001A,.Net,2,8/24/2020
+001A,AS400,1,8/24/2020
+001A,SSIS and ETL,1,8/24/2020
+001A,Informatica,1,8/24/2020
+001A,SQL,3,8/24/2020
+001A,SQL Server DBA,2,8/24/2020
+001A,SSAS,5,8/24/2020
+001A,SSIS,7,8/24/2020
+001A,SSRS,1,8/24/2020
+001A,Technical Management,1,8/24/2020
+001B,Informatica,1,8/24/2020
+001A,Database Testing,3,8/24/2020
+001A,Datastage,1,8/24/2020
+001A,SSIS,3,8/24/2020
+001A,Tableau,1,8/24/2020
+01B,Cognos,1,8/24/2020
+01A,Database Testing,3,8/24/2020
+01A,Manual Testing,4,8/24/2020
+01B,.Net,1,8/24/2020
+01B,Database Technologies,2,8/24/2020
+01B,Database Testing,1,8/24/2020
+01B,Hadoop,1,8/24/2020
+01B,Manual Testing,2,8/24/2020
+01B,Others,1,8/24/2020
+01B,SQL,1,8/24/2020
+01B,SSIS,1,8/24/2020
+01C,Database Testing,1,8/24/2020
+01C,Manual Testing,1,8/24/2020
+02A,Database Testing,1,8/24/2020
+02B,.Net,1,8/24/2020
+03B,.Net,1,8/24/2020
+01A,Business Analyst,1,8/24/2020
+01A,HL7,1,8/24/2020
+01A,Java,2,8/24/2020
+01A,JS_HTML_CSS_Java,1,8/24/2020
+01A,Manual Testing,1,8/24/2020
+02B,HL7,1,8/24/2020
+02C,HL7,1,8/24/2020
+01A,.Net,17,8/24/2020
+01A,Automation Testing,1,8/24/2020
+01A,Fullstack .NET,2,8/24/2020
+01A,IOS,1,8/24/2020
+01A,JS_HTML_CSS_.Net,8,8/24/2020
+01A,JS_HTML_CSS_Java,2,8/24/2020
+01A,Manual Testing,2,8/24/2020
+01A,Selenium .NET,1,8/24/2020
+01A,Selenium Java,5,8/24/2020
+01B,.Net,5,8/24/2020
+01B,Tableau,1,8/24/2020
+02A,Datastage,2,8/24/2020
+02A,Business Analyst,7,8/24/2020
+01A,.Net,3,8/24/2020
+01A,C++,1,8/24/2020
+01A,Data Science,1,8/24/2020
+01A,Database Technologies,1,8/24/2020
+01A,Business Analyst,1,8/24/2020
+01A,Java,3,8/24/2020
+01A,JS_HTML_CSS_.Net,2,8/24/2020
+01A,JS_HTML_CSS_Java,1,8/24/2020
+01A,Manual Testing,8,8/24/2020
+01A,Others,2,8/24/2020
+01A,Performance Testing,1,8/24/2020
+01A,Ruby on Rails,2,8/24/2020
+01A,Security Testing,1,8/24/2020
+01A,Selenium Java,2,8/24/2020
+01A,SQL,1,8/24/2020
+01A,SSIS,1,8/24/2020
+01A,Technical Management,1,8/24/2020
+01A,Technical Writing,2,8/24/2020
+01A,UX,2,8/24/2020
+01B,.Net,1,8/24/2020
+01B,SSIS and ETL,1,8/24/2020
+01C,Others,1,8/24/2020
+01A,Business Analyst,2,8/24/2020
+01A,HL7,1,8/24/2020
+01A,Mirth,1,8/24/2020
+01A,Selenium,1,8/24/2020
+01A,Selenium Java,3,8/24/2020
+02A,.Net,1,8/24/2020
+02A,Business Analyst,1,8/24/2020
+02A,HL7,7,8/24/2020
+02A,Mirth,2,8/24/2020
+02B,Business Analyst,1,8/24/2020
+03A,.Net,7,8/24/2020
+03A,C++,2,8/24/2020
+03A,Datastage,1,8/24/2020
+03A,UX,1,8/24/2020
+04A,.Net,6,8/24/2020
+04A,Azure,1,8/24/2020
+04A,Datastage,1,8/24/2020
+04A,Business Analyst,2,8/24/2020
+04A,Manual Testing,1,8/24/2020
+04A,Salesforce Cloud,1,8/24/2020
+04A,Security Testing,2,8/24/2020
+05A,.Net,3,8/24/2020
+001A,JS_HTML_CSS_Java,1,8/24/2020
+001B,.Net,1,8/24/2020
+001B,Hadoop,5,8/24/2020
+001B,HL7,2,8/24/2020
+001B,Java,2,8/24/2020
+001B,JS_HTML_CSS_Java,1,8/24/2020
+001B,Python,3,8/24/2020
+001A,Java,3,8/24/2020
+001A,Manual Testing,2,8/24/2020
+001A,Ruby on Rails,1,8/24/2020
+001A,Selenium Java,1,8/24/2020
+001B,AWS DevOps,1,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,Manual Testing,15,8/24/2020
+001A,Others,1,8/24/2020
+001A,Performance Testing,4,8/24/2020
+001A,Selenium Java,2,8/24/2020
+001B,HL7,1,8/24/2020
+001B,Manual Testing,1,8/24/2020
+001B,Technical Management,1,8/24/2020
+002A,Manual Testing,5,8/24/2020
+002A,Selenium Java,1,8/24/2020
+003A,.Net,1,8/24/2020
+003A,Business Analyst,1,8/24/2020
+003B,.Net,1,8/24/2020
+004B,BPM,1,8/24/2020
+005A,.Net,2,8/24/2020
+005A,IOS,2,8/24/2020
+005A,Java,3,8/24/2020
+005A,JS_HTML_CSS_Java,2,8/24/2020
+005A,Manual Testing,2,8/24/2020
+006A,Manual Testing,2,8/24/2020
+006A,Selenium Java,1,8/24/2020
+01A,Manual Testing,1,8/24/2020
+001A,.Net,1,8/24/2020
+001A,C++,1,8/24/2020
+001A,JS_HTML_CSS_Java,1,8/24/2020
+001A,Manual Testing,2,8/24/2020
+001A,Others,1,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,Java,2,8/24/2020
+01A,.Net,3,8/24/2020
+01A,Fullstack .NET,1,8/24/2020
+01A,JS_HTML_CSS_.Net,1,8/24/2020
+01A,Manual Testing,3,8/24/2020
+01A,Selenium Java,1,8/24/2020
+01A,Performance Testing,2,8/24/2020
+01A,PowerBI,1,8/24/2020
+01A,Tableau,2,8/24/2020
+2,.Net,5,8/24/2020
+2,Manual Testing,1,8/24/2020
+2,Technical Management,1,8/24/2020
+3,.Net,7,8/24/2020
+3,Manual Testing,2,8/24/2020
+4,Technical Management,1,8/24/2020
+5,Technical Management,1,8/24/2020
+6,.Net,1,8/24/2020
+7,Technical Management,1,8/24/2020
+8,.Net,1,8/24/2020
+9,.Net,3,8/24/2020
+9,Automation Testing,1,8/24/2020
+9,Manual Testing,1,8/24/2020
+9,Performance Engineering,1,8/24/2020
+9,SSIS,1,8/24/2020
+10,Automation Testing,1,8/24/2020
+10,Java,1,8/24/2020
+11,Automation Testing,1,8/24/2020
+11,Business Analyst,1,8/24/2020
+11,Manual Testing,5,8/24/2020
+11,Technical Management,1,8/24/2020
+12,Technical Management,1,8/24/2020
+13,.Net,1,8/24/2020
+13,Manual Testing,1,8/24/2020
+13,Performance Engineering,1,8/24/2020
+14,.Net,1,8/24/2020
+15,.Net,2,8/24/2020
+15,Java,1,8/24/2020
+16,.Net,2,8/24/2020
+16,C++,2,8/24/2020
+16,Manual Testing,1,8/24/2020
+17,.Net,4,8/24/2020
+17,Automation Testing,1,8/24/2020
+17,Business Analyst,1,8/24/2020
+17,Performance Engineering,1,8/24/2020
+18,Manual Testing,1,8/24/2020
+18,Technical Management,1,8/24/2020
+19,Technical Management,1,8/24/2020
+20,.Net,1,8/24/2020
+21,.Net,1,8/24/2020
+21,Performance Engineering,1,8/24/2020
+22,Automation Testing,1,8/24/2020
+22,Manual Testing,1,8/24/2020
+23,.Net,2,8/24/2020
+23,Automation Testing,1,8/24/2020
+23,Technical Management,1,8/24/2020
+24,Manual Testing,4,8/24/2020
+25,.Net,2,8/24/2020
+25,Automation Testing,2,8/24/2020
+25,Business Analyst,1,8/24/2020
+25,Manual Testing,14,8/24/2020
+25,Performance Engineering,1,8/24/2020
+25,Selenium,1,8/24/2020
+25,Technical Management,4,8/24/2020
+26,.Net,6,8/24/2020
+26,Fullstack .NET,1,8/24/2020
+26,Java,2,8/24/2020
+26,Manual Testing,9,8/24/2020
+26,Performance Engineering,1,8/24/2020
+27,.Net,6,8/24/2020
+27,JS_HTML_CSS_.Net,1,8/24/2020
+27,Performance Engineering,1,8/24/2020
+28,.Net,1,8/24/2020
+28,JS_HTML_CSS_.Net,1,8/24/2020
+28,Manual Testing,3,8/24/2020
+28,Selenium Java,1,8/24/2020
+28,SSIS,1,8/24/2020
+28,SSRS,1,8/24/2020
+28,Technical Management,1,8/24/2020
+29,.Net,1,8/24/2020
+29,JS_HTML_CSS_.Net,1,8/24/2020
+29,SSAS,2,8/24/2020
+29,SSIS,1,8/24/2020
+30,.Net,1,8/24/2020
+31,Datastage,1,8/24/2020
+31,Business Analyst,1,8/24/2020
+31,HL7,3,8/24/2020
+31,SSIS and ETL,39,8/24/2020
+31,Perl,3,8/24/2020
+32,.Net,1,8/24/2020
+32,JS_HTML_CSS_.Net,1,8/24/2020
+32,SSAS,1,8/24/2020
+033A,.Net,6,8/24/2020
+033A,AS400 Java,1,8/24/2020
+033A,C++,1,8/24/2020
+033A,Datastage,1,8/24/2020
+033A,Data Science,1,8/24/2020
+033A,HL7,4,8/24/2020
+033A,Java,4,8/24/2020
+033A,JS_HTML_CSS_.Net,3,8/24/2020
+033A,JS_HTML_CSS_Java,1,8/24/2020
+033A,Manual Testing,2,8/24/2020
+033A,Mirth,2,8/24/2020
+033A,Others,1,8/24/2020
+033A,PS-.Net,2,8/24/2020
+033A,PS-Java,1,8/24/2020
+033A,SQL,4,8/24/2020
+033A,SSAS,3,8/24/2020
+033A,SSIS,2,8/24/2020
+033B,.Net,1,8/24/2020
+033B,AS400,1,8/24/2020
+033B,AS400,2,8/24/2020
+033B,C++,11,8/24/2020
+033B,Java,1,8/24/2020
+033B,JS_HTML_CSS_Java,2,8/24/2020
+033B,Manual Testing,1,8/24/2020
+033B,Others,1,8/24/2020
+033B,Technical Management,1,8/24/2020
+033D,SSIS,1,8/24/2020
+36,Java,1,8/24/2020
+037B,.Net,2,8/24/2020
+037B,Fullstack .NET,1,8/24/2020
+038A,Business Analyst,1,8/24/2020
+038A,Manual Testing,23,8/24/2020
+038A,Selenium Java,5,8/24/2020
+038B,Automation Testing,1,8/24/2020
+038B,Business Analyst,3,8/24/2020
+038B,Manual Testing,3,8/24/2020
+038B,Selenium Java,1,8/24/2020
+01A,Business Analyst,2,8/24/2020
+01A,SQL,2,8/24/2020
+01A,SSIS,1,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,Java,4,8/24/2020
+001A,JS_HTML_CSS_Java,1,8/24/2020
+001A,Manual Testing,1,8/24/2020
+16A,.Net,1,8/24/2020
+16A,HL7,1,8/24/2020
+16A,JS_HTML_CSS_.Net,1,8/24/2020
+16A,Sales,1,8/24/2020
+17A,.Net,2,8/24/2020
+18A,.Net,1,8/24/2020
+18A,JS_HTML_CSS_.Net,1,8/24/2020
+18A,Manual Testing,1,8/24/2020
+02A,.Net,1,8/24/2020
+02A,Ab Initio,1,8/24/2020
+02A,Azure,2,8/24/2020
+02A,Datastage,1,8/24/2020
+02A,Database Technologies,1,8/24/2020
+02A,Database Testing,1,8/24/2020
+02A,Business Analyst,1,8/24/2020
+02A,Manual Testing,1,8/24/2020
+02A,Qlikview,1,8/24/2020
+02A,SQL,1,8/24/2020
+02A,SQL Server DBA,1,8/24/2020
+02A,SSIS,6,8/24/2020
+02B,SSIS,1,8/24/2020
+51,Technical Management,1,8/24/2020
+52,Java,4,8/24/2020
+52,Lotus Notes,2,8/24/2020
+52,Manual Testing,1,8/24/2020
+52,Sales,1,8/24/2020
+53,Database Technologies,1,8/24/2020
+53,Sales,1,8/24/2020
+53,SSIS,1,8/24/2020
+54,Lotus Notes,1,8/24/2020
+55,Java,7,8/24/2020
+55,JS_HTML_CSS_Java,1,8/24/2020
+55,Manual Testing,2,8/24/2020
+55,Sales,2,8/24/2020
+56,Automation Testing,1,8/24/2020
+56,Manual Testing,2,8/24/2020
+57,Data Science,1,8/24/2020
+57,Business Analyst,1,8/24/2020
+57,HL7,60,8/24/2020
+57,IT Management,2,8/24/2020
+57,Java,2,8/24/2020
+57,JS_HTML_CSS_Java,2,8/24/2020
+57,Lotus Notes,6,8/24/2020
+57,Manual Testing,3,8/24/2020
+57,Mirth,2,8/24/2020
+57,Others,2,8/24/2020
+57,PS-.Net,1,8/24/2020
+57,PS-Java,2,8/24/2020
+57,Quality,1,8/24/2020
+57,SSAS,1,8/24/2020
+57,Technical Management,3,8/24/2020
+57,Technical Support,1,8/24/2020
+58,Automation Testing,2,8/24/2020
+58,Database Technologies,1,8/24/2020
+58,Business Analyst,1,8/24/2020
+58,HL7,1,8/24/2020
+58,Java,18,8/24/2020
+58,JS_HTML_CSS_Java,2,8/24/2020
+58,Lotus Notes,2,8/24/2020
+58,Manual Testing,7,8/24/2020
+58,Quality,1,8/24/2020
+58,Sales,2,8/24/2020
+58,Selenium .NET,1,8/24/2020
+58,Selenium Java,1,8/24/2020
+58,SSAS,6,8/24/2020
+58,SSIS,1,8/24/2020
+58,Technical Management,1,8/24/2020
+59,HL7,2,8/24/2020
+59,PS-Java,2,8/24/2020
+60,Sales,1,8/24/2020
+61,Business Analyst,2,8/24/2020
+61,Java,5,8/24/2020
+61,Lotus Notes,1,8/24/2020
+61,Others,1,8/24/2020
+61,Quality,1,8/24/2020
+61,Selenium Java,1,8/24/2020
+62,HL7,23,8/24/2020
+62,IT Management,2,8/24/2020
+62,Java,1,8/24/2020
+62,Lotus Notes,3,8/24/2020
+62,Mirth,1,8/24/2020
+62,Others,1,8/24/2020
+62,Technical Management,2,8/24/2020
+062 B,HL7,2,8/24/2020
+063 A,Datastage,1,8/24/2020
+063 A,Java,2,8/24/2020
+063 A,Selenium,1,8/24/2020
+063 A,Selenium Java,1,8/24/2020
+064 A,Java,4,8/24/2020
+064 A,JS_HTML_CSS_Java,1,8/24/2020
+064 A,Oracle forms,1,8/24/2020
+064 A,Selenium Java,5,8/24/2020
+065 A,Fullstack Java,1,8/24/2020
+065 A,Java,3,8/24/2020
+065 A,Manual Testing,3,8/24/2020
+066 A,Adobe Flex,1,8/24/2020
+066 A,Java,4,8/24/2020
+066 A,SSIS,1,8/24/2020
+067 A,Fullstack Java,1,8/24/2020
+067 A,Java,3,8/24/2020
+067 A,Selenium Java,6,8/24/2020
+067 B,Fullstack Java,1,8/24/2020
+067 B,Java,4,8/24/2020
+067 B,Selenium Java,4,8/24/2020
+069 A,Selenium Java,4,8/24/2020
+070 A,DataModeler,1,8/24/2020
+071 A,Fullstack Java,2,8/24/2020
+071 A,Java,3,8/24/2020
+071 A,Systems and Networking,1,8/24/2020
+072 A,IOS,3,8/24/2020
+072 A,Mobile Applications,5,8/24/2020
+073 A,Fullstack Java,3,8/24/2020
+073 A,Hadoop,1,8/24/2020
+073 A,Java,3,8/24/2020
+073 A,Selenium Java,3,8/24/2020
+074 A,.Net,7,8/24/2020
+074 A,Azure DevOps,1,8/24/2020
+074 A,C++,1,8/24/2020
+074 A,Fullstack .NET,1,8/24/2020
+074 A,Java,2,8/24/2020
+074 A,JS_HTML_CSS_.Net,1,8/24/2020
+074 A,Selenium Java,3,8/24/2020
+02A,Azure,1,8/24/2020
+02A,Data Science,4,8/24/2020
+02A,Database Testing,1,8/24/2020
+02A,Business Analyst,1,8/24/2020
+02A,Manual Testing,1,8/24/2020
+02A,SSIS,2,8/24/2020
+02A,Statistical Analysis,1,8/24/2020
+03A,Cognos,1,8/24/2020
+03A,Hadoop,1,8/24/2020
+03A,Business Analyst,3,8/24/2020
+03A,Manual Testing,1,8/24/2020
+03A,SQL,1,8/24/2020
+03A,SSAS,2,8/24/2020
+03A,SSIS,3,8/24/2020
+03A,Tableau,1,8/24/2020
+03A,UX,1,8/24/2020
+04A,SQL,1,8/24/2020
+04A,SSIS,3,8/24/2020
+01A,.Net,2,8/24/2020
+01A,Azure,3,8/24/2020
+01A,IOS,1,8/24/2020
+01A,JS_HTML_CSS_.Net,2,8/24/2020
+01A,Manual Testing,1,8/24/2020
+01A,PowerBI,1,8/24/2020
+01A,Security Testing,2,8/24/2020
+01A,Selenium Java,2,8/24/2020
+1,Call-Center,3,8/24/2020
+1,Finance,1,8/24/2020
+001A,.Net,1,8/24/2020
+001A,JS_HTML_CSS_Java,1,8/24/2020
+001A,Manual Testing,4,8/24/2020
+001A,Others,1,8/24/2020
+001A,PHP,8,8/24/2020
+1,AM-.NET,1,8/24/2020
+01A,.Net,4,8/24/2020
+01A,Datastage,1,8/24/2020
+01A,Data Science,1,8/24/2020
+01A,Business Analyst,1,8/24/2020
+01A,JS_HTML_CSS_.Net,2,8/24/2020
+01A,Manual Testing,3,8/24/2020
+01A,Performance Testing,1,8/24/2020
+01A,Security Testing,1,8/24/2020
+01B,.Net,2,8/24/2020
+01B,JS_HTML_CSS_Java,1,8/24/2020
+02A,.Net,1,8/24/2020
+02A,Database Testing,2,8/24/2020
+02A,Hadoop,1,8/24/2020
+02A,Business Analyst,3,8/24/2020
+02A,HL7,3,8/24/2020
+02A,Java,1,8/24/2020
+02A,Manual Testing,3,8/24/2020
+02A,Mirth,3,8/24/2020
+02A,Netezza,1,8/24/2020
+02A,Performance Engineering,1,8/24/2020
+02A,Performance Testing,3,8/24/2020
+02A,Security Testing,2,8/24/2020
+02A,Selenium,1,8/24/2020
+02A,SSIS,2,8/24/2020
+02B,JS_HTML_CSS_Java,1,8/24/2020
+02B,SSIS,1,8/24/2020
+1,.Net,2,8/24/2020
+1,Datastage,1,8/24/2020
+1,Business Analyst,2,8/24/2020
+1,HL7,1,8/24/2020
+1,SSIS and ETL,1,8/24/2020
+1,Systems and Networking,1,8/24/2020
+1,Technical Support,3,8/24/2020
+2,Business Analyst,1,8/24/2020
+2,HL7,1,8/24/2020
+2,SSIS and ETL,1,8/24/2020
+2,Systems and Networking,3,8/24/2020
+3,Business Analyst,1,8/24/2020
+3,HL7,1,8/24/2020
+3,SSIS and ETL,1,8/24/2020
+3,Systems and Networking,1,8/24/2020
+004A,Database Testing,2,8/24/2020
+004A,SQL,1,8/24/2020
+004A,SSIS,2,8/24/2020
+004A,SSRS,1,8/24/2020
+001A,.Net,1,8/24/2020
+001A,SQL,1,8/24/2020
+001C,.Net,1,8/24/2020
+001C,SQL,1,8/24/2020
+03A,.Net,3,8/24/2020
+03A,Java,1,8/24/2020
+03A,JS_HTML_CSS_Java,2,8/24/2020
+03A,Manual Testing,3,8/24/2020
+03A,Sales,1,8/24/2020
+03B,DevOps,1,8/24/2020
+03B,Business Analyst,1,8/24/2020
+05A,HL7,2,8/24/2020
+05A,Java,1,8/24/2020
+05A,PS-.Net,1,8/24/2020
+05A,SSIS,1,8/24/2020
+06A,.Net,1,8/24/2020
+06A,Java,1,8/24/2020
+10B,Business Analyst,1,8/24/2020
+001A,.Net,2,8/24/2020
+001A,HL7,1,8/24/2020
+001A,.Net,1,8/24/2020
+001A,AWS,1,8/24/2020
+001A,Datastage,1,8/24/2020
+001A,DevOps,1,8/24/2020
+001A,Fullstack Java,2,8/24/2020
+001A,Java,4,8/24/2020
+001A,Performance Testing,1,8/24/2020
+001A,Selenium Java,5,8/24/2020
+001A,Technical Writing,1,8/24/2020
+010A,Business Analyst,1,8/24/2020
+010B,Manual Testing,3,8/24/2020
+010B,SQL,1,8/24/2020
+010B,SSRS,1,8/24/2020
+01A,.Net,1,8/24/2020
+01A,Business Objects,1,8/24/2020
+01A,Cognos,1,8/24/2020
+01A,Database Technologies,1,8/24/2020
+01A,Database Testing,9,8/24/2020
+01A,DataModeler,3,8/24/2020
+01A,Datastage,2,8/24/2020
+01A,Business Analyst,1,8/24/2020
+01A,Informatica,25,8/24/2020
+01A,Manual Testing,4,8/24/2020
+01A,Netezza,2,8/24/2020
+01A,Oracle BI,1,8/24/2020
+01A,Oracle forms,1,8/24/2020
+01A,Others,3,8/24/2020
+01A,SQL,1,8/24/2020
+01A,SSAS,3,8/24/2020
+01A,SSIS,7,8/24/2020
+01B,DevOps,1,8/24/2020
+01B,Business Analyst,3,8/24/2020
+01B,SQL,1,8/24/2020
+01C,Oracle forms,1,8/24/2020
+02A,Database Technologies,1,8/24/2020
+02A,Database Testing,1,8/24/2020
+02A,SSIS,5,8/24/2020
+03B,Data Science,1,8/24/2020
+03B,Manual Testing,3,8/24/2020
+03C,Database Testing,1,8/24/2020
+03C,DataModeler,1,8/24/2020
+04B,Informatica,1,8/24/2020
+04B,Oracle DBA,1,8/24/2020
+04B,SQL,3,8/24/2020
+05A,Cognos,1,8/24/2020
+05B,Business Analyst,2,8/24/2020
+05B,HL7,1,8/24/2020
+05B,Informatica,3,8/24/2020
+06B,JS_HTML_CSS_.Net,1,8/24/2020
+07B,SSIS,1,8/24/2020
+1,JS_HTML_CSS_.Net,1,8/24/2020
+1,PS-.Net,1,8/24/2020
+4,Cognos,1,8/24/2020
+4,Data Science,2,8/24/2020
+4,Business Analyst,1,8/24/2020
+4,Manual Testing,1,8/24/2020
+4,SSIS,1,8/24/2020
+01A,.Net,2,8/24/2020
+01A,C++,9,8/24/2020
+01A,Datastage,2,8/24/2020
+01A,HL7,1,8/24/2020
+01A,JS_HTML_CSS_.Net,1,8/24/2020
+01A,JS_HTML_CSS_Java,1,8/24/2020
+01A,Manual Testing,7,8/24/2020
+01A,Others,1,8/24/2020
+1,JS_HTML_CSS_.Net,1,8/24/2020
+1,Manual Testing,1,8/24/2020
+3,.Net,8,8/24/2020
+3,Manual Testing,4,8/24/2020
+3,Performance Engineering,2,8/24/2020
+3,Technical Management,1,8/24/2020
+4,.Net,2,8/24/2020
+4,Manual Testing,2,8/24/2020
+4,Performance Engineering,1,8/24/2020
+4,Technical Management,1,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,HL7,6,8/24/2020
+001A,Manual Testing,2,8/24/2020
+001A,Mirth,2,8/24/2020
+001A,.Net,1,8/24/2020
+001A,HL7,1,8/24/2020
+001A,Manual Testing,2,8/24/2020
+015A,.Net,7,8/24/2020
+015A,Angular,1,8/24/2020
+015A,Automation Testing,4,8/24/2020
+015A,AWS,3,8/24/2020
+015A,C++,4,8/24/2020
+015A,DevOps,4,8/24/2020
+015A,Fullstack Java,1,8/24/2020
+015A,Hadoop,1,8/24/2020
+015A,Business Analyst,3,8/24/2020
+015A,HL7,4,8/24/2020
+015A,IOS,1,8/24/2020
+015A,Java,69,8/24/2020
+015A,JS_HTML_CSS_.Net,2,8/24/2020
+015A,JS_HTML_CSS_Java,20,8/24/2020
+015A,Manual Testing,28,8/24/2020
+015A,Mobile Applications,1,8/24/2020
+015A,Oracle ADF,1,8/24/2020
+015A,Others,1,8/24/2020
+015A,Performance Testing,3,8/24/2020
+015A,Sales,1,8/24/2020
+015A,Selenium,20,8/24/2020
+015A,Selenium Java,17,8/24/2020
+015A,Technical Management,1,8/24/2020
+015A,Technical Support,1,8/24/2020
+015A,Technical Writing,4,8/24/2020
+015B,.Net,5,8/24/2020
+015B,Automation Testing,2,8/24/2020
+015B,Azure,1,8/24/2020
+015B,C++,1,8/24/2020
+015B,DB2,1,8/24/2020
+015B,Business Analyst,4,8/24/2020
+015B,Java,24,8/24/2020
+015B,JS_HTML_CSS_Java,8,8/24/2020
+015B,Manual Testing,2,8/24/2020
+015B,Others,2,8/24/2020
+015B,Selenium Java,1,8/24/2020
+015C,Selenium Java,1,8/24/2020
+016A,AWS,2,8/24/2020
+016A,Fullstack Java,1,8/24/2020
+016A,Java,12,8/24/2020
+016A,JS_HTML_CSS_Java,9,8/24/2020
+016A,Selenium,2,8/24/2020
+016A,Selenium Java,5,8/24/2020
+016B,Business Analyst,1,8/24/2020
+016B,JS_HTML_CSS_Java,2,8/24/2020
+016B,Selenium Java,1,8/24/2020
+001A,.Net,3,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,Manual Testing,3,8/24/2020
+001A,Sales,1,8/24/2020
+001B,.Net,1,8/24/2020
+002C,C++,1,8/24/2020
+3,C++,5,8/24/2020
+3,Database Technologies,1,8/24/2020
+3,Business Analyst,1,8/24/2020
+003A,.Net,48,8/24/2020
+003A,Automation Testing,3,8/24/2020
+003A,C++,3,8/24/2020
+003A,HL7,1,8/24/2020
+003A,Java,13,8/24/2020
+003A,JS_HTML_CSS_.Net,14,8/24/2020
+003A,Manual Testing,18,8/24/2020
+003A,Mobile Applications,3,8/24/2020
+003A,Sales,1,8/24/2020
+003A,Selenium,6,8/24/2020
+003A,Selenium .NET,5,8/24/2020
+003A,Selenium Java,5,8/24/2020
+003B,.Net,17,8/24/2020
+003B,C++,1,8/24/2020
+003B,Fullstack Java,1,8/24/2020
+003B,HL7,1,8/24/2020
+003B,Java,1,8/24/2020
+003B,JS_HTML_CSS_.Net,2,8/24/2020
+003B,Manual Testing,3,8/24/2020
+003B,Technical Writing,1,8/24/2020
+003C,.Net,5,8/24/2020
+003C,JS_HTML_CSS_.Net,1,8/24/2020
+003D,.Net,3,8/24/2020
+003D,Automation Testing,2,8/24/2020
+003D,Fullstack Java,1,8/24/2020
+003D,Java,1,8/24/2020
+003D,Manual Testing,1,8/24/2020
+003D,Selenium,1,8/24/2020
+003D,Selenium .NET,1,8/24/2020
+003D,VB-COM,1,8/24/2020
+4,.Net,2,8/24/2020
+4,AM-.NET,1,8/24/2020
+4,Manual Testing,1,8/24/2020
+004A,.Net,9,8/24/2020
+004A,Java,2,8/24/2020
+004A,JS_HTML_CSS_.Net,2,8/24/2020
+004A,Manual Testing,1,8/24/2020
+004A,Selenium,2,8/24/2020
+004A,Selenium Java,1,8/24/2020
+004B,.Net,1,8/24/2020
+004B,Java,1,8/24/2020
+005A,AS400 MT,2,8/24/2020
+005A,Automation Testing,3,8/24/2020
+005A,Java,18,8/24/2020
+005A,JS_HTML_CSS_Java,1,8/24/2020
+005A,Manual Testing,5,8/24/2020
+005A,Sales,1,8/24/2020
+005A,Selenium,1,8/24/2020
+005A,Selenium Java,2,8/24/2020
+005A,SSRS,1,8/24/2020
+005A,Technical Management,1,8/24/2020
+005B,Java,2,8/24/2020
+005B,JS_HTML_CSS_Java,1,8/24/2020
+6,Java,1,8/24/2020
+006A,Java,5,8/24/2020
+006A,Manual Testing,2,8/24/2020
+006D,Java,12,8/24/2020
+006D,Manual Testing,3,8/24/2020
+006D,Selenium Java,3,8/24/2020
+007A,Automation Testing,1,8/24/2020
+007A,Java,5,8/24/2020
+007A,JS_HTML_CSS_Java,2,8/24/2020
+007A,Manual Testing,1,8/24/2020
+007A,Technical Writing,1,8/24/2020
+007B,Java,2,8/24/2020
+007B,JS_HTML_CSS_Java,1,8/24/2020
+8,Automation Testing,3,8/24/2020
+8,Selenium .NET,1,8/24/2020
+008B,Automation Testing,4,8/24/2020
+008B,Manual Testing,3,8/24/2020
+008B,Selenium .NET,2,8/24/2020
+008B,Selenium Java,1,8/24/2020
+009A,Java,5,8/24/2020
+009A,Manual Testing,2,8/24/2020
+009A,Oracle ADF,1,8/24/2020
+009A,Technical Management,1,8/24/2020
+009B,Oracle ADF,2,8/24/2020
+009D,.Net,1,8/24/2020
+009D,C++,1,8/24/2020
+009D,Fullstack Java,2,8/24/2020
+009D,Java,3,8/24/2020
+009D,Selenium .NET,1,8/24/2020
+009D,Selenium Java,1,8/24/2020
+010A,Oracle DBA,2,8/24/2020
+010A,SSRS,1,8/24/2020
+011A,.Net,10,8/24/2020
+011A,JS_HTML_CSS_.Net,2,8/24/2020
+011A,JS_HTML_CSS_Java,1,8/24/2020
+011A,Manual Testing,2,8/24/2020
+011B,.Net,2,8/24/2020
+012A,.Net,1,8/24/2020
+012A,Java,6,8/24/2020
+012A,JS_HTML_CSS_Java,1,8/24/2020
+012A,Manual Testing,2,8/24/2020
+012A,Selenium,1,8/24/2020
+012A,Selenium .NET,2,8/24/2020
+012A,Selenium Java,3,8/24/2020
+012B,.Net,1,8/24/2020
+012B,Fullstack Java,1,8/24/2020
+013A,Java,5,8/24/2020
+013A,JS_HTML_CSS_Java,4,8/24/2020
+013A,Manual Testing,2,8/24/2020
+014A,Automation Testing,3,8/24/2020
+014A,C++,29,8/24/2020
+014A,Fullstack Java,1,8/24/2020
+014A,Business Analyst,2,8/24/2020
+014A,Java,6,8/24/2020
+014A,JS_HTML_CSS_.Net,1,8/24/2020
+014A,JS_HTML_CSS_Java,1,8/24/2020
+014A,Manual Testing,11,8/24/2020
+014A,Sales,1,8/24/2020
+014A,Selenium .NET,1,8/24/2020
+014A,Selenium Java,2,8/24/2020
+014B,.Net,1,8/24/2020
+014B,C++,4,8/24/2020
+014B,Manual Testing,1,8/24/2020
+014C,.Net,3,8/24/2020
+014C,AWS,1,8/24/2020
+014C,Fullstack Java,1,8/24/2020
+014C,Business Analyst,1,8/24/2020
+014C,Java,10,8/24/2020
+014C,JS_HTML_CSS_.Net,1,8/24/2020
+014C,JS_HTML_CSS_Java,3,8/24/2020
+014C,Manual Testing,4,8/24/2020
+014C,Performance Engineering,1,8/24/2020
+014D,Automation Testing,2,8/24/2020
+014D,Selenium .NET,3,8/24/2020
+014E,Automation Testing,1,8/24/2020
+016A,.Net,5,8/24/2020
+016B,.Net,1,8/24/2020
+016B,Manual Testing,1,8/24/2020
+018B,C++,1,8/24/2020
+019A,Automation Testing,3,8/24/2020
+019A,C++,35,8/24/2020
+019A,Data Science,1,8/24/2020
+019A,Manual Testing,4,8/24/2020
+019A,Others,1,8/24/2020
+019A,Selenium,1,8/24/2020
+019A,Selenium .NET,2,8/24/2020
+019A,Selenium Java,4,8/24/2020
+019B,C++,9,8/24/2020
+019B,Java,2,8/24/2020
+019B,JS_HTML_CSS_.Net,1,8/24/2020
+019B,JS_HTML_CSS_Java,1,8/24/2020
+021A,.Net,1,8/24/2020
+021A,Datastage,1,8/24/2020
+021A,Fullstack .NET,2,8/24/2020
+021A,IOS,1,8/24/2020
+021A,JS_HTML_CSS_.Net,4,8/24/2020
+021A,Manual Testing,4,8/24/2020
+021A,UI,1,8/24/2020
+021B,.Net,1,8/24/2020
+021B,Manual Testing,1,8/24/2020
+022A,C++,6,8/24/2020
+022A,Data Science,1,8/24/2020
+022A,Manual Testing,2,8/24/2020
+025A,.Net,1,8/24/2020
+025A,JS_HTML_CSS_.Net,1,8/24/2020
+026A,C++,8,8/24/2020
+026A,Data Science,1,8/24/2020
+026A,Java,2,8/24/2020
+026A,Manual Testing,1,8/24/2020
+026A,Selenium Java,2,8/24/2020
+026A,Technical Writing,1,8/24/2020
+026B,Java,1,8/24/2020
+026B,JS_HTML_CSS_Java,2,8/24/2020
+027A,C++,4,8/24/2020
+027A,Manual Testing,1,8/24/2020
+027B,Selenium .NET,1,8/24/2020
+028A,Automation Testing,1,8/24/2020
+028A,Java,1,8/24/2020
+028A,JS_HTML_CSS_Java,3,8/24/2020
+028A,Manual Testing,3,8/24/2020
+028A,Sales,1,8/24/2020
+028A,Selenium,1,8/24/2020
+028A,Selenium Java,2,8/24/2020
+029A,C++,6,8/24/2020
+029A,Manual Testing,1,8/24/2020
+029B,DevOps,1,8/24/2020
+02A,.Net,3,8/24/2020
+02A,Automation Testing,3,8/24/2020
+02A,C++,46,8/24/2020
+02A,Business Analyst,2,8/24/2020
+02A,JS_HTML_CSS_.Net,1,8/24/2020
+02A,Manual Testing,19,8/24/2020
+02A,Selenium,1,8/24/2020
+02A,Selenium .NET,1,8/24/2020
+02A,Selenium Java,2,8/24/2020
+02A,Technical Management,1,8/24/2020
+02B,.Net,1,8/24/2020
+02B,C++,13,8/24/2020
+02B,JS_HTML_CSS_.Net,1,8/24/2020
+02B,Sales,1,8/24/2020
+02C,Manual Testing,1,8/24/2020
+030A,.Net,1,8/24/2020
+030A,C++,1,8/24/2020
+030A,Fullstack Java,1,8/24/2020
+030A,JS_HTML_CSS_.Net,1,8/24/2020
+030A,Manual Testing,2,8/24/2020
+031A,.Net,1,8/24/2020
+032A,C++,5,8/24/2020
+032A,Manual Testing,1,8/24/2020
+032A,Selenium .NET,1,8/24/2020
+032B,C++,2,8/24/2020
+033A,Automation Testing,1,8/24/2020
+033A,Manual Testing,6,8/24/2020
+033A,Selenium .NET,5,8/24/2020
+033A,Selenium Java,2,8/24/2020
+034A,.Net,2,8/24/2020
+034A,Java,12,8/24/2020
+034A,JS_HTML_CSS_.Net,1,8/24/2020
+034A,JS_HTML_CSS_Java,5,8/24/2020
+034A,Manual Testing,3,8/24/2020
+034A,Selenium .NET,1,8/24/2020
+034B,AWS,1,8/24/2020
+034B,JS_HTML_CSS_Java,1,8/24/2020
+035A,AWS,1,8/24/2020
+035A,Fullstack Java,1,8/24/2020
+035A,Java,3,8/24/2020
+035A,Manual Testing,1,8/24/2020
+035A,Mobile Applications,1,8/24/2020
+040A,.Net,1,8/24/2020
+040A,C++,1,8/24/2020
+040A,Java,16,8/24/2020
+040A,Manual Testing,2,8/24/2020
+040A,Selenium .NET,1,8/24/2020
+040A,Selenium Java,1,8/24/2020
+040B,JS_HTML_CSS_Java,1,8/24/2020
+041A,C++,6,8/24/2020
+041A,Data Science,1,8/24/2020
+041A,Java,2,8/24/2020
+041A,Manual Testing,1,8/24/2020
+041A,Selenium Java,2,8/24/2020
+042B,JS_HTML_CSS_.Net,1,8/24/2020
+042B,Selenium Java,1,8/24/2020
+044A,.Net,1,8/24/2020
+044A,Database Technologies,1,8/24/2020
+044A,Java,6,8/24/2020
+044A,Manual Testing,1,8/24/2020
+044A,Selenium Java,3,8/24/2020
+044B,Java,1,8/24/2020
+044B,JS_HTML_CSS_Java,1,8/24/2020
+044B,Manual Testing,1,8/24/2020
+047A,.Net,2,8/24/2020
+047A,Fullstack .NET,2,8/24/2020
+047A,JS_HTML_CSS_.Net,1,8/24/2020
+047A,JS_HTML_CSS_Java,1,8/24/2020
+047A,Selenium .NET,1,8/24/2020
+047A,Selenium Java,1,8/24/2020
+047A,Technical Writing,1,8/24/2020
+051A,.Net,1,8/24/2020
+051A,Database Technologies,1,8/24/2020
+051A,Java,2,8/24/2020
+051A,Manual Testing,2,8/24/2020
+051A,Technical Writing,1,8/24/2020
+05A,.Net,6,8/24/2020
+05A,Java,6,8/24/2020
+05A,JS_HTML_CSS_.Net,7,8/24/2020
+05A,Manual Testing,6,8/24/2020
+05A,Selenium,1,8/24/2020
+05A,Selenium Java,3,8/24/2020
+05B,.Net,4,8/24/2020
+05B,JS_HTML_CSS_.Net,1,8/24/2020
+05B,Manual Testing,1,8/24/2020
+06A,.Net,4,8/24/2020
+06A,Datastage,1,8/24/2020
+06A,Hadoop,1,8/24/2020
+06A,Java,7,8/24/2020
+06A,JS_HTML_CSS_.Net,1,8/24/2020
+06A,JS_HTML_CSS_Java,3,8/24/2020
+06A,Manual Testing,2,8/24/2020
+06A,Selenium Java,1,8/24/2020
+07A,C++,1,8/24/2020
+07A,Java,20,8/24/2020
+07A,JS_HTML_CSS_.Net,1,8/24/2020
+07A,Manual Testing,1,8/24/2020
+07A,Selenium .NET,1,8/24/2020
+07A,Selenium Java,1,8/24/2020
+07B,Java,3,8/24/2020
+07B,Selenium Java,1,8/24/2020
+12A,AS400 Java,1,8/24/2020
+12A,AS400 MT,1,8/24/2020
+12A,Business Analyst,1,8/24/2020
+12A,Java,10,8/24/2020
+12A,JS_HTML_CSS_Java,3,8/24/2020
+12A,Manual Testing,3,8/24/2020
+12A,Performance Testing,1,8/24/2020
+12A,Sales,1,8/24/2020
+12B,DevOps,1,8/24/2020
+12B,Java,1,8/24/2020
+13A,Automation Testing,5,8/24/2020
+13A,Selenium .NET,1,8/24/2020
+13A,Selenium Java,2,8/24/2020
+13B,Manual Testing,1,8/24/2020
+17A,Java,5,8/24/2020
+17A,Manual Testing,1,8/24/2020
+17A,Quality,1,8/24/2020
+17A,Sales,1,8/24/2020
+17B,.Net,1,8/24/2020
+17B,C++,4,8/24/2020
+17B,Java,2,8/24/2020
+17B,Manual Testing,1,8/24/2020
+18A,AS400 Java,1,8/24/2020
+18A,Business Analyst,1,8/24/2020
+18A,IOS,1,8/24/2020
+18A,Java,2,8/24/2020
+18A,JS_HTML_CSS_Java,3,8/24/2020
+18A,Manual Testing,3,8/24/2020
+18A,Technical Management,1,8/24/2020
+18B,DB2,1,8/24/2020
+19A,Automation Testing,1,8/24/2020
+19A,Selenium Java,5,8/24/2020
+19B,Angular,1,8/24/2020
+19B,Data Science,1,8/24/2020
+19B,Java,4,8/24/2020
+19B,JS_HTML_CSS_Java,3,8/24/2020
+19B,Others,1,8/24/2020
+19B,Python,1,8/24/2020
+19B,Selenium,1,8/24/2020
+19B,Selenium Java,1,8/24/2020
+20A,.Net,1,8/24/2020
+20A,Business Analyst,1,8/24/2020
+20A,Manual Testing,3,8/24/2020
+20A,SSIS,1,8/24/2020
+21A,.Net,14,8/24/2020
+21A,C++,1,8/24/2020
+21A,JS_HTML_CSS_.Net,2,8/24/2020
+21A,Manual Testing,7,8/24/2020
+21A,Selenium .NET,1,8/24/2020
+21A,Selenium Java,1,8/24/2020
+21B,.Net,1,8/24/2020
+22A,Data Science,1,8/24/2020
+22A,Business Analyst,1,8/24/2020
+22A,Java,3,8/24/2020
+22A,JS_HTML_CSS_Java,3,8/24/2020
+22A,Manual Testing,2,8/24/2020
+22A,Selenium,1,8/24/2020
+22A,Selenium Java,2,8/24/2020
+22A,SSAS,1,8/24/2020
+22A,SSIS,2,8/24/2020
+22A,SSRS,1,8/24/2020
+22A,Technical Management,1,8/24/2020
+23A,Selenium Java,1,8/24/2020
+023A,C++,2,8/24/2020
+023A,Java,2,8/24/2020
+023A,Manual Testing,2,8/24/2020
+024A,.Net,1,8/24/2020
+024A,Java,14,8/24/2020
+024A,JS_HTML_CSS_.Net,1,8/24/2020
+024A,JS_HTML_CSS_Java,5,8/24/2020
+024A,Selenium Java,1,8/24/2020
+025B,.Net,1,8/24/2020
+025B,Fullstack Java,1,8/24/2020
+025B,Java,5,8/24/2020
+025B,JS_HTML_CSS_Java,2,8/24/2020
+025B,Selenium .NET,1,8/24/2020
+029A,Manual Testing,1,8/24/2020
+029A,Selenium,1,8/24/2020
+029A,Technical Writing,1,8/24/2020
+22A,.Net,1,8/24/2020
+22A,Performance Testing,1,8/24/2020
+22A,Selenium Java,1,8/24/2020
+26A,.Net,6,8/24/2020
+26A,Automation Testing,2,8/24/2020
+26A,C++,3,8/24/2020
+26A,IOS,1,8/24/2020
+26A,Java,1,8/24/2020
+26A,JS_HTML_CSS_.Net,2,8/24/2020
+26A,Manual Testing,4,8/24/2020
+26A,Mobile Applications,1,8/24/2020
+26A,Selenium,1,8/24/2020
+26A,Selenium Java,1,8/24/2020
+26B,.Net,1,8/24/2020
+27A,.Net,14,8/24/2020
+27A,C++,2,8/24/2020
+27A,Manual Testing,3,8/24/2020
+27A,Selenium,1,8/24/2020
+27A,Selenium .NET,1,8/24/2020
+001A,Oracle DBA,1,8/24/2020
+030A,Datastage,1,8/24/2020
+030A,Fullstack Java,1,8/24/2020
+030A,Java,13,8/24/2020
+030A,JS_HTML_CSS_.Net,2,8/24/2020
+030A,JS_HTML_CSS_Java,1,8/24/2020
+030A,Manual Testing,2,8/24/2020
+030A,Mirth,1,8/24/2020
+030A,Others,1,8/24/2020
+030A,Selenium,2,8/24/2020
+030A,Selenium Java,1,8/24/2020
+030A,UX,1,8/24/2020
+030B,Fullstack Java,2,8/24/2020
+030B,Java,3,8/24/2020
+001A,Java,10,8/24/2020
+001A,JS_HTML_CSS_Java,4,8/24/2020
+001A,Others,1,8/24/2020
+001A,Selenium,3,8/24/2020
+001A,Selenium Java,1,8/24/2020
+001D,AWS,2,8/24/2020
+001D,DevOps,1,8/24/2020
+001D,Fullstack Java,2,8/24/2020
+001D,Business Analyst,1,8/24/2020
+001D,HL7,1,8/24/2020
+001D,Java,14,8/24/2020
+001D,JS_HTML_CSS_.Net,1,8/24/2020
+001D,JS_HTML_CSS_Java,5,8/24/2020
+001D,Manual Testing,1,8/24/2020
+001D,Mobile Applications,1,8/24/2020
+001D,Selenium,1,8/24/2020
+001D,Selenium Java,4,8/24/2020
+004A,.Net,1,8/24/2020
+004A,Database Technologies,2,8/24/2020
+004A,Database Testing,2,8/24/2020
+004A,Java,1,8/24/2020
+004A,Manual Testing,4,8/24/2020
+004A,Netezza,1,8/24/2020
+004A,SSIS,3,8/24/2020
+004A,Tableau,1,8/24/2020
+004D,Database Technologies,1,8/24/2020
+004D,Database Testing,2,8/24/2020
+004D,HL7,1,8/24/2020
+004D,Informatica,1,8/24/2020
+004D,IOS,1,8/24/2020
+004D,Java,3,8/24/2020
+004D,JS_HTML_CSS_Java,2,8/24/2020
+004D,Manual Testing,3,8/24/2020
+004D,Selenium .NET,1,8/24/2020
+004D,Selenium Java,1,8/24/2020
+004D,SSIS,6,8/24/2020
+005A,Automation Testing,1,8/24/2020
+005A,DevOps,1,8/24/2020
+005A,Embedded Systems,1,8/24/2020
+005A,Java,1,8/24/2020
+005A,JS_HTML_CSS_.Net,1,8/24/2020
+005A,JS_HTML_CSS_Java,2,8/24/2020
+005A,Others,1,8/24/2020
+005A,Selenium,1,8/24/2020
+005A,Selenium .NET,1,8/24/2020
+005A,Selenium Java,2,8/24/2020
+005A,UI,1,8/24/2020
+005B,DevOps,1,8/24/2020
+005B,Others,2,8/24/2020
+005B,Selenium .NET,1,8/24/2020
+005D,Automation Testing,1,8/24/2020
+005D,Embedded Systems,1,8/24/2020
+005D,Selenium .NET,1,8/24/2020
+005D,Selenium Java,3,8/24/2020
+005D,UI,1,8/24/2020
+006A,Java,6,8/24/2020
+006A,Security Testing,1,8/24/2020
+006D,C++,1,8/24/2020
+006D,Java,5,8/24/2020
+006D,Manual Testing,1,8/24/2020
+006D,Mobile Applications,1,8/24/2020
+006D,Selenium Java,2,8/24/2020
+007A,.Net,2,8/24/2020
+007A,JS_HTML_CSS_.Net,1,8/24/2020
+007A,Selenium,1,8/24/2020
+007B,Java,1,8/24/2020
+007D,Automation Testing,2,8/24/2020
+007D,Selenium Java,1,8/24/2020
+008A,Security Testing,2,8/24/2020
+008B,Java,1,8/24/2020
+008D,C++,3,8/24/2020
+009A,Azure,1,8/24/2020
+009A,IOS,1,8/24/2020
+009A,Java,1,8/24/2020
+009A,JS_HTML_CSS_.Net,1,8/24/2020
+009A,Manual Testing,1,8/24/2020
+009A,Selenium,1,8/24/2020
+010B,JS_HTML_CSS_.Net,1,8/24/2020
+010D,.Net,1,8/24/2020
+010D,AWS,3,8/24/2020
+010D,Business Analyst,1,8/24/2020
+011A,.Net,1,8/24/2020
+011A,SSIS,2,8/24/2020
+012A,SSIS,1,8/24/2020
+013A,Java,5,8/24/2020
+013A,JS_HTML_CSS_Java,1,8/24/2020
+014A,Security Testing,1,8/24/2020
+014A,Selenium Java,1,8/24/2020
+015A,Java,1,8/24/2020
+016A,Java,5,8/24/2020
+016A,JS_HTML_CSS_Java,1,8/24/2020
+017A,.Net,3,8/24/2020
+017A,Fullstack .NET,1,8/24/2020
+017A,IOS,3,8/24/2020
+017A,JS_HTML_CSS_.Net,2,8/24/2020
+017A,Mobile Applications,1,8/24/2020
+017A,Selenium Java,1,8/24/2020
+017B,.Net,1,8/24/2020
+018A,.Net,1,8/24/2020
+018A,DevOps,1,8/24/2020
+018A,Business Analyst,1,8/24/2020
+018A,IOS,2,8/24/2020
+018A,Manual Testing,1,8/24/2020
+018A,Mobile Applications,2,8/24/2020
+018A,Security Testing,1,8/24/2020
+018A,Technical Writing,1,8/24/2020
+019A,Angular,1,8/24/2020
+019A,Java,3,8/24/2020
+020A,Python,1,8/24/2020
+020A,Selenium Java,5,8/24/2020
+022A,Selenium .NET,1,8/24/2020
+025A,Business Analyst,1,8/24/2020
+025A,HL7,2,8/24/2020
+025A,SQL Server DBA,1,8/24/2020
+029A,Selenium Java,1,8/24/2020
+043A,.Net,1,8/24/2020
+043A,Fullstack .NET,1,8/24/2020
+043A,JS_HTML_CSS_Java,2,8/24/2020
+043A,Manual Testing,1,8/24/2020
+043A,Mobile Applications,1,8/24/2020
+043A,Selenium .NET,2,8/24/2020
+043A,Selenium Java,2,8/24/2020
+046A,Fullstack Java,1,8/24/2020
+046A,Business Analyst,1,8/24/2020
+046A,Java,5,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,Others,1,8/24/2020
+001A,SSIS,1,8/24/2020
+001B,C++,1,8/24/2020
+001B,SSIS and ETL,1,8/24/2020
+001B,Business Analyst,1,8/24/2020
+001B,Sales,1,8/24/2020
+001B,SQL,1,8/24/2020
+001B,SSAS,1,8/24/2020
+001A,.Net,1,8/24/2020
+001A,AS400,1,8/24/2020
+001A,C++,8,8/24/2020
+001A,IT Management,1,8/24/2020
+001A,Java,3,8/24/2020
+001A,JS_HTML_CSS_Java,1,8/24/2020
+001A,VB-COM,3,8/24/2020
+002A,.Net,11,8/24/2020
+002A,AS400,1,8/24/2020
+002A,AS400 Java,2,8/24/2020
+002A,Automation Testing,6,8/24/2020
+002A,AWS,2,8/24/2020
+002A,C++,8,8/24/2020
+002A,Datastage,1,8/24/2020
+002A,Delphi,3,8/24/2020
+002A,Hadoop,1,8/24/2020
+002A,IOS,3,8/24/2020
+002A,Java,34,8/24/2020
+002A,JS_HTML_CSS_.Net,5,8/24/2020
+002A,JS_HTML_CSS_Java,17,8/24/2020
+002A,Manual Testing,18,8/24/2020
+002A,Others,1,8/24/2020
+002A,Performance Testing,3,8/24/2020
+002A,PS-.Net,1,8/24/2020
+002A,Sales,1,8/24/2020
+002A,Selenium,3,8/24/2020
+002A,Selenium Java,12,8/24/2020
+002A,SSIS,4,8/24/2020
+002A,VB-COM,2,8/24/2020
+003A,Fullstack Java,1,8/24/2020
+003A,Java,3,8/24/2020
+003A,JS_HTML_CSS_Java,2,8/24/2020
+003A,Manual Testing,1,8/24/2020
+003A,Selenium Java,3,8/24/2020
+003A,SSIS,1,8/24/2020
+003B,JS_HTML_CSS_Java,1,8/24/2020
+003B,SQL,1,8/24/2020
+003B,SSAS,1,8/24/2020
+004A,.Net,5,8/24/2020
+004A,Database Testing,1,8/24/2020
+004A,Manual Testing,5,8/24/2020
+004A,Selenium,2,8/24/2020
+004A,Selenium .NET,5,8/24/2020
+004A,Selenium Java,4,8/24/2020
+004A,Technical Writing,1,8/24/2020
+004B,.Net,5,8/24/2020
+004B,AWS,1,8/24/2020
+004B,C++,1,8/24/2020
+004B,Manual Testing,2,8/24/2020
+004B,Selenium Java,1,8/24/2020
+004C,.Net,2,8/24/2020
+004C,Selenium Java,1,8/24/2020
+005A,.Net,1,8/24/2020
+005A,Fullstack Java,1,8/24/2020
+005A,HL7,1,8/24/2020
+005A,Java,5,8/24/2020
+005A,JS_HTML_CSS_Java,1,8/24/2020
+005A,Selenium Java,1,8/24/2020
+005B,Manual Testing,1,8/24/2020
+006A,Java,5,8/24/2020
+006A,Selenium,1,8/24/2020
+008B,JS_HTML_CSS_.Net,2,8/24/2020
+008B,JS_HTML_CSS_Java,1,8/24/2020
+009A,Fullstack Java,2,8/24/2020
+009A,Java,2,8/24/2020
+009A,Selenium Java,1,8/24/2020
+009A,Technical Writing,1,8/24/2020
+010A,Java,4,8/24/2020
+010A,JS_HTML_CSS_Java,4,8/24/2020
+010A,Manual Testing,1,8/24/2020
+010A,Selenium Java,5,8/24/2020
+015A,C++,1,8/24/2020
+015A,Manual Testing,1,8/24/2020
+003B,.Net,1,8/24/2020
+006A,Datastage,1,8/24/2020
+006A,Java,1,8/24/2020
+006A,Manual Testing,1,8/24/2020
+006A,SSIS,2,8/24/2020
+006A,SSRS,1,8/24/2020
+006B,SSAS,1,8/24/2020
+001A,.Net,8,8/24/2020
+001A,Angular,2,8/24/2020
+001A,Automation Testing,2,8/24/2020
+001A,Datastage,5,8/24/2020
+001A,DevOps,9,8/24/2020
+001A,Fullstack Java,4,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,Java,64,8/24/2020
+001A,JS_HTML_CSS_.Net,7,8/24/2020
+001A,JS_HTML_CSS_Java,37,8/24/2020
+001A,Manual Testing,10,8/24/2020
+001A,Performance Engineering,1,8/24/2020
+001A,Performance Testing,2,8/24/2020
+001A,PHP,1,8/24/2020
+001A,Selenium,10,8/24/2020
+001A,Selenium Java,32,8/24/2020
+001A,SQL,1,8/24/2020
+001A,Technical Writing,1,8/24/2020
+002A,AWS,1,8/24/2020
+002A,Java,1,8/24/2020
+002A,JS_HTML_CSS_Java,2,8/24/2020
+1,.Net,3,8/24/2020
+1,AS400,2,8/24/2020
+1,Database Testing,1,8/24/2020
+1,Business Analyst,2,8/24/2020
+1,Java,1,8/24/2020
+1,JS_HTML_CSS_Java,1,8/24/2020
+1,Manual Testing,3,8/24/2020
+1,Others,1,8/24/2020
+1,SSAS,1,8/24/2020
+1,Technical Management,1,8/24/2020
+2,.Net,1,8/24/2020
+2,Technical Management,1,8/24/2020
+3,.Net,17,8/24/2020
+3,AS400,1,8/24/2020
+3,Automation Testing,3,8/24/2020
+3,Datastage,1,8/24/2020
+3,Business Analyst,2,8/24/2020
+3,Java,5,8/24/2020
+3,JS_HTML_CSS_Java,9,8/24/2020
+3,Manual Testing,15,8/24/2020
+3,PS-.Net,1,8/24/2020
+3,Selenium .NET,1,8/24/2020
+3,Selenium Java,1,8/24/2020
+3,SSAS,1,8/24/2020
+3,Technical Management,1,8/24/2020
+4,.Net,4,8/24/2020
+4,Technical Management,2,8/24/2020
+005A,.Net,2,8/24/2020
+005A,AS400,3,8/24/2020
+005A,Automation Testing,2,8/24/2020
+005A,DevOps,1,8/24/2020
+005A,Hadoop,3,8/24/2020
+005A,HL7,4,8/24/2020
+005A,IT Management,1,8/24/2020
+005A,Java,13,8/24/2020
+005A,JS_HTML_CSS_Java,9,8/24/2020
+005A,Manual Testing,6,8/24/2020
+005A,Selenium Java,1,8/24/2020
+005A,Technical Management,1,8/24/2020
+005B,Java,1,8/24/2020
+005B,JS_HTML_CSS_Java,2,8/24/2020
+005D,.Net,1,8/24/2020
+005D,AS400,2,8/24/2020
+005D,DevOps,1,8/24/2020
+005D,Hadoop,1,8/24/2020
+005D,HL7,1,8/24/2020
+005D,Java,6,8/24/2020
+005D,JS_HTML_CSS_Java,2,8/24/2020
+005D,Manual Testing,4,8/24/2020
+005D,Technical Management,1,8/24/2020
+7,.Net,15,8/24/2020
+7,AM-.NET,1,8/24/2020
+7,Automation Testing,2,8/24/2020
+7,Manual Testing,5,8/24/2020
+7,Technical Management,1,8/24/2020
+8,Technical Management,1,8/24/2020
+9,.Net,12,8/24/2020
+9,AS400,9,8/24/2020
+9,Automation Testing,1,8/24/2020
+9,Datastage,1,8/24/2020
+9,Business Analyst,2,8/24/2020
+9,HL7,1,8/24/2020
+9,Java,11,8/24/2020
+9,JS_HTML_CSS_.Net,1,8/24/2020
+9,JS_HTML_CSS_Java,9,8/24/2020
+9,Manual Testing,18,8/24/2020
+9,Recruitment,1,8/24/2020
+9,Selenium,1,8/24/2020
+9,Selenium Java,3,8/24/2020
+9,Technical Management,2,8/24/2020
+10,.Net,1,8/24/2020
+10,Technical Management,2,8/24/2020
+13,.Net,4,8/24/2020
+13,Java,2,8/24/2020
+13,JS_HTML_CSS_.Net,1,8/24/2020
+13,Manual Testing,3,8/24/2020
+14,Technical Management,1,8/24/2020
+016A,.Net,2,8/24/2020
+016A,AS400,1,8/24/2020
+016A,Business Analyst,1,8/24/2020
+016A,Java,9,8/24/2020
+016A,JS_HTML_CSS_Java,5,8/24/2020
+016A,Manual Testing,10,8/24/2020
+016A,Selenium Java,1,8/24/2020
+016B,.Net,1,8/24/2020
+18,AS400,5,8/24/2020
+18,AS400,2,8/24/2020
+18,AS400 MT,3,8/24/2020
+18,Automation Testing,2,8/24/2020
+18,DevOps,1,8/24/2020
+18,Hadoop,1,8/24/2020
+18,Business Analyst,2,8/24/2020
+18,HL7,1,8/24/2020
+18,Java,11,8/24/2020
+18,JS_HTML_CSS_Java,5,8/24/2020
+18,Manual Testing,12,8/24/2020
+18,Netezza,2,8/24/2020
+18,Sales,2,8/24/2020
+18,Selenium .NET,1,8/24/2020
+18,SSAS,1,8/24/2020
+18,Technical Management,2,8/24/2020
+019A,Automation Testing,1,8/24/2020
+019A,Selenium Java,1,8/24/2020
+019A,Technical Management,1,8/24/2020
+019B,.Net,1,8/24/2020
+019B,Automation Testing,1,8/24/2020
+020A,.Net,1,8/24/2020
+020A,Manual Testing,1,8/24/2020
+021A,Automation Testing,1,8/24/2020
+021A,Manual Testing,3,8/24/2020
+021A,Selenium,3,8/24/2020
+021A,Selenium Java,5,8/24/2020
+021B,Automation Testing,1,8/24/2020
+022A,Business Analyst,1,8/24/2020
+022A,HL7,1,8/24/2020
+022A,Java,13,8/24/2020
+022A,JS_HTML_CSS_.Net,1,8/24/2020
+022A,JS_HTML_CSS_Java,10,8/24/2020
+022A,Manual Testing,7,8/24/2020
+022A,Others,1,8/24/2020
+022A,Recruitment,1,8/24/2020
+022A,Selenium Java,1,8/24/2020
+022B,.Net,2,8/24/2020
+022B,JS_HTML_CSS_Java,1,8/24/2020
+022D,HL7,1,8/24/2020
+022D,Java,6,8/24/2020
+022D,JS_HTML_CSS_Java,3,8/24/2020
+022D,Manual Testing,5,8/24/2020
+023B,.Net,2,8/24/2020
+02A,Security Testing,3,8/24/2020
+01A,.Net,1,8/24/2020
+01A,DevOps,1,8/24/2020
+01A,Business Analyst,2,8/24/2020
+01A,IOS,1,8/24/2020
+01A,Java,11,8/24/2020
+01A,JS_HTML_CSS_Java,3,8/24/2020
+01A,Manual Testing,2,8/24/2020
+01A,Scrum Master,1,8/24/2020
+01A,Selenium .NET,1,8/24/2020
+01A,Selenium Java,1,8/24/2020
+02A,Angular,1,8/24/2020
+02A,C++,1,8/24/2020
+02A,Java,1,8/24/2020
+02A,JS_HTML_CSS_Java,3,8/24/2020
+01A,Business Analyst,1,8/24/2020
+01A,Sales,2,8/24/2020
+01B,Sales,1,8/24/2020
+02A,.Net,44,8/24/2020
+02A,Business Analyst,9,8/24/2020
+02A,IOS,1,8/24/2020
+02A,Java,3,8/24/2020
+02A,JS_HTML_CSS_.Net,5,8/24/2020
+02A,Manual Testing,24,8/24/2020
+02A,Selenium .NET,1,8/24/2020
+02A,SSIS,1,8/24/2020
+02A,Technical Management,3,8/24/2020
+02A,Technical Writing,1,8/24/2020
+02B,.Net,5,8/24/2020
+02B,Business Analyst,3,8/24/2020
+02B,JS_HTML_CSS_Java,1,8/24/2020
+02B,Manual Testing,1,8/24/2020
+02B,Sales,1,8/24/2020
+02C,Business Analyst,1,8/24/2020
+02D,.Net,5,8/24/2020
+02D,Java,6,8/24/2020
+02D,JS_HTML_CSS_Java,1,8/24/2020
+02D,Manual Testing,4,8/24/2020
+03A,AS400 Java,1,8/24/2020
+03A,Database Testing,1,8/24/2020
+03A,Hadoop,1,8/24/2020
+03A,Business Analyst,6,8/24/2020
+03A,Java,26,8/24/2020
+03A,JS_HTML_CSS_Java,6,8/24/2020
+03A,Manual Testing,13,8/24/2020
+03A,Oracle DBA,1,8/24/2020
+03A,Sales,1,8/24/2020
+03A,Selenium .NET,1,8/24/2020
+03A,SSAS,1,8/24/2020
+03A,SSIS,1,8/24/2020
+03A,Technical Management,2,8/24/2020
+03A,Technical Writing,1,8/24/2020
+03B,Business Analyst,1,8/24/2020
+03B,Manual Testing,1,8/24/2020
+03B,Sales,1,8/24/2020
+05A,.Net,4,8/24/2020
+05A,Business Analyst,1,8/24/2020
+05A,JS_HTML_CSS_.Net,1,8/24/2020
+05A,Manual Testing,2,8/24/2020
+05A,Technical Management,1,8/24/2020
+01A,HL7,3,8/24/2020
+01A,Mirth,1,8/24/2020
+02A,Automation Testing,1,8/24/2020
+02A,Hadoop,1,8/24/2020
+02A,Java,1,8/24/2020
+02B,HL7,1,8/24/2020
+001,.Net,1,8/24/2020
+001,Database Technologies,1,8/24/2020
+001,JS_HTML_CSS_Java,1,8/24/2020
+001,Manual Testing,5,8/24/2020
+001,Sales,1,8/24/2020
+001,SSAS,2,8/24/2020
+001,SSIS,1,8/24/2020
+001,SSRS,2,8/24/2020
+001,Technical Management,2,8/24/2020
+01B,Mirth,1,8/24/2020
+001A,.Net,17,8/24/2020
+001A,Administration,1,8/24/2020
+001A,C++,1,8/24/2020
+001A,Datastage,3,8/24/2020
+001A,Data Science,1,8/24/2020
+001A,Database Technologies,1,8/24/2020
+001A,Database Testing,1,8/24/2020
+001A,Hadoop,2,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,IT Management,1,8/24/2020
+001A,JS_HTML_CSS_.Net,2,8/24/2020
+001A,JS_HTML_CSS_Java,1,8/24/2020
+001A,Manual Testing,2,8/24/2020
+001A,Oracle DBA,1,8/24/2020
+001A,PL SQL,3,8/24/2020
+001A,SQL,1,8/24/2020
+001A,SSIS,1,8/24/2020
+001B,.Net,1,8/24/2020
+001B,PL SQL,1,8/24/2020
+001A,C++,4,8/24/2020
+001A,DevOps,1,8/24/2020
+001A,Java,4,8/24/2020
+001A,JS_HTML_CSS_Java,1,8/24/2020
+001A,Manual Testing,5,8/24/2020
+001A,Selenium .NET,1,8/24/2020
+001A,Selenium Java,3,8/24/2020
+001B,JS_HTML_CSS_Java,1,8/24/2020
+002A,.Net,1,8/24/2020
+002A,DevOps,1,8/24/2020
+002A,Manual Testing,1,8/24/2020
+002A,Selenium .NET,1,8/24/2020
+002A,Selenium Java,2,8/24/2020
+003A,Automation Testing,1,8/24/2020
+003A,Java,2,8/24/2020
+003A,JS_HTML_CSS_Java,1,8/24/2020
+003A,Manual Testing,1,8/24/2020
+01A,.Net,2,8/24/2020
+01A,Datastage,1,8/24/2020
+01A,Business Analyst,1,8/24/2020
+01A,Manual Testing,1,8/24/2020
+01A,Netezza,1,8/24/2020
+01C,.Net,3,8/24/2020
+01C,Business Analyst,1,8/24/2020
+01C,Manual Testing,1,8/24/2020
+01A,.Net,1,8/24/2020
+01A,Datastage,1,8/24/2020
+01A,Manual Testing,1,8/24/2020
+01A,Performance Testing,1,8/24/2020
+01A,Security Testing,1,8/24/2020
+014A,.Net,5,8/24/2020
+014A,Azure DevOps,1,8/24/2020
+014A,Database Testing,1,8/24/2020
+014A,Fullstack .NET,1,8/24/2020
+014A,JS_HTML_CSS_.Net,3,8/24/2020
+014A,Manual Testing,1,8/24/2020
+01A,.Net,3,8/24/2020
+01A,C++,3,8/24/2020
+01A,Manual Testing,1,8/24/2020
+01A,Mirth,1,8/24/2020
+02A,.Net,5,8/24/2020
+02A,Cold Fusion,6,8/24/2020
+02A,JS_HTML_CSS_.Net,1,8/24/2020
+02A,JS_HTML_CSS_Java,1,8/24/2020
+02A,Manual Testing,8,8/24/2020
+02A,Mirth,1,8/24/2020
+02A,Selenium,1,8/24/2020
+02A,Selenium .NET,1,8/24/2020
+02A,Selenium Java,1,8/24/2020
+02B,.Net,1,8/24/2020
+02B,C++,1,8/24/2020
+03A,.Net,13,8/24/2020
+03A,C++,3,8/24/2020
+03A,Datastage,2,8/24/2020
+03A,Database Testing,1,8/24/2020
+03A,Business Analyst,5,8/24/2020
+03A,IOS,1,8/24/2020
+03A,JS_HTML_CSS_.Net,3,8/24/2020
+03A,Manual Testing,12,8/24/2020
+03A,Others,1,8/24/2020
+03A,Selenium,1,8/24/2020
+03A,Selenium .NET,2,8/24/2020
+03A,UX,1,8/24/2020
+03B,C++,1,8/24/2020
+03B,Manual Testing,1,8/24/2020
+04A,.Net,22,8/24/2020
+04A,Datastage,2,8/24/2020
+04A,Database Testing,1,8/24/2020
+04A,Business Analyst,3,8/24/2020
+04A,JS_HTML_CSS_.Net,10,8/24/2020
+04A,Manual Testing,12,8/24/2020
+04A,Others,1,8/24/2020
+04A,Selenium,2,8/24/2020
+04A,Selenium .NET,4,8/24/2020
+04A,Selenium Java,1,8/24/2020
+04B,.Net,1,8/24/2020
+04B,JS_HTML_CSS_.Net,1,8/24/2020
+05A,.Net,18,8/24/2020
+05A,Database Testing,1,8/24/2020
+05A,JS_HTML_CSS_.Net,8,8/24/2020
+05A,Manual Testing,7,8/24/2020
+05A,SQL,1,8/24/2020
+05A,SSIS,5,8/24/2020
+05A,SSRS,3,8/24/2020
+05A,Tableau,2,8/24/2020
+05B,HL7,1,8/24/2020
+06A,Data Science,1,8/24/2020
+06A,JS_HTML_CSS_Java,1,8/24/2020
+06A,Manual Testing,3,8/24/2020
+06A,PowerBI,4,8/24/2020
+06A,Selenium Java,1,8/24/2020
+06A,SQL,2,8/24/2020
+06A,SSIS,3,8/24/2020
+06A,Systems and Networking,1,8/24/2020
+06A,Tableau,17,8/24/2020
+07A,Mobile Applications,1,8/24/2020
+07A,SSIS,1,8/24/2020
+08A,.Net,6,8/24/2020
+08A,Datastage,3,8/24/2020
+08A,Fullstack .NET,1,8/24/2020
+08A,JS_HTML_CSS_.Net,4,8/24/2020
+08A,Manual Testing,3,8/24/2020
+08A,Others,1,8/24/2020
+08A,Selenium .NET,1,8/24/2020
+08A,UX,1,8/24/2020
+09A,Others,2,8/24/2020
+09A,SSIS,3,8/24/2020
+09A,SSRS,1,8/24/2020
+10A,.Net,9,8/24/2020
+10A,Azure DevOps,1,8/24/2020
+10A,Database Testing,1,8/24/2020
+10A,Business Analyst,1,8/24/2020
+10A,JS_HTML_CSS_.Net,6,8/24/2020
+10A,Manual Testing,4,8/24/2020
+10A,Others,1,8/24/2020
+10B,.Net,1,8/24/2020
+11A,.Net,2,8/24/2020
+11A,JS_HTML_CSS_.Net,1,8/24/2020
+11A,SSIS,1,8/24/2020
+12A,.Net,3,8/24/2020
+12A,JS_HTML_CSS_.Net,1,8/24/2020
+12A,Manual Testing,2,8/24/2020
+12A,Mirth,1,8/24/2020
+12A,Selenium Java,1,8/24/2020
+13A,Others,2,8/24/2020
+001A,.Net,10,8/24/2020
+001A,Database Testing,1,8/24/2020
+001A,HL7,3,8/24/2020
+001A,Manual Testing,6,8/24/2020
+001A,Mirth,1,8/24/2020
+002A,.Net,21,8/24/2020
+002A,Classic ASP,2,8/24/2020
+002A,JS_HTML_CSS_.Net,4,8/24/2020
+002A,Manual Testing,11,8/24/2020
+002A,Mirth,1,8/24/2020
+002A,Mobile Applications,1,8/24/2020
+002A,Performance Testing,4,8/24/2020
+002A,Selenium .NET,5,8/24/2020
+002A,Selenium Java,11,8/24/2020
+002A,Sharepoint,1,8/24/2020
+002A,SQL,1,8/24/2020
+003A,.Net,31,8/24/2020
+003A,Cold Fusion,1,8/24/2020
+003A,Data Science,2,8/24/2020
+003A,Delphi,2,8/24/2020
+003A,Java,4,8/24/2020
+003A,JS_HTML_CSS_.Net,7,8/24/2020
+003A,JS_HTML_CSS_Java,1,8/24/2020
+003A,Manual Testing,16,8/24/2020
+003A,Oracle forms,2,8/24/2020
+003A,Others,5,8/24/2020
+003A,Performance Testing,8,8/24/2020
+003A,Security Testing,1,8/24/2020
+003A,Selenium,1,8/24/2020
+003A,Selenium .NET,8,8/24/2020
+003A,Selenium Java,9,8/24/2020
+003A,SSRS,1,8/24/2020
+003B,.Net,3,8/24/2020
+003B,Oracle Cloud,1,8/24/2020
+003B,SQL,1,8/24/2020
+004A,.Net,8,8/24/2020
+004A,Java,1,8/24/2020
+004A,JS_HTML_CSS_.Net,1,8/24/2020
+004A,Manual Testing,4,8/24/2020
+004A,Oracle forms,1,8/24/2020
+004A,Selenium Java,1,8/24/2020
+004A,SSRS,1,8/24/2020
+004B,Oracle Cloud,1,8/24/2020
+004B,SQL,1,8/24/2020
+005A,.Net,6,8/24/2020
+005A,HL7,3,8/24/2020
+005A,Manual Testing,2,8/24/2020
+005A,Mirth,1,8/24/2020
+005A,Performance Testing,1,8/24/2020
+005A,SSIS,1,8/24/2020
+005A,SSRS,1,8/24/2020
+005B,.Net,1,8/24/2020
+005B,SQL Server DBA,1,8/24/2020
+006A,.Net,16,8/24/2020
+006A,Fullstack .NET,2,8/24/2020
+006A,Business Analyst,1,8/24/2020
+006A,JS_HTML_CSS_.Net,5,8/24/2020
+006A,JS_HTML_CSS_Java,2,8/24/2020
+006A,Manual Testing,3,8/24/2020
+006A,Others,1,8/24/2020
+006A,Performance Testing,3,8/24/2020
+006A,Selenium .NET,11,8/24/2020
+006A,Selenium Java,4,8/24/2020
+006B,.Net,2,8/24/2020
+006B,SQL Server DBA,1,8/24/2020
+008A,.Net,8,8/24/2020
+008A,Data Science,1,8/24/2020
+008A,Java,5,8/24/2020
+008A,Manual Testing,9,8/24/2020
+008A,Others,7,8/24/2020
+008A,Performance Testing,5,8/24/2020
+008A,Selenium .NET,3,8/24/2020
+008A,Selenium Java,3,8/24/2020
+008B,.Net,1,8/24/2020
+011A,.Net,10,8/24/2020
+011A,AWS DevOps,1,8/24/2020
+011A,Cold Fusion,2,8/24/2020
+011A,DevOps,1,8/24/2020
+011A,Fullstack .NET,1,8/24/2020
+011A,Fullstack Java,1,8/24/2020
+011A,HL7,1,8/24/2020
+011A,JS_HTML_CSS_.Net,6,8/24/2020
+011A,Manual Testing,2,8/24/2020
+011A,Mobile Applications,3,8/24/2020
+011A,Scrum Master,1,8/24/2020
+011A,Selenium .NET,7,8/24/2020
+011A,Selenium Java,3,8/24/2020
+011A,Tableau,2,8/24/2020
+011A,Technical Writing,1,8/24/2020
+011B,Tableau,1,8/24/2020
+012A,Performance Testing,3,8/24/2020
+013A,.Net,3,8/24/2020
+013A,JS_HTML_CSS_.Net,1,8/24/2020
+013A,Manual Testing,1,8/24/2020
+014A,Manual Testing,1,8/24/2020
+014B,Oracle forms,1,8/24/2020
+014B,Oracle Web Center,1,8/24/2020
+014B,SQL,1,8/24/2020
+015A,.Net,2,8/24/2020
+015A,JS_HTML_CSS_.Net,2,8/24/2020
+015A,Manual Testing,1,8/24/2020
+016A,.Net,6,8/24/2020
+016A,JS_HTML_CSS_.Net,2,8/24/2020
+016A,Manual Testing,2,8/24/2020
+016A,Selenium Java,2,8/24/2020
+016A,SSRS,1,8/24/2020
+017A,Java,1,8/24/2020
+018A,Manual Testing,1,8/24/2020
+018A,Selenium Java,1,8/24/2020
+030A,.Net,35,8/24/2020
+030A,Classic ASP,2,8/24/2020
+030A,Fullstack .NET,3,8/24/2020
+030A,IOS,1,8/24/2020
+030A,JS_HTML_CSS_.Net,10,8/24/2020
+030A,Manual Testing,17,8/24/2020
+030A,Mobile Applications,2,8/24/2020
+030A,Performance Testing,1,8/24/2020
+030A,Selenium .NET,12,8/24/2020
+030A,Selenium Java,14,8/24/2020
+030A,Sharepoint,1,8/24/2020
+030A,SQL,1,8/24/2020
+037A,Selenium .NET,2,8/24/2020
+037A,Selenium Java,3,8/24/2020
+038A,.Net,5,8/24/2020
+038A,JS_HTML_CSS_.Net,2,8/24/2020
+038A,Manual Testing,1,8/24/2020
+039A,Mobile Applications,3,8/24/2020
+039A,Selenium .NET,1,8/24/2020
+039A,Selenium Java,1,8/24/2020
+040A,AWS DevOps,1,8/24/2020
+040A,DevOps,1,8/24/2020
+041A,.Net,2,8/24/2020
+041A,Cold Fusion,1,8/24/2020
+041A,Fullstack .NET,1,8/24/2020
+041A,JS_HTML_CSS_.Net,3,8/24/2020
+041A,Scrum Master,1,8/24/2020
+041A,Selenium .NET,4,8/24/2020
+042A,JS_HTML_CSS_.Net,4,8/24/2020
+042A,JS_HTML_CSS_Java,1,8/24/2020
+043A,Manual Testing,1,8/24/2020
+043A,Selenium .NET,2,8/24/2020
+044A,.Net,1,8/24/2020
+044A,Fullstack .NET,1,8/24/2020
+044A,JS_HTML_CSS_.Net,2,8/24/2020
+044A,Manual Testing,1,8/24/2020
+044A,Performance Testing,1,8/24/2020
+044A,Selenium .NET,1,8/24/2020
+045A,.Net,5,8/24/2020
+045A,HL7,4,8/24/2020
+045A,SSIS,1,8/24/2020
+045A,SSRS,1,8/24/2020
+045A,Tableau,1,8/24/2020
+045B,.Net,1,8/24/2020
+045B,SQL Server DBA,1,8/24/2020
+046A,Selenium .NET,2,8/24/2020
+1,.Net,8,8/24/2020
+1,AM-.NET,1,8/24/2020
+1,C++,1,8/24/2020
+1,DevOps,1,8/24/2020
+1,Manual Testing,4,8/24/2020
+1,PS-.Net,2,8/24/2020
+2,JS_HTML_CSS_.Net,1,8/24/2020
+1,Sales,1,8/24/2020
+1,Technical Management,1,8/24/2020
+2,.Net,1,8/24/2020
+2,AS400,1,8/24/2020
+2,Business Analyst,1,8/24/2020
+2,Manual Testing,1,8/24/2020
+2,Sales,1,8/24/2020
+2,SQL,1,8/24/2020
+2,SQL Server DBA,1,8/24/2020
+2,SSAS,3,8/24/2020
+2,SSIS,2,8/24/2020
+2,SSRS,1,8/24/2020
+2,Technical Management,1,8/24/2020
+1,Administration,1,8/24/2020
+1,Data Entry,3,8/24/2020
+1,Finance,1,8/24/2020
+1,HL7,2,8/24/2020
+1,Manual Testing,1,8/24/2020
+001B,.Net,1,8/24/2020
+001B,Hadoop,3,8/24/2020
+001B,JS_HTML_CSS_.Net,1,8/24/2020
+001B,Manual Testing,1,8/24/2020
+001B,Sharepoint,1,8/24/2020
+001B,SQL,1,8/24/2020
+001B,SSAS,2,8/24/2020
+001B,SSIS,3,8/24/2020
+001B,SSRS,1,8/24/2020
+002A,.Net,1,8/24/2020
+002A,Data Science,1,8/24/2020
+002A,Hadoop,5,8/24/2020
+002A,Informatica,1,8/24/2020
+006A,Data Science,2,8/24/2020
+006A,Database Testing,1,8/24/2020
+006A,Hadoop,6,8/24/2020
+006A,Manual Testing,2,8/24/2020
+007B,Hadoop,1,8/24/2020
+01A,Business Analyst,1,8/24/2020
+02B,Business Analyst,1,8/24/2020
+03B,Data Science,1,8/24/2020
+03B,Business Analyst,4,8/24/2020
+03B,Product Management,1,8/24/2020
+001A,.Net,6,8/24/2020
+001A,Fullstack Java,1,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,Selenium,1,8/24/2020
+001A,Selenium Java,1,8/24/2020
+001A,SSIS,1,8/24/2020
+001A,Technical Management,1,8/24/2020
+002A,.Net,1,8/24/2020
+002A,Fullstack Java,1,8/24/2020
+002A,Business Analyst,1,8/24/2020
+002A,HL7,1,8/24/2020
+002A,Java,6,8/24/2020
+002A,JS_HTML_CSS_Java,1,8/24/2020
+002A,Manual Testing,2,8/24/2020
+2,HL7,1,8/24/2020
+12,.Net,2,8/24/2020
+12,AM-.NET,1,8/24/2020
+12,JS_HTML_CSS_Java,1,8/24/2020
+12,Technical Management,2,8/24/2020
+15,.Net,3,8/24/2020
+15,JS_HTML_CSS_.Net,1,8/24/2020
+15,PS-.Net,3,8/24/2020
+15,Technical Management,1,8/24/2020
+16,.Net,1,8/24/2020
+16,AM-.NET,1,8/24/2020
+16,SSIS,1,8/24/2020
+17,.Net,11,8/24/2020
+17,AM-.NET,2,8/24/2020
+17,C++,1,8/24/2020
+17,Manual Testing,4,8/24/2020
+17,Sales,1,8/24/2020
+17,Technical Management,2,8/24/2020
+18,Sales,1,8/24/2020
+20,.Net,1,8/24/2020
+20,AM-.NET,2,8/24/2020
+20,Business Analyst,1,8/24/2020
+20,Sales,2,8/24/2020
+20,Technical Management,2,8/24/2020
+21,.Net,1,8/24/2020
+21,AM-.NET,2,8/24/2020
+21,Manual Testing,2,8/24/2020
+21,PS-.Net,1,8/24/2020
+22,.Net,1,8/24/2020
+22,AM-.NET,1,8/24/2020
+22,Sales,1,8/24/2020
+22,Technical Management,1,8/24/2020
+23,.Net,1,8/24/2020
+23,AM-.NET,1,8/24/2020
+23,SQL,1,8/24/2020
+23,Systems and Networking,4,8/24/2020
+25,AM-.NET,1,8/24/2020
+25,Technical Management,1,8/24/2020
+26,.Net,3,8/24/2020
+27,.Net,1,8/24/2020
+28,.Net,2,8/24/2020
+28,Manual Testing,1,8/24/2020
+01B,Business Analyst,1,8/24/2020
+01B,Sales,1,8/24/2020
+02A,HL7,1,8/24/2020
+02B,AS400,1,8/24/2020
+02B,C++,1,8/24/2020
+02B,Java,1,8/24/2020
+02B,JS_HTML_CSS_Java,1,8/24/2020
+02B,Manual Testing,2,8/24/2020
+02A,Datastage,1,8/24/2020
+02B,.Net,1,8/24/2020
+02B,SSRS,1,8/24/2020
+01A,Java,2,8/24/2020
+05B,Java,1,8/24/2020
+01A,.Net,49,8/24/2020
+01A,Automation Testing,9,8/24/2020
+01A,AWS,1,8/24/2020
+01A,AWS DevOps,1,8/24/2020
+01A,Azure DevOps,1,8/24/2020
+01A,Business Analyst,5,8/24/2020
+01A,IOS,1,8/24/2020
+01A,JS_HTML_CSS_.Net,13,8/24/2020
+01A,Manual Testing,37,8/24/2020
+01A,Security Testing,2,8/24/2020
+01A,Selenium,3,8/24/2020
+01A,Selenium .NET,3,8/24/2020
+01A,Selenium Java,2,8/24/2020
+01A,SSRS,1,8/24/2020
+01A,Technical Management,2,8/24/2020
+01A,VB-COM,7,8/24/2020
+01B,.Net,6,8/24/2020
+01B,Business Analyst,2,8/24/2020
+01B,Manual Testing,5,8/24/2020
+01B,Selenium .NET,1,8/24/2020
+01B,SSAS,3,8/24/2020
+01B,SSIS,1,8/24/2020
+01B,VB-COM,1,8/24/2020
+01C,.Net,2,8/24/2020
+01C,JS_HTML_CSS_.Net,2,8/24/2020
+01C,Manual Testing,2,8/24/2020
+01C,Selenium .NET,1,8/24/2020
+01D,.Net,1,8/24/2020
+01D,JS_HTML_CSS_.Net,1,8/24/2020
+01D,Manual Testing,2,8/24/2020
+01E,.Net,1,8/24/2020
+02A,AS400,1,8/24/2020
+02A,Database Testing,3,8/24/2020
+02A,Informatica,1,8/24/2020
+02A,Manual Testing,1,8/24/2020
+02A,SQL,1,8/24/2020
+02A,SSAS,3,8/24/2020
+02A,SSIS,2,8/24/2020
+03A,.Net,21,8/24/2020
+03A,AWS DevOps,1,8/24/2020
+03A,Azure DevOps,1,8/24/2020
+03A,JS_HTML_CSS_.Net,2,8/24/2020
+03A,Manual Testing,8,8/24/2020
+03B,.Net,1,8/24/2020
+03B,AWS DevOps,1,8/24/2020
+03B,Azure DevOps,1,8/24/2020
+04A,.Net,10,8/24/2020
+04A,Automation Testing,2,8/24/2020
+04A,Azure DevOps,1,8/24/2020
+04A,Business Analyst,1,8/24/2020
+04A,JS_HTML_CSS_.Net,1,8/24/2020
+04A,Manual Testing,7,8/24/2020
+04A,Selenium Java,1,8/24/2020
+04B,Business Analyst,1,8/24/2020
+05A,Automation Testing,1,8/24/2020
+05A,Java,5,8/24/2020
+06A,.Net,34,8/24/2020
+06A,Automation Testing,1,8/24/2020
+06A,AWS,1,8/24/2020
+06A,Business Analyst,1,8/24/2020
+06A,HL7,1,8/24/2020
+06A,JS_HTML_CSS_.Net,3,8/24/2020
+06A,Manual Testing,20,8/24/2020
+06A,Python,1,8/24/2020
+06A,Security Testing,1,8/24/2020
+06A,Selenium,2,8/24/2020
+06A,Selenium .NET,2,8/24/2020
+06A,SSRS,1,8/24/2020
+07A,Database Testing,5,8/24/2020
+07A,Manual Testing,3,8/24/2020
+07A,Selenium,1,8/24/2020
+07A,SQL,1,8/24/2020
+07A,SSAS,1,8/24/2020
+07A,SSIS,3,8/24/2020
+08A,.Net,23,8/24/2020
+08A,Automation Testing,2,8/24/2020
+08A,AWS,1,8/24/2020
+08A,Business Analyst,1,8/24/2020
+08A,HL7,1,8/24/2020
+08A,Java,3,8/24/2020
+08A,JS_HTML_CSS_.Net,3,8/24/2020
+08A,Manual Testing,14,8/24/2020
+08A,Selenium .NET,1,8/24/2020
+08A,Selenium Java,1,8/24/2020
+08B,.Net,1,8/24/2020
+08B,JS_HTML_CSS_.Net,1,8/24/2020
+09A,.Net,17,8/24/2020
+09A,Automation Testing,1,8/24/2020
+09A,AWS DevOps,1,8/24/2020
+09A,Azure DevOps,1,8/24/2020
+09A,JS_HTML_CSS_.Net,2,8/24/2020
+09A,Manual Testing,6,8/24/2020
+10A,.Net,4,8/24/2020
+10A,Automation Testing,1,8/24/2020
+10A,IOS,2,8/24/2020
+10A,Java,6,8/24/2020
+10A,JS_HTML_CSS_.Net,1,8/24/2020
+10A,Manual Testing,2,8/24/2020
+10A,Mobile Applications,1,8/24/2020
+10A,Selenium Java,1,8/24/2020
+11A,.Net,4,8/24/2020
+11A,IOS,2,8/24/2020
+11A,Java,5,8/24/2020
+11A,JS_HTML_CSS_.Net,1,8/24/2020
+11A,Manual Testing,2,8/24/2020
+11A,Mobile Applications,1,8/24/2020
+12A,.Net,1,8/24/2020
+12A,Selenium,1,8/24/2020
+12B,HL7,1,8/24/2020
+13A,Technical Writing,1,8/24/2020
+01A,AWS,1,8/24/2020
+01A,Java,2,8/24/2020
+01A,Manual Testing,2,8/24/2020
+01B,Java,1,8/24/2020
+02B,DevOps,1,8/24/2020
+03B,SSIS,1,8/24/2020
+001,.Net,1,8/24/2020
+001,JS_HTML_CSS_.Net,1,8/24/2020
+001,Manual Testing,1,8/24/2020
+001,PS-.Net,1,8/24/2020
+002,.Net,2,8/24/2020
+002,HL7,1,8/24/2020
+002,Java,1,8/24/2020
+002,Manual Testing,1,8/24/2020
+002,PS-.Net,1,8/24/2020
+002,Sales,2,8/24/2020
+003,.Net,1,8/24/2020
+004,Sales,1,8/24/2020
+005,.Net,3,8/24/2020
+005,Business Analyst,1,8/24/2020
+005,Manual Testing,1,8/24/2020
+005,SSIS,1,8/24/2020
+005,.Net,2,8/24/2020
+005,C++,4,8/24/2020
+005,Manual Testing,4,8/24/2020
+05A,Technical Writing,1,8/24/2020
+001,C++,1,8/24/2020
+001,Manual Testing,1,8/24/2020
+001,Technical Management,1,8/24/2020
+001,.Net,5,8/24/2020
+001,Manual Testing,5,8/24/2020
+001,Sales,2,8/24/2020
+001,SQL Server DBA,1,8/24/2020
+001,SSIS,1,8/24/2020
+01A,Manual Testing,3,8/24/2020
+01B,Manual Testing,1,8/24/2020
+001A,Hadoop,2,8/24/2020
+001A,Business Analyst,1,8/24/2020
+001A,IOS,2,8/24/2020
+001A,Java,1,8/24/2020
+001A,JS_HTML_CSS_Java,1,8/24/2020
+001A,Manual Testing,3,8/24/2020
+001A,Mobile Applications,1,8/24/2020
+001B,Python,1,8/24/2020
+001B,SSAS,1,8/24/2020
+001A,Datastage,1,8/24/2020
+001A,Data Science,2,8/24/2020
+001A,Java,2,8/24/2020
+001A,UX,2,8/24/2020
+01A,.Net,1,8/24/2020
+01A,IT Management,1,8/24/2020
+01A,Security Testing,2,8/24/2020
+02A,.Net,11,8/24/2020
+02A,AM-.NET,1,8/24/2020
+02A,Automation Testing,3,8/24/2020
+02A,JS_HTML_CSS_.Net,2,8/24/2020
+02A,Manual Testing,6,8/24/2020
+02A,Selenium,1,8/24/2020
+02A,Selenium .NET,1,8/24/2020
+02C,AM-.NET,1,8/24/2020
+001A,Java,1,8/24/2020
+001A,SSIS,1,8/24/2020
+001C,Hadoop,1,8/24/2020
+001C,Business Analyst,1,8/24/2020
+001C,Java,1,8/24/2020
+002A,AWS,1,8/24/2020
+002A,Azure,2,8/24/2020
+002A,Database Testing,3,8/24/2020
+002A,Datastage,5,8/24/2020
+002A,Hadoop,7,8/24/2020
+002A,Business Analyst,2,8/24/2020
+002A,Java,3,8/24/2020
+002A,Manual Testing,2,8/24/2020
+002A,SQL,1,8/24/2020
+002A,SSIS,4,8/24/2020
+002B,Hadoop,1,8/24/2020
+002B,Business Analyst,1,8/24/2020
+002B,Java,1,8/24/2020
+003A,Datastage,1,8/24/2020
+004D,Hadoop,3,8/24/2020
+005A,Automation Testing,1,8/24/2020
+005A,Business Analyst,2,8/24/2020
+005A,Java,1,8/24/2020
+005A,Manual Testing,1,8/24/2020
+005A,Selenium Java,3,8/24/2020
+005B,Automation Testing,1,8/24/2020
+005B,Others,1,8/24/2020
+06A,Business Analyst,1,8/24/2020
+06A,Java,2,8/24/2020
+06A,Manual Testing,1,8/24/2020
+06A,Selenium Java,8,8/24/2020
+06B,Automation Testing,1,8/24/2020
+06B,Selenium,1,8/24/2020
+06B,Selenium Java,2,8/24/2020
+07A,Cloud Computing,1,8/24/2020
+07A,Business Analyst,2,8/24/2020
+07A,JS_HTML_CSS_Java,1,8/24/2020
+07A,Manual Testing,1,8/24/2020
+07A,Others,5,8/24/2020
+07A,Selenium Java,1,8/24/2020
+07B,Business Analyst,2,8/24/2020
+08A,Java,1,8/24/2020
+10A,Datastage,1,8/24/2020
+10B,Business Analyst,2,8/24/2020
+11B,Business Analyst,1,8/24/2020
+12A,Data Science,4,8/24/2020
+12A,Datastage,1,8/24/2020
+12A,Business Analyst,1,8/24/2020
+12A,Informatica,1,8/24/2020
+12A,Java,1,8/24/2020
+12A,Security Testing,1,8/24/2020
+12B,Data Science,2,8/24/2020
+12B,Business Analyst,2,8/24/2020
+13A,Datastage,1,8/24/2020
+13A,Business Analyst,1,8/24/2020
+13A,Manual Testing,1,8/24/2020
+13A,Performance Engineering,1,8/24/2020
+13B,Business Analyst,1,8/24/2020
+9B,Business Analyst,7,8/24/2020
+001A,AWS DevOps,1,8/24/2020
+001A,Azure,1,8/24/2020
+001A,Database Testing,2,8/24/2020
+001A,DevOps,2,8/24/2020
+001A,Fullstack Java,1,8/24/2020
+001A,HL7,1,8/24/2020
+001A,JS_HTML_CSS_.Net,1,8/24/2020
+001A,JS_HTML_CSS_Java,2,8/24/2020
+001A,Python,5,8/24/2020
+001A,Ruby on Rails,1,8/24/2020
+001A,Selenium Java,5,8/24/2020
+001A,UI,1,8/24/2020
+001B,Cloverleaf,1,8/24/2020
+001B,HL7,1,8/24/2020
+001B,Python,1,8/24/2020
+001B,Selenium Java,1,8/24/2020
+002B,Python,1,8/24/2020
+002B,Selenium Java,1,8/24/2020
+024A,Automation Testing,2,8/24/2020
+024A,Selenium Java,1,8/24/2020
+27,.Net,5,8/24/2020
+27,JS_HTML_CSS_.Net,1,8/24/2020
+27,Manual Testing,1,8/24/2020
+27,PS-.Net,1,8/24/2020
+27,Technical Management,1,8/24/2020
+01B,Sales,1,8/24/2020
+01B,SSAS,1,8/24/2020
+01C,Business Analyst,1,8/24/2020
+01C,Technical Management,1,8/24/2020
+02B,Sales,1,8/24/2020
+02C,Business Analyst,2,8/24/2020
+02C,Informatica,1,8/24/2020
+03A,Business Analyst,1,8/24/2020
+03A,Informatica,1,8/24/2020
+03B,Business Analyst,3,8/24/2020
+03B,Informatica,1,8/24/2020
+03B,Mirth,1,8/24/2020
+03B,Sales,1,8/24/2020
+03B,Selenium .NET,1,8/24/2020
+03C,Business Analyst,2,8/24/2020
+03C,Informatica,1,8/24/2020
+03C,Sales,1,8/24/2020
+04B,AS400,1,8/24/2020
+04B,Java,1,8/24/2020
+05B,Manual Testing,1,8/24/2020
+06A,.Net,3,8/24/2020
+06A,Database Testing,1,8/24/2020
+06A,Manual Testing,1,8/24/2020
+06A,Others,3,8/24/2020
+06A,SQL,1,8/24/2020
+06A,SSIS,1,8/24/2020
+06A,Technical Management,1,8/24/2020
+06B,.Net,2,8/24/2020
+06B,C++,1,8/24/2020
+06B,DevOps,1,8/24/2020
+01A,Automation Testing,4,8/24/2020
+01A,Database Testing,1,8/24/2020
+01A,Manual Testing,1,8/24/2020
+01A,Selenium,1,8/24/2020
+01A,Selenium Java,3,8/24/2020
+01B,Automation Testing,1,8/24/2020
+02A,.Net,9,8/24/2020
+02A,Datastage,5,8/24/2020
+02A,DevOps,1,8/24/2020
+02A,Fullstack .NET,1,8/24/2020
+02A,JS_HTML_CSS_.Net,6,8/24/2020
+02A,JS_HTML_CSS_Java,1,8/24/2020
+02A,Manual Testing,4,8/24/2020
+02A,Selenium,4,8/24/2020
+02A,Selenium Java,5,8/24/2020
+02A,UX,2,8/24/2020
+01A,Ab Initio,1,8/24/2020
+01A,Azure,2,8/24/2020
+01A,Data Science,6,8/24/2020
+01A,Database Testing,2,8/24/2020
+01A,Fullstack Java,1,8/24/2020
+01A,Business Analyst,5,8/24/2020
+01A,Java,5,8/24/2020
+01A,Manual Testing,3,8/24/2020
+01A,PowerBI,1,8/24/2020
+01A,Security Testing,3,8/24/2020
+01A,Selenium Java,1,8/24/2020
+01A,SQL Server DBA,1,8/24/2020
+01A,SSIS,1,8/24/2020
+01A,Statistical Analysis,1,8/24/2020
+01B,Business Analyst,1,8/24/2020
+02A,Business Analyst,1,8/24/2020
+02A,Manual Testing,1,8/24/2020
+02B,Business Analyst,4,8/24/2020
+01A,Database Testing,1,8/24/2020
+01A,HL7,1,8/24/2020
+01A,Manual Testing,1,8/24/2020
+01A,Security Testing,2,8/24/2020
+01A,SSIS,2,8/24/2020
+01A,Systems and Networking,1,8/24/2020
+01B,.Net,1,8/24/2020
+01A,.Net,2,8/24/2020
+01A,Datastage,4,8/24/2020
+01A,HL7,1,8/24/2020
+01A,IOS,3,8/24/2020
+01A,Java,1,8/24/2020
+01A,Manual Testing,2,8/24/2020
+01A,Mobile Applications,2,8/24/2020
+01A,Performance Testing,3,8/24/2020
+01A,Security Testing,2,8/24/2020
+01A,UX,1,8/24/2020
+01B,HL7,1,8/24/2020
+001,.Net,2,8/24/2020
+001,AM-.NET,1,8/24/2020
+001,C++,1,8/24/2020
+001,Manual Testing,1,8/24/2020
+001,Sales,2,8/24/2020
+001,SQL,1,8/24/2020
+001,SSIS,1,8/24/2020
+001,Technical Management,1,8/24/2020
+002,.Net,1,8/24/2020
+002,AM-.NET,1,8/24/2020
+002,SSIS,1,8/24/2020
+002,Technical Management,1,8/24/2020
+001,Product Management,1,8/24/2020
+001,Sales,1,8/24/2020
+02A,Azure,1,8/24/2020
+02A,Hadoop,3,8/24/2020
+02A,Informatica,1,8/24/2020
+02A,Security Testing,1,8/24/2020
+02A,Selenium .NET,1,8/24/2020
+001A,Others,1,8/24/2020
+001B,SSIS and ETL,1,8/24/2020
